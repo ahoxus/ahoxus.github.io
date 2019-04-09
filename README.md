@@ -1,1 +1,1 @@
-# go to [ahoxus]({{site.baseurl}})
+# go to [ahoxus](https://ahoxus.org)
