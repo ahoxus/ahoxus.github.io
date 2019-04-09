@@ -3,7 +3,7 @@ permalink: /sitemap/
 layout: page
 title: sitemap
 hidden: true
-menu: false
+menu: true
 ---
 
 {% for page in site.pages %}
