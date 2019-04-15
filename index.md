@@ -116,52 +116,6 @@ published: true
           </g>
         </g>
       </g>
-      <path
-         id="path54"
-         style="fill:none;stroke:#9e34e1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2973,1080 c 351.25,0 636,253.86 636,567 0,313.14 -284.75,567 -636,567 -351.25,0 -636,-253.86 -636,-567 0,-313.14 284.75,-567 636,-567 z" />
-      <path
-         id="path56"
-         style="fill:none;stroke:#ffdc16;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2976,1068 c 369.48,0 669,251.17 669,561 0,309.83 -299.52,561 -669,561 -369.48,0 -669,-251.17 -669,-561 0,-309.83 299.52,-561 669,-561 z" />
-      <path
-         id="path58"
-         style="fill:none;stroke:#66fff1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2985,1116 c 364.51,0 660,243.11 660,543 0,299.89 -295.49,543 -660,543 -364.51,0 -660,-243.11 -660,-543 0,-299.89 295.49,-543 660,-543 z" />
-      <path
-         id="path60"
-         style="fill:none;stroke:#ff4223;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2976,1116 c 369.48,0 669,240.42 669,537 0,296.58 -299.52,537 -669,537 -369.48,0 -669,-240.42 -669,-537 0,-296.58 299.52,-537 669,-537 z" />
-      <path
-         id="path62"
-         style="fill:none;stroke:#9e34e1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2690.04,2094.99 c -301.27,-181.03 -414.78,-545.34 -253.52,-813.71 161.26,-268.38 536.21,-339.198 837.49,-158.17 301.27,181.02 414.78,545.33 253.52,813.71 -161.26,268.38 -536.21,339.19 -837.49,158.17 z" />
-      <path
-         id="path64"
-         style="fill:none;stroke:#ffdc16;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2681.88,2102.68 c -317.05,-190.5 -444.59,-560.43 -284.88,-826.25 159.73,-265.82 546.23,-326.879 863.29,-136.37 317.05,190.5 444.6,560.43 284.87,826.25 -159.72,265.83 -546.22,326.88 -863.28,136.37 z" />
-      <path
-         id="path66"
-         style="fill:none;stroke:#66fff1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2701.9,2051.72 c -312.75,-187.92 -441.79,-547.46 -288.21,-803.06 153.58,-255.597 531.61,-310.461 844.36,-122.54 312.76,187.92 441.79,547.46 288.21,803.06 -153.58,255.6 -531.61,310.46 -844.36,122.54 z" />
-      <path
-         id="path68"
-         style="fill:none;stroke:#ff4223;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2676.32,2111.94 c -317.05,-190.51 -443.35,-562.51 -282.09,-830.88 161.25,-268.38 549,-331.509 866.06,-141 317.05,190.5 443.35,562.5 282.09,830.88 -161.25,268.38 -549,331.51 -866.06,141 z" />
-      <path
-         id="path70"
-         style="fill:none;stroke:#9e34e1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2659.78,1144.84 c 291.38,-196.539 669.74,-145.141 845.08,114.81 175.33,259.94 81.25,630 -210.13,826.55 -291.39,196.54 -669.75,145.14 -845.08,-114.81 -175.34,-259.94 -81.26,-630 210.13,-826.55 z" />
-      <path
-         id="path72"
-         style="fill:none;stroke:#ffdc16;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2656.24,1134.18 c 306.65,-206.832 696.03,-165.789 869.69,91.68 173.67,257.48 65.87,633.87 -240.79,840.71 -306.64,206.84 -696.02,165.79 -869.69,-91.68 -173.66,-257.47 -65.86,-633.87 240.79,-840.71 z" />
-      <path
-         id="path74"
-         style="fill:none;stroke:#66fff1;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2694.02,1173.93 c 302.48,-204.035 683.07,-168.74 850.05,78.83 166.99,247.57 57.15,613.66 -245.34,817.69 -302.49,204.03 -683.07,168.74 -850.06,-78.83 -166.99,-247.57 -57.14,-613.66 245.35,-817.69 z" />
-      <g
-         id="g76"></g>
     </g>
   </g>
 </svg>
