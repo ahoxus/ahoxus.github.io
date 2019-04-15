@@ -15,7 +15,11 @@ Imagine the place of your dreams.
 
 Tell us the location, count to 10 and relax.
 
-We'll find you the best fee, up to zero!
+We find the best price, up to a zero fee!
+
+Get to know even the internet quality there.
+
+And we work together with all local realtors.
 
 Want to buy or sell a house? Send us an email.
 
