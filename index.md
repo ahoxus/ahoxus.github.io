@@ -11,9 +11,13 @@ published: true
 
 Close your eyes.
 
-Imagine the place of your dreams.
+Imagine the land of your dreams.
+
+Constantly.
 
 Tell us the location, count to 10 and relax.
+
+Again and every time you will.
 
 We find the best price, up to a zero fee!
 
