@@ -25,7 +25,19 @@ Get to know even the internet quality there.
 
 And we work together with all local realtors.
 
-Want to buy or sell a house? Send us an email: <a href="mailto:chaos@ahoxus.org">chaos@ahoxus.org</a>
+Want to buy or sell a house? Send us an email:
+<br><a href="mailto:chaos@ahoxus.org">chaos@ahoxus.org</a>
 
 <form>
 </form>
+
+---
+
+[chaos up](/sitemap)
+
+<style>
+body {max-width: 550px; margin: 0 auto; font-size: 15pt;}
+@media print {
+  .site-footer {display: none;}
+}
+</style>
