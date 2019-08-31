@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ahoxus.org
+Token: b78ffbccf02de7e98323bfdb8f1399890f2eb61b3f6814140ebce87e63957467
