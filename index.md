@@ -11,14 +11,34 @@ published: true
 
 **ahoxus** is a group of people living and working together to improve our reality!
 
-our core principles move around being really aware how the human mind, mainly the brain, is unreliable. optical and auditory illusions are a couple of simple examples of how it consistently malfunctions.
+our core principles move around:
 
-and, still, reality is perfect as it is. filled with problems, defects and/or issues. acceptance of the harmony and balance of the universe (and beyond) brings us the peace of mind and freedom to work towards a better home for everyone of us.
+- being really aware how the human mind, mainly the brain, is unreliable. optical and auditory illusions are a couple of simple examples of how it consistently malfunctions. and, still...
 
-for instance: paradoxes are language bugs. when trying to define the world or reality from top down, by describing what we observe, we end up with natural logic holes. computer languages, built from bottom up, have no paradoxes in themselves. they’re pure logic. but as we try to put those tiny pieces together to build any reality like ours (within our own) the bugs multiply in the poetry of the software. reason why there are so many computer languages. we (humans) are trying to get rid of the paradoxes!
+- reality is perfect as it is. filled with imperfections. acceptance of the harmony and balance of the existence brings us the peace of mind and freedom to work towards a better home for everyone of us.
+
+# carpe diem
+
+wisdom is applied knowledge. as such, understanding a new concept of the mind by itself already brings wisdom.
+
+seizing the day means being always aware of the whole reality while focusing on the present, rather than forgetting everything else. as anything else in life/reality, it's a matter of balance between letting go on the conscious voicing mind and keeping in as much valuable data as possible on the top (or back) of the mind. around it. among the whole harmony of existence.
+
+keep in mind santa claus isn't *real*, but it *exists* in our imagination nevertheless. as an anthropomorphized concept of goodness. it might even have been real in the past, somewhere, in a parallel reality, as much as it could still come to exist in our unpredictable future. then again, an abstract concept like time travel isn't real but it exists as a concept. existence is, thus, broader than reality. which, in its turn, encompasses the whole universe, beyond its physical or scientific definitions.
+
+think about it. make your own inner logic to work in your favour. question everything. and enjoy the ride!
+
+# communication theory
+
+as another instance of our philosophical work: paradoxes are language bugs. when trying to define the world or reality from top down, by describing what we observe, we end up with natural logic holes. computer languages, built from bottom up, have no paradoxes in themselves. they’re pure logic. but as we try to put those tiny pieces together to build any reality like ours (within our own) the bugs multiply in the poetry of the software. reason why there are so many computer languages. we (humans) are trying to get rid of the paradoxes!
 
 <form>
+
+# wip
+
+this is a work in progress. get in [contact](cregox.net/contact) with [cregox](cregox.net/ahoxus) if you want more!
+
 </form>
+
 <p class="page-footer">
 ---
 
