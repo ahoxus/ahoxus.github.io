@@ -35,7 +35,7 @@ as another instance of our philosophical work: paradoxes are language bugs. when
 
 # wip
 
-this is a work in progress. get in [contact](cregox.net/contact) with [cregox](cregox.net/ahoxus) if you want more!
+this is a work in progress. being made by [cregox](https://cregox.net/ahoxus). get in [touch](https://cregox.net/contact).
 
 </form>
 
