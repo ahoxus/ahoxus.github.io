@@ -19,6 +19,8 @@ our core principles move around:
 
 - reality is perfect as it is. filled with imperfections. acceptance of the harmony and balance of the existence brings us the peace of mind and freedom to work towards a better home for everyone of us.
 
+- yes, life is hard. death is imminent. destruction is part of it. live with it. but focus on life. every kind. be always kind. and happy.
+
 # carpe diem
 
 wisdom is applied knowledge. as such, understanding a new concept of the mind by itself already brings wisdom.
