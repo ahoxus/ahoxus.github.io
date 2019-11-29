@@ -11,6 +11,8 @@ published: true
 
 **ahoxus** is a group of people living and working together to improve our reality!
 
+think of a tiny country in a small piece of land, without any army. or perhaps a self sustainable (not sustained) community reserve, in the sense we want to be treated at least like a natural reserve.
+
 our core principles move around:
 
 - being really aware how the human mind, mainly the brain, is unreliable. optical and auditory illusions are a couple of simple examples of how it consistently malfunctions. and, still...
