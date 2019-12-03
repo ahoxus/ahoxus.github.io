@@ -9,9 +9,11 @@ published: true
 
 # freedom with harmony
 
-**ahoxus** is a group of people living and working together to improve our reality!
+**ahoxus** is a group of people living and working together to improve our reality.
 
-think of a tiny country in a small piece of land, without any army. or perhaps a self sustainable (not sustained) community reserve, in the sense we want to be treated at least like a natural reserve.
+the project is loosely based in tamera's healing biotope, with all the science and political theory, but none of the pseudo science that usually surrounds similar projects.
+
+think of a tiny country in a small piece of land, without any army. or perhaps imagine a self sustainable (rather than sustained, we don't plan to be of the grid, just to be able to, if needed) "community-reserve", in the sense we want to be treated at least like a natural reserve.
 
 our core principles move around:
 
@@ -20,6 +22,8 @@ our core principles move around:
 - reality is perfect as it is. filled with imperfections. acceptance of the harmony and balance of the existence brings us the peace of mind and freedom to work towards a better home for everyone of us.
 
 - yes, life is hard. death is imminent. destruction is part of it. live with it. but focus on life. every kind. be always kind. and happy.
+
+- language is way too complex and deceiving in many ways. especially human language. we can only really ever communicate at a ridiculously low rate equivalent to 29bps, and that's under ideal conditions, which is speaking without seeing each other. any other way, the rate actually drops. it's a speed achieved by computers in the 1990s. yet, it's by far or best and even only way to communicate effectively. everything else, including body language, is "exponentially" more complex and deceiving! when we seem to "sync" in communication is because we can use any language/protocol to get on the same "page" inside each one of us, like accessing the same link in 2 computers, using just the bits of information in a link to open up that same page, and nothing else.
 
 # carpe diem
 
