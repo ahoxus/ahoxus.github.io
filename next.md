@@ -8,6 +8,7 @@ redirect_from:
   - /hole/
 layout: page
 published: true
+menu: true
 ---
 
 {{ page.description }}
