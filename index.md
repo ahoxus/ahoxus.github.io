@@ -50,7 +50,7 @@ this is a work in progress. being made by [cregox](https://cregox.net/ahoxus). g
 <p class="page-footer">
 ---
 
-[chaos up](/sitemap)
+[chaos up](/next)
 </p>
 
 <style>
