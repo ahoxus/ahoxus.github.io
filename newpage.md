@@ -1,6 +1,6 @@
 ---
 title: suggest a new page
-description: help to build ahoxus!
+description: help to build the website!
 image: building.jpg
 permalink: /newpage/
 redirect_from:
