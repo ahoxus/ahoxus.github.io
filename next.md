@@ -14,11 +14,13 @@ published: true
 
 # white hole
 
-this is a simulation from the first black hole we've ever seen.
+these are 2 simulations from the first black hole we've ever seen.
 
 <details>
-  <summary markdown="span">![black hole simulation](blackhole.mp4)</summary>
+  <summary markdown="span">![black hole simulation](blackhole.gif)</summary>
   
+  this one in YouTube is much cooler, though... and probably even more precise!
+
   <iframe width="400" height="225" src="https://www.youtube.com/embed/KikdPbX7z8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
