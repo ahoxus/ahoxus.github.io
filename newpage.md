@@ -10,7 +10,7 @@ redirect_from:
 layout: page
 published: true
 menu: false
-url: https://github.com/ahoxus/ahoxus.github.io
+root: https://github.com/ahoxus/ahoxus.github.io
 ---
 
 yes, you can help to build ahoxus and even learn some coding in the process!
@@ -27,10 +27,10 @@ there are basically 3 options:
 <summary markdown="span">learn markdown (optional)</summary>
 
 - learn a little of [github markdown](https://guides.github.com/features/mastering-markdown/) (if you want to actually format your contribution), or;
-- see samples, [such as our other files]({{ page.url }}) or [this own]({{ page.url }}/blob/master/newpage.md) (click on the [raw] button, ignore the script part), then...
+- see samples, [such as our other files]({{ page.root }}) or [this own]({{ page.root }}/blob/master/newpage.md) (click on the [raw] button, ignore the script part), then...
 </details>
 
-# [**create a new file for "#jesus"**]({{ page.url }}/new/master/#jesus)
+# [**create a new file for "#jesus"**]({{ page.root }}/new/master/#jesus)
 (you'll need to login or create an account)
 
 that's all. write right there everything you think there should be on this page! :)
