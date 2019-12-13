@@ -2,6 +2,7 @@
 title: next
 description: what could we do next?
 image: blackhole.gif
+permalink: /next/
 redirect_from:
   - /soon/
   - /hole/
@@ -15,7 +16,11 @@ published: true
 
 this is a simulation from the first black hole we've ever seen.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/KikdPbX7z8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+  <summary markdown="span">![black hole simulation](blackhole.mp4)</summary>
+  
+  <iframe width="400" height="225" src="https://www.youtube.com/embed/KikdPbX7z8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 now we shall do our own ahoxus version, you know, for promotion! ;)
 
