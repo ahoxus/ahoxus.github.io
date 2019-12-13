@@ -6,6 +6,7 @@ permalink: /newpage/
 redirect_from:
   - /build/
   - /suggest/
+  - /new/
 layout: page
 published: true
 menu: false
