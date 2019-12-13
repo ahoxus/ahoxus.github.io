@@ -1,7 +1,7 @@
 ---
 title: next
 description: what could we do next?
-image: blackhole.gif
+image: blackhole.jpg
 permalink: /next/
 redirect_from:
   - /soon/
