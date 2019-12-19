@@ -23,7 +23,7 @@ our core principles move around:
 
 - yes, life is hard. death is imminent. destruction is part of it. live with it. but focus on life. every kind. be always kind. and happy.
 
-- language is way too complex and [deceiving in many ways](https://curiosity.com/topics/is-communication-really-80-percent-nonverbal-curiosity/). especially human language. we can only really ever communicate at a ridiculously [low rate equivalent to 39bps](https://curiosity.com/topics/no-matter-how-fast-languages-are-spoken-they-all-transmit-information-at-the-same-rate-curiosity/), and that's under ideal conditions, which is speaking without seeing each other. any other way, the rate actually drops. it's a speed achieved by computers in the 1990s. yet, it's by far or best and even only way to communicate effectively. everything else, including body language, is "exponentially" more complex and deceiving! when we seem to "sync" in communication is because we can use any language/protocol to get on the same "page" inside each one of us, like accessing the same link in 2 computers, using just the bits of information in a link to open up that same page, and nothing else.
+- language is way too complex and [deceiving in many ways](https://curiosity.com/topics/is-communication-really-80-percent-nonverbal-curiosity/). especially human language. we can only really ever communicate at a ridiculously [low rate equivalent to 39bps](https://curiosity.com/topics/no-matter-how-fast-languages-are-spoken-they-all-transmit-information-at-the-same-rate-curiosity/), and that's under ideal conditions, which is speaking without seeing each other. any other way, the rate actually drops. it's a speed achieved by computers in the 1990s. yet, it's by far our best and even only way to communicate effectively. everything else, including body language, is "exponentially" more complex and deceiving! when we seem to "sync" in communication is because we can use any language/protocol to get on the same "page" inside each one of us, like accessing the same link in 2 computers, using just the bits of information in a link to open up that same page, and nothing else.
 
 # carpe diem
 
@@ -37,7 +37,9 @@ think about it. make your own inner logic to work in your favour. question every
 
 # communication theory
 
-as another instance of our philosophical work: paradoxes are language bugs. when trying to define the world or reality from top down, by describing what we observe, we end up with natural logic holes. computer languages, built from bottom up, have no paradoxes in themselves. they’re pure logic. but as we try to put those tiny pieces together to build any reality like ours (within our own) the bugs multiply in the poetry of the software. reason why there are so many computer languages. we (humans) are trying to get rid of the paradoxes!
+as another instance of our philosophical work: paradoxes are language bugs. when trying to define the world or reality from top down, by describing what we observe, we end up with natural logic holes. computer languages, built from bottom up, have no paradoxes in themselves. they’re pure logic!
+
+but as we try to put those tiny pieces together to build any reality like ours (within our own) the actual bugs (some are clearly a form of paradox, such as an infinite loop) multiply in the poetry (complexity) of the software. in a way, that might be the reason why there are so many computer languages: we (humans) are trying to get rid of the paradoxes!
 
 <form>
 
