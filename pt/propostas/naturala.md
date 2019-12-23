@@ -8,7 +8,7 @@ layout: page
 published: true
 ---
 
-# {{ site.description }}
+# {{ page.description }}
 
 favor observar que esta proposta ainda esta a ser elaborada visando não apenas a busca de patrocínios como também parcerias nessa busca.
 
