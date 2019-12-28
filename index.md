@@ -13,7 +13,7 @@ published: true
 
 the project is loosely based in tamera's healing biotope, with all the science and political theory, but none of the pseudo science that usually surrounds similar projects.
 
-think of a tiny country in a small piece of land, without any army. or perhaps imagine a self sustainable (rather than sustained, we don't plan to be of the grid, just to be able to, if needed) "community-reserve", in the sense we want to be treated at least like a natural reserve.
+think of a tiny country in a small piece of land, without any army. or perhaps imagine a self sustainable (rather than sustained, we don't plan to be off the grid, just to be able to, if needed) "community-reserve", in the sense we want to be treated at least like a natural reserve.
 
 our core principles move around:
 
