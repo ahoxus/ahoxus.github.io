@@ -20,7 +20,11 @@ defaults:
     values:
       layout: talk # overrides previous default layout
       google_analytics: # placed on files by httrack and talk layout
-
+  -
+    scope:
+      path: "propostas/"
+    values:
+      sitemap: false
 
 # Build settings
 markdown: kramdown
