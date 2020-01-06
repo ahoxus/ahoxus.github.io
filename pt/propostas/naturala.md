@@ -6,6 +6,8 @@ redirect_from:
   - /naturala/
 layout: page
 published: true
+sitemap:
+  exclude: "yes"
 ---
 
 # {{ page.description }}
