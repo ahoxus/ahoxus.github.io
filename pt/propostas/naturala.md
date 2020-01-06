@@ -6,8 +6,7 @@ redirect_from:
   - /naturala/
 layout: page
 published: true
-sitemap:
-  exclude: "yes"
+sitemap: false
 ---
 
 # {{ page.description }}
@@ -20,4 +19,4 @@ em qualquer caso, temos o completo interesse em utilizar o terreno mesmo com alg
 - luz e eletricidade para computadores
 - segurança contra incêndios
 
-[aceder a proposta](https://docs.google.com/document/d/1I45xc2cJa5A0MUle59r0VDeNz78y87HhV9ZhDgUQDRw/edit?usp=drivesdk).
+[aceder a proposta detalhada](https://docs.google.com/document/d/1I45xc2cJa5A0MUle59r0VDeNz78y87HhV9ZhDgUQDRw/edit?usp=drivesdk).
