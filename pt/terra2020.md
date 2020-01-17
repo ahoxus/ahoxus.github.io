@@ -25,6 +25,10 @@ e também visando ter água do poço de qualidade, próximo de uma fonte não co
 
 no momento, convém também que não seja tão isolada a ponto de comprometer a segurança por falta de vizinhança. hoje este fator sobrepõe o requisito da água.
 
+não tem necessidade de ter luz ou água nem qualquer construção. pode ser um terreno agrícola. mas precisaremos sim, o quanto antes, disso tudo. principalmente uma cozinha e chuveiro quente, aquecido pelo sol exclusivamente. energia elétrica também convém que seja apenas solar. água, do poço. gás, apenas se for natural.
+
+ter como segunda opção utilizar da rede elétrica e de água tratada, tudo tão barato, poderá ser bem vindo no futuro. e seria muito bem vindo no presente. mas sempre com muita cautela para não depender disso!
+
 ## as conquistas atuais
 
 temos hoje uma caravana (que ainda precisa de alguns reparos, como vazamento de água) e uma pessoa dedicada a viver na prática nossas teorias. colocar em teste.
