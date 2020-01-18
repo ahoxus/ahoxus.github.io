@@ -1,6 +1,6 @@
 ---
-title: pt
-description: menu para páginas em português
+title: português
+description: menu para as páginas no idioma
 image: português.jpg
 permalink: /pt/
 layout: page
