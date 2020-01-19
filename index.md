@@ -13,7 +13,7 @@ published: true
 
 and the sentence above should be carefully crafted and a bit ambiguous on purpose. "our reality" means both of the group and of everyone, for instance.
 
-the project is loosely based in tamera's healing biotope, with all the science and political theory, but none of the pseudo science that surrounds basically [all similar projects](/map).
+the project is loosely based in tamera's healing biotope, with all the science and political theory, but none of the pseudo science that surrounds basically [all similar projects](/map). it's also a sort of regenerative culture movement. slow and steady.
 
 think of a tiny country in a small piece of land, without any army. or perhaps imagine a self sustainable (rather than sustained, we don't plan to be off the grid, just to be able to, if needed) "community-reserve", in the sense we want to be treated at least like a natural reserve.
 
