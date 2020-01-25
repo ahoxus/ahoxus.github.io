@@ -9,7 +9,9 @@ published: true
 sitemap: false
 ---
 
-# {{ page.description }}
+## {{ page.description }}
+
+#dezembro
 
 favor observar que a proposta anexa no link abaixo ainda esta a ser elaborada, visando não apenas a busca de patrocínios como também parcerias nessa busca.
 
@@ -20,3 +22,7 @@ em qualquer caso, temos o completo interesse em utilizar o terreno mesmo com alg
 - segurança contra incêndios
 
 [aceder a proposta detalhada](https://docs.google.com/document/d/1I45xc2cJa5A0MUle59r0VDeNz78y87HhV9ZhDgUQDRw/edit?usp=drivesdk).
+
+#janeiro
+
+depois, um dos avanços foi a o desenvolvimento da ideia, atualizada em [#terra2020](/pt/terra2020), dentro do contexto ahoxus.
