@@ -15,7 +15,7 @@ menu: true
 
 # {{ page.description }}
 
-- [sign up with your email here](https://forms.gle/VvdnPbZ7guF8y6er9) which hardly ever sends out any email!
+- [sign up our mailing list](https://forms.gle/VvdnPbZ7guF8y6er9) which hardly ever sends out any email!
 
 - get more frequent updates on [telegram](//t.me/ahoxus).
 
