@@ -75,17 +75,6 @@ this is a *work in progress*, _"to kome"_. being made by [cregox](https://cregox
 
 - sign up for our [updates here](/updates) (such as with your email for our mailing list).
 
-<p class="page-footer">
----
-
-[chaos up](/next)
-</p>
-
 <style>
 body {max-width: 550px; margin: 0 auto; font-size: 15pt;}
-.page-footer {display: none;}
-@media print {
-  .site-footer {display: none;}
-  .page-footer {display: block;}
-}
 </style>
