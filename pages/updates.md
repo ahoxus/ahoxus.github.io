@@ -1,7 +1,7 @@
 ---
 title: updates
 description: get notified about news on ahoxus!
-image: /pages/updates.jpg
+image: /pages/ahoxus exploded lemon.jpg
 permalink: /updates/
 redirect_from:
   - /mailing/
@@ -11,7 +11,7 @@ published: true
 menu: true
 ---
 
-![tk]({{ page.image }})
+![ahoxus exploded lemon]({{ page.image }})
 
 # {{ page.description }}
 
