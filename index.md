@@ -73,7 +73,7 @@ this is a *work in progress*, _"to kome"_. being made by [cregox](https://cregox
 
 - get in [touch](https://cregox.net/contact).
 
-- sign up for our [updates here](/updates).
+- sign up for our [updates here](/updates) (such as with your email for our mailing list).
 
 <p class="page-footer">
 ---
