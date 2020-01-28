@@ -9,9 +9,9 @@ published: true
 
 # freedom with harmony
 
-**ahoxus** is a plan for a group of people to live and work together towards the improvement of our reality.
+**ahoxus** is (as of january 2020) a plan for a group of people to live and work together towards improving our reality.
 
-"our reality" means both of the group and of everyone.
+"our reality" means both of our group and of everyone. starting small. slowly. steady.
 
 the project is loosely based in [tamera](//tamera.org)'s healing biotope, with all the science and political theory, but none of the pseudo science that surrounds basically [all similar projects](/map). it's also a sort of regenerative culture movement. slow and steady.
 
