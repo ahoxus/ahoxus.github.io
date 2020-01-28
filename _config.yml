@@ -22,9 +22,9 @@ defaults:
       google_analytics: # placed on files by httrack and talk layout
   -
     scope:
-      path: "propostas/"
+      path: "/pt/"
     values:
-      sitemap: false
+      sitemap: "portuguese"
 
 # Build settings
 markdown: kramdown
