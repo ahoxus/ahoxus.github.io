@@ -73,9 +73,7 @@ this is a *work in progress*, _"to kome"_. being made by [cregox](https://cregox
 
 - get in [touch](https://cregox.net/contact).
 
-- sign up our [mailing list](https://forms.gle/VvdnPbZ7guF8y6er9), which hardly ever sends out any email!
-
-- for 2 other "keep in touch" channels with more frequent updates: under the GitHub source below or [on telegram](//t.me/ahoxus).
+- sign up for our [updates here](/updates).
 
 <p class="page-footer">
 ---
