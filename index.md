@@ -67,13 +67,15 @@ as another instance of our philosophical work: paradoxes are language bugs. when
 
 but as we try to put those tiny pieces together to build any reality like ours (within our own) the actual bugs (some are clearly a form of paradox, such as an infinite loop) multiply in the poetry (complexity) of the software. in a way, that might be the reason why there are so many computer languages: we (humans) are trying to get rid of the paradoxes!
 
-<form>
-
 # wip tk
 
-this is a *work in progress*, _"to kome"_. being made by [cregox](https://cregox.net/ahoxus). get in [touch](https://cregox.net/contact).
+this is a *work in progress*, _"to kome"_. being made by [cregox](https://cregox.net/ahoxus).
 
-</form>
+- get in [touch](https://cregox.net/contact).
+
+- sign up our [mailing list](https://forms.gle/VvdnPbZ7guF8y6er9), which hardly ever sends out any email!
+
+- for 2 other "keep in touch" channels with more frequent updates: under the GitHub source below or [on telegram](//t.me/ahoxus).
 
 <p class="page-footer">
 ---
