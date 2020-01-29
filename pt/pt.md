@@ -12,6 +12,6 @@ published: true
 
 # {{ page.description }}
 
-por limitações técnicas, no momento a melhor opção é ir ao [sitemap (chaos up, la em baixo)](/sitemap) e buscar pelas opções em português.
+pode encontrar a lista no [sitemap (chaos up, la em baixo)](/sitemap) lá em baixo estão as em português, separadas.
 
-também pode tentar ver uma [lista mais filtrada na fonte](https://github.com/ahoxus/ahoxus.github.io/tree/master/pt).
+também pode ver uma [lista aqui no código fonte](https://github.com/ahoxus/ahoxus.github.io/tree/master/pt).
