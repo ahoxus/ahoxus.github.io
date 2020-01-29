@@ -12,15 +12,6 @@ github_username: ahoxus
 google_analytics: UA-4687862-18 # placed on head include
 include: [".well-known"]
 
-defaults:
-  -
-    scope:
-      path: "talk"
-      type: pages
-    values:
-      layout: talk # overrides previous default layout
-      google_analytics: # placed on files by httrack and talk layout
-
 # Build settings
 markdown: kramdown
 kramdown:
