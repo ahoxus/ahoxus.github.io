@@ -1,4 +1,5 @@
 ---
+lang: pt
 title: português
 description: menu para as páginas no idioma
 image: Segunda_pessoa_do_singular_no_português.png
