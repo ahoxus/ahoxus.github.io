@@ -22,6 +22,6 @@ in fact, [it can even help preventing diseases!](//cregox.net/bedding) not to me
 
 like almost every single tradition and chore we get used to when growing up in society today, it's *ultimately __based__* on the fear of death. don't make your bed and you'll get ostracized in the army, for instance.
 
-it also communicates the message of "beauty", per tidineee standards. which, in turn, feeds the belief that we must control our whole environment. yes, it is the same movement of containing rivers, which in turn hinders the water cycle.
+it also communicates the message of "beauty", per tidiness standards. which, in turn, feeds the belief that we must control our whole environment. yes, it is the same movement of containing rivers, which in turn hinders the water cycle.
 
 let the bed be free! #freebed
