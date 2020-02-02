@@ -11,8 +11,6 @@ published: true
 
 ![tk]({{ page.image }})
 
-# core principles
-
 ## unreliable mind
 
 we strive for being really aware how the human mind, mainly the brain, is unreliable. optical and auditory illusions are a couple of simple examples of how it consistently malfunctions. and, still...
