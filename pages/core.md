@@ -9,7 +9,7 @@ layout: page
 published: true
 ---
 
-![tk]({{ page.image }})
+![core]({{ page.image }})
 
 ## unreliable mind
 
