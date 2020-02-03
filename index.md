@@ -16,6 +16,8 @@ and we invite **you** to join us!
 
 in practice, we're going to live in trailers in a piece of land with trees and away from the cities or buildings. and cultivate the land to have better water and nature than before we arrived. without completely forgetting some basic and cheap conveniences, like a hot shower (solar heated) and internet.
 
+![first caravan]({{ page.image }})
+
 # ok... sounds crazy!
 
 well, yeah.
@@ -29,8 +31,6 @@ but we are also starting small. slowly. steady.
 the project is loosely based in [**tamera**](//tamera.org)'s healing biotope, with all the science and political theory, but none of the pseudo science that surrounds basically [all similar projects](/map). it's also a sort of regenerative culture movement.
 
 think of a tiny country in a small piece of land, without any army. or perhaps imagine a self sustainable (rather than sustained) "community-reserve". we don't plan to be off the grid. just to be able to, if needed. "community-reserve" is in the sense we want to be treated at least like a natural reserve.
-
-![first caravan]({{ page.image }})
 
 keep on reading:
 
