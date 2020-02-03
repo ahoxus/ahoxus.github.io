@@ -11,7 +11,7 @@ published: true
 
 ![core]({{ page.image }})
 
-## unreliable mind
+## unreliable mind awareness
 
 we strive for being really aware how the human mind, mainly the brain, is unreliable. optical and auditory illusions are a couple of simple examples of how it consistently malfunctions. and, still...
 
