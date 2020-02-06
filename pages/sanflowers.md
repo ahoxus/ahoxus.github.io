@@ -1,7 +1,6 @@
 ---
 title: sanflowers
 description: your flower from our online shopping
-image: sanflowers.jpg
 permalink: /sanflowers/
 redirect_from:
   - /sanflower/
