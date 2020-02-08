@@ -1,7 +1,7 @@
 ---
 lang: pt
 title: proposta a naturala
-description: para o projeto pesquisa #ahoxus2020
+description: "para o projeto pesquisa #ahoxus2020"
 permalink: /pt/propostas/naturala/
 redirect_from:
   - /naturala/
