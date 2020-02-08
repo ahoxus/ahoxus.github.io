@@ -11,7 +11,7 @@ published: true
 
 ## {{ page.description }}
 
-favor observar que a proposta anexa no link abaixo estará sendo constantemente re-elaborada, visando não apenas a busca de patrocínios (e financiamentos) mas principalmente **parcerias**.
+favor observar que a proposta anexa no link abaixo está em processo de elaboração entre as partes, visando não apenas a busca de patrocínios (e financiamentos) mas principalmente **parcerias**.
 
 temos o completo interesse em utilizar o terreno para, daqui alguns anos, desenvolver o local e a comunidade.
 
