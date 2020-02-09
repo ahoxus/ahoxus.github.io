@@ -8,7 +8,7 @@ published: true
 
 {% include ahoxus.svg.html %}
 
-**ahoxus** is (as of february 2020) a plan for a group of people to live and work together towards improving our reality.
+**ahoxus** is are people who live and work in a land, together in small groups, towards improving the whole world through little actions.
 
 and we invite **you** to join us!
 
@@ -24,9 +24,9 @@ well, yeah.
 
 it's big!
 
-after all, "our reality" means both of our group and of everyone.
+after all, "the whole world" means both each small group's reality and of everyone's.
 
-but we are also starting small. slowly. steady.
+we are constantly focusing on the small things. moving slowly. steady.
 
 the project is loosely based in [**tamera**](//tamera.org)'s healing biotope, with all the science and political theory, but none of the pseudo science that surrounds basically [all similar projects](/map). it's also a sort of regenerative culture movement.
 
