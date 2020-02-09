@@ -8,7 +8,7 @@ published: true
 
 {% include ahoxus.svg.html %}
 
-**ahoxus** is are people who live and work in a land, together in small groups, towards improving the whole world through little actions.
+**ahoxus** are people who live and work in a land, together in small groups, towards improving the whole world through little actions.
 
 and we invite **you** to join us!
 
