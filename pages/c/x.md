@@ -1,5 +1,5 @@
 ---
-title: cregox spot
+title: c x
 description: because X marks the spot for C
 image: /pages/cx.jpg
 permalink: /c/x/
@@ -14,4 +14,6 @@ published: true
 
 # {{ page.description }}
 
-today (february 10th), [i'm](cregox.net/who) going to [cheleiros](https://maps.app.goo.gl/o3VXzRsvavBMbchVA), near mafra.
+hi, [i'm](cregox.net/who) always going somewhere and in here i intend to share where to, on those days i'm looking for a ride or hitchhiking.
+
+you can see [past attempts on the source's history](https://github.com/ahoxus/ahoxus.github.io/commits/master/pages/c/x.md).
