@@ -14,7 +14,13 @@ and we invite **you** to join us!
 
 # what?
 
-in practice, we're going to live in trailers in a piece of land with trees and away from the cities or buildings. and cultivate the land to have better water and nature than before we arrived. without completely forgetting some basic and cheap conveniences, like a hot shower (solar heated) and internet.
+yes, you, who might be willing to read and understand everything below. even giving feedback is plenty of participation at this stage! it's also s great exercise for your brain... 😘
+
+in fact, we're making weekly [updates](/updates) in a very transparent manner (by "very", i mean "messy") using [**pioneer**](/). if you are reading this and coming from [pioneer](/pioneer), by all means, please [read that](/pioneer) first!
+
+# still... what?!
+
+in practice: we're going to live in trailers in a piece of land with trees, away from the cities or buildings. and cultivate the land to have better water and nature than before we arrived. without completely forgetting some basic and cheap conveniences, like a hot shower (solar heated) and the internet.
 
 ![first caravan]({{ page.image }})
 
@@ -28,9 +34,9 @@ after all, "the whole world" means both each small group's reality and of everyo
 
 we are constantly focusing on the small things. moving slowly. steady.
 
-the project is loosely based in [**tamera**](//tamera.org)'s healing biotope, with all the science and political theory, but none of the pseudo science that surrounds basically [all similar projects](/map). it's also a sort of regenerative culture movement.
+the project is loosely based in [**tamera**](//tamera.org)'s healing biotope, with all the science and political theory, but none of the pseudo-science that surrounds basically [all similar projects](/map). it's also a sort of regenerative culture movement.
 
-think of a tiny country in a small piece of land, without any army. or perhaps imagine a self sustainable (rather than sustained) "community-reserve". we don't plan to be off the grid. just to be able to, if needed. "community-reserve" is in the sense we want to be treated at least like a natural reserve.
+think of a tiny country in a small piece of land, without any army. or perhaps imagine a self-sustainable (rather than sustained) "community-reserve". we don't plan to be off the grid. just to be able to, if needed. "community-reserve" is in the sense we want to be treated at least like a natural reserve.
 
 keep on reading:
 
