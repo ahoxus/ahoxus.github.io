@@ -16,7 +16,7 @@ and we invite **you** to join us!
 
 yes, you, who might be willing to read and understand everything below. even giving feedback is plenty of participation at this stage! it's also s great exercise for your brain... 😘
 
-in fact, we're making weekly [updates](/updates) in a very transparent manner (by "very", i mean "messy") using [**pioneer**](/). if you are reading this and coming from [pioneer](/pioneer), by all means, please [read that](/pioneer) first!
+in fact, we're making weekly [updates](/updates) in a very transparent manner (by "very", i mean "messy") using **pioneer**. if you are reading this and coming from [pioneer](/pioneer), by all means, please [read that](/pioneer) first!
 
 # still... what?!
 
