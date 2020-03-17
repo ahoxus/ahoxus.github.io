@@ -4,7 +4,7 @@ description: your flower from our online shopping
 permalink: /sanflowers/
 redirect_from:
   - /sanflower/
-redirect_to: https://sanflowers.squarespace.com
+redirect_to: http://sanflowersbyahoxus.com
 layout: page
 published: true
 ---
