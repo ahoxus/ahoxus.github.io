@@ -10,6 +10,18 @@ published: true
 
 **ahoxus** is a project for life.
 
+choose your chapter, out of order:
+
+# [start living in a new world](#come-live-with-us)
+
+# [skip the story below](#not-really...)
+
+# [skip to "in practice" below the second what](#what?)
+
+# [some core philosophical values](#ok...-sounds-crazy!)
+
+# the big kid
+
 > a long time ago a big kid, aH, was playing around and chasing a beautiful butterfly on the sunrise.
 
 > suddenly, aH saw another kid, oX, doing some chores, annoyed, and felt the back as if hit by a lightning bolt. aH felt on the ground, in a deadly pain with an almost silent and deep roar.
@@ -58,9 +70,43 @@ keep on reading:
 
 - [core principles](/core)
 
+or...
+
+# come live with us
+
+starting march 31st 2020 we started to model a plan for new members. all costs here are per small family (a couple and 2 children below 20kg). same costs for an individual.
+
+we want people who are ready to shift their world. read everything here. talk to us. act by yourself.
+
+with as little as 5k eur and highly suggested upper limit of 50k you can get a mobile home in our land. you can later move it out to anywhere you want, shall you choose to. it's your home!
+
+there are 10 spots open now. the daily costs for living, covering everything inside the land, will be 20 eur when the project hits phase 2. it includes every basic need, such as water, food, electricity and internet, and completely self sustainable.
+
+it's now entering phase 1, which also includes all basic needs but is not yet able to sustain itself. it will, however, start to build everything needed for that. and, as such, the daily cost will start as low as 10.
+
+this daily cost can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. maintenance in general. an equivalent shift of up to 4h per day average, 20h per week. but we don't really think in those terms, as you'll learn...
+
+donations are highly encouraged, since they'll be for everyone's benefit. no money is needed, but there's always improvements that can be made in the structure. you can easily retire for at least 10 years within our life style with just 60k in your pocket, for an estimated analogy.
+
+no smokers. zero tolerance in this phase. it's essential for security against wood fire, in portugal.
+
+only organic material is allowed to go in the land, from cosmetics to paint and anything that may quickly leak underground.
+
+recapitulating the main points:
+
+- be ready.
+
+- bring your home.
+
+- get at least 3650 eur ready for minimal costs over 1 year.
+
+- pay attention to all details
+
+- come enjoy life at its fullest!
+
 # wip tk
 
-this is a *work in progress*, _"to kome"_. being made by [cregox](https://cregox.net/ahoxus).
+this is a *work in progress*, _"to kome"_. being written by [cregox](https://cregox.net/ahoxus).
 
 - get in [touch](https://cregox.net/contact).
 
