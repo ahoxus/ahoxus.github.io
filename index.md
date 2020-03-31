@@ -6,6 +6,8 @@ title: home
 published: true
 ---
 
+<a name="top"></a>
+
 {% include ahoxus.svg.html %}
 
 **ahoxus** is a project for life.
@@ -36,7 +38,7 @@ ahoxus was born after the real story on which this little tale is based; on aH, 
 
 after all, isn't that the same story for everyone?
 
-# not really...
+# [not really...](#top)
 
 think about it. we all need so much more reconnection with ourselves! both in general (just look at how fast the world can heal when we stop and take it slow) and within each one of us (also to prevent such inexplicable body malfunctions).
 
@@ -44,19 +46,19 @@ ahoxus is made of people who live and work in a land, together in small groups, 
 
 and we invite **you** to join us!
 
-# what?
+# [what?](#top)
 
 yes, you, who might be willing to understand our quest, and discover it together.
 
 > ps: we're making weekly [updates](/updates) in a very transparent manner (by "very", i mean "messy") using **pioneer**. if you are reading this and coming from [pioneer](/pioneer), by all means, please [read that](/pioneer) first!
 
-# still... what?!
+# [still... what?!](#top)
 
 in practice: we're going to live in cheap shelters on a piece of land with trees, away from the cities or big buildings. and cultivate the land to have better water and nature than before we arrived. without completely forgetting some basic and cheap conveniences, like a hot shower (solar heated) and the internet.
 
 ![first caravan]({{ page.image }})
 
-# ok... sounds crazy!
+# [ok... sounds crazy!](#top)
 
 well, yeah.
 
@@ -72,7 +74,7 @@ keep on reading:
 
 or...
 
-# come live with us
+# [come live with us](#top)
 
 starting march 31st 2020 we started to model a plan for new members. all costs here are per small family (a couple and 2 children below 20kg). same costs for an individual.
 
@@ -104,7 +106,7 @@ recapitulating the main points:
 
 - come enjoy life at its fullest!
 
-# wip tk
+# [wip tk](#top)
 
 this is a *work in progress*, _"to kome"_. being written by [cregox](https://cregox.net/ahoxus).
 
