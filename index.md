@@ -16,7 +16,7 @@ choose your chapter (or just keep scrolling down):
 
 - [skip the story below](#not-really)
 
-- [skip to "in practice" below the second what](#what)
+- [skip to practice](#still-what)
 
 - [some core philosophical values](#ok-sounds-crazy)
 
