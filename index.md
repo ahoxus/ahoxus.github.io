@@ -10,15 +10,15 @@ published: true
 
 **ahoxus** is a project for life.
 
-choose your chapter, out of order:
+choose your chapter (or just keep scrolling down):
 
-# [start living in a new world](#come-live-with-us)
+- [start living in a new world](#come-live-with-us)
 
-# [skip the story below](#not-really...)
+- [skip the story below](#not-really)
 
-# [skip to "in practice" below the second what](#what?)
+- [skip to "in practice" below the second what](#what)
 
-# [some core philosophical values](#ok...-sounds-crazy!)
+- [some core philosophical values](#ok-sounds-crazy)
 
 # the big kid
 
