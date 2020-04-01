@@ -42,7 +42,7 @@ after all, isn't that the same story for everyone?
 
 think about it. we all need so much more reconnection with ourselves! both in general (just look at how fast the world can heal when we stop and take it slow) and within each one of us (also to prevent such inexplicable body malfunctions).
 
-ahoxus is made of people who live and work in a land, together in small groups, towards improving and regenerating the whole world through little actions.
+ahoxus is made of people who live and work on this land in portugal, together in small groups, towards improving and regenerating the whole world through little actions.
 
 and we invite **you** to join us!
 
@@ -76,19 +76,21 @@ or...
 
 # [come live with us](#top)
 
-starting march 31st 2020 we started to model a plan for new members. all costs here are per small family (a couple and 2 children below 20kg). same costs for an individual.
+here's an idea.
 
-we want people who are ready to shift their world. read everything here. talk to us. act by yourself.
+starting march 31st 2020 and until may 1st, we are accepting new members. all costs here are per individual, up to a small family (a couple and 2 children below 20kg).
+
+we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself.
 
 with as little as 5k eur and highly suggested upper limit of 50k you can get a mobile home in our land. you can later move it out to anywhere you want, shall you choose to. it's your home!
 
-there are 10 spots open now. the daily costs for living, covering everything inside the land, will be 20 eur when the project hits phase 2. it includes every basic need, such as water, food, electricity and internet, and completely self sustainable.
+there are 10 spots open now. the daily costs for living, covering everything inside the land, will be 20 eur when the project hits phase 2. it includes every basic need, such as water, food, electricity and internet, and completely self-sustainable.
 
 it's now entering phase 1, which also includes all basic needs but is not yet able to sustain itself. it will, however, start to build everything needed for that. and, as such, the daily cost will start as low as 10.
 
-this daily cost can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. maintenance in general. an equivalent shift of up to 4h per day average, 20h per week. but we don't really think in those terms, as you'll learn...
+this daily cost can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week. but we don't really think in those terms, as you'll learn...
 
-donations are highly encouraged, since they'll be for everyone's benefit. no money is needed, but there's always improvements that can be made in the structure. you can easily retire for at least 10 years within our life style with just 60k in your pocket, for an estimated analogy.
+donations are highly encouraged since they'll be for everyone's benefit. no money is needed, but there are always improvements that can be made in the structure. you can easily retire for at least 10 years within our lifestyle with just 60k in your pocket, for an estimated analogy.
 
 no smokers. zero tolerance in this phase. it's essential for security against wood fire, in portugal.
 
@@ -96,7 +98,7 @@ only organic material is allowed to go in the land, from cosmetics to paint and 
 
 recapitulating the main points:
 
-- be ready.
+- be #readytoshift and act fast.
 
 - bring your home.
 
@@ -108,7 +110,7 @@ recapitulating the main points:
 
 # [wip tk](#top)
 
-this is a *work in progress*, _"to kome"_. being written by [cregox](https://cregox.net/ahoxus).
+this is a *work in progress*, *"to kome"*. being written by [cregox](https://cregox.net/ahoxus).
 
 - get in [touch](https://cregox.net/contact).
 
