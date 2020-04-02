@@ -74,23 +74,27 @@ keep on reading:
 
 or...
 
-# [come live with us](#top)
+# [come co-create a paradise](#top)
 
-here's an idea.
+![tk](wearenature.jpg)
 
-starting march 31st 2020 and until may 1st, we are accepting new members. all costs here are per individual, up to a small family (a couple and 2 children below 20kg).
+here's an idea. to be discussed and thought through together.
+
+until june 1st 2020, we are accepting 10 new members. the idea will only continue of we get the new members.
 
 we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself.
 
-with as little as 5k eur and highly suggested upper limit of 50k you can get a mobile home in our land. you can later move it out to anywhere you want, shall you choose to. it's your home!
+it's a project being made from scratch, now entering phase 1 of execution. this includes cooperating on flourishing an integrated living following our core values in portugal's country side.
 
-there are 10 spots open now. the daily costs for living, covering everything inside the land, will be 20 eur when the project hits phase 2. it includes every basic need, such as water, food, electricity and internet, and completely self-sustainable.
+at first, it'll not be self sustainable, so we will build it all. the daily cost will start as low as 10 euros. all basic needs are covered, such as water, food, electricity and internet.
 
-it's now entering phase 1, which also includes all basic needs but is not yet able to sustain itself. it will, however, start to build everything needed for that. and, as such, the daily cost will start as low as 10.
+with as little as 5k eur we can help you to purchase and install your mobile home in our land. you can then move it out to anywhere you want. it's your home!
 
-this daily cost can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week. but we don't really think in those terms, as you'll learn...
+when the project hits phase 2 and becomes completely self sustainable, we'll add an option for visitors at 20 eur for at least 1 week. the income will go to the community, and may be shared among members.
 
-donations are highly encouraged since they'll be for everyone's benefit. no money is needed, but there are always improvements that can be made in the structure. you can easily retire for at least 10 years within our lifestyle with just 60k in your pocket, for an estimated analogy.
+those daily costs can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week. but we don't really think in those terms, as you'll learn...
+
+doing the math, you can easily retire within our lifestyle. in an analogy mixed with estimate, with just 60k in your pocket you can pay for at least 10 years of costs.
 
 no smokers. zero tolerance in this phase. it's essential for security against wood fire, in portugal.
 
@@ -106,7 +110,7 @@ recapitulating the main points:
 
 - pay attention to all details
 
-- come enjoy life at its fullest!
+- come enjoy life at with all its potential and in harmony!
 
 # [wip tk](#top)
 
