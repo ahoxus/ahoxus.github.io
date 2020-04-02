@@ -14,7 +14,7 @@ published: true
 
 choose your chapter (or just keep scrolling down):
 
-- [start living in a new world](#come-live-with-us)
+- [start living in a new world](#come-co-create-a-paradise)
 
 - [skip the story below](#not-really)
 
