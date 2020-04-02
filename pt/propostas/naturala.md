@@ -2,7 +2,7 @@
 lang: pt
 title: proposta a naturala
 description: "para o projeto #ahoxus2020"
-image: /pt/propostas/naturala/mapa.png
+image: /pt/propostas/mapa.png
 permalink: /pt/propostas/naturala/
 redirect_from:
   - /naturala/
