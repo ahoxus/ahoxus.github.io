@@ -13,3 +13,5 @@ published: true
 # {{ page.description }}
 
 soon, a dedicated explanation about ahoxus, for pioneer.
+
+for now, please go to [the landing page](/).
