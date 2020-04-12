@@ -6,77 +6,15 @@ title: home
 published: true
 ---
 
-<a name="top"></a>
-
 {% include ahoxus.svg.html %}
 
-**ahoxus** is a project for life.
+**ahoxus** is our life's project. a self sustainable intentional community. regenerative culture movement. in 10ha, north of portugal.
 
-choose your chapter (or just keep scrolling down):
-
-- [start living in a new world](#come-co-create-a-paradise)
-
-- [skip the story below](#not-really)
-
-- [skip to practice](#still-what)
-
-- [some core philosophical values](#ok-sounds-crazy)
-
-# the big kid
-
-> a long time ago a big kid, aH, was playing around and chasing a beautiful butterfly on the sunrise.
-
-> suddenly, aH saw another kid, oX, doing some chores, annoyed, and felt the back as if hit by a lightning bolt. aH felt on the ground, in a deadly pain with an almost silent and deep roar.
-
-> oX, who was annoyed by something, came around, saw aH on the floor, remembered how sometimes aH just lay down there, and complained something to aH then moved away, annoyed for getting no answer. after a while oX came back and finally noticed aH was seriously injured.
-
-> now worried about the weird deadly pain, they went to seek help. took a long path over the mountains, to find other big kids: the medics. one looked at the injury and heard their story. then, the medic was sorry, for there was nothing the medics could do. then the medic continued to take care of other kids, who were bleeding or unconscious.
-
-> aH was, after all, basically recovered by the time it took to get to the medic. but the pain was real. and so was the invisible internal scar...
-
-ahoxus was born after the real story on which this little tale is based; on aH, oX and their friends' quest to heal and discover ways for others to follow the same steps.
-
-after all, isn't that the same story for everyone?
-
-# [not really...](#top)
-
-think about it. we all need so much more reconnection with ourselves! both in general (just look at how fast the world can heal when we stop and take it slow) and within each one of us (also to prevent such inexplicable body malfunctions).
-
-ahoxus is made of people who live and work on this land in portugal, together in small groups, towards improving and regenerating the whole world through little actions.
-
-and we invite **you** to join us!
-
-# [what?](#top)
-
-yes, you, who might be willing to understand our quest, and discover it together.
-
-> ps: we're making weekly [updates](/updates) in a very transparent manner (by "very", i mean "messy") using **pioneer**. if you are reading this and coming from [pioneer](/pioneer), by all means, please [read that](/pioneer) first!
-
-# [still... what?!](#top)
-
-in practice: we're going to live in cheap shelters on a piece of land with trees, away from the cities or big buildings. and cultivate the land to have better water and nature than before we arrived. without completely forgetting some basic and cheap conveniences, like a hot shower (solar heated) and the internet.
+in practice: we're going to live in cheap shelters on a piece of land on the countryside, with trees and away from the cities or big buildings. and cultivate the land to have better water and nature than before we arrived. without completely forgetting some basic and cheap conveniences, like a hot shower (solar heated) and the internet.
 
 ![first caravan]({{ page.image }})
 
-# [ok... sounds crazy!](#top)
-
-well, yeah.
-
-it's big!
-
-after all, "the whole world" means both each small group's reality and of everyone's.
-
-we are constantly focusing on the small things. moving slowly. steady.
-
-keep on reading:
-
-- [core principles](/core)
-
-or...
-
-# [come co-create a paradise](#top)
-
-![tk](wearenature.jpg)
+# come co-create a paradise
 
 here's an idea. to be discussed and thought through together.
 
@@ -100,6 +38,8 @@ no smokers. zero tolerance in this phase. it's essential for security against wo
 
 only organic material is allowed to go in the land, from cosmetics to paint and anything that may quickly leak underground.
 
+![we are nature](wearenature.jpg)
+
 recapitulating the main points:
 
 - be #readytoshift and act fast.
@@ -112,9 +52,17 @@ recapitulating the main points:
 
 - come enjoy life at with all its potential and in harmony!
 
-# [wip tk](#top)
+# wip tk
 
 this is a *work in progress*, *"to kome"*. being written by [cregox](https://cregox.net/ahoxus).
+
+keep on reading:
+
+- [a little story](/story)
+
+- [core principles](/core)
+
+or:
 
 - get in [touch](https://cregox.net/contact).
 
