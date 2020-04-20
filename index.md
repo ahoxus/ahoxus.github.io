@@ -17,7 +17,7 @@ in practice: we're going to live in cheap shelters on a piece of land on the cou
 
 here's an idea. to be discussed and thought through together.
 
-until june 1st 2020, we are accepting 10 new members. the idea will only continue if we get the new members.
+we are accepting 10 new members. this campaign will last for a short period and it'll only mine forward if we get the new members.
 
 we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself.
 
@@ -37,7 +37,7 @@ no smokers. zero tolerance in this phase. it's essential for security against wo
 
 only organic material is allowed to go in the land, from cosmetics to paint and anything that may quickly leak underground.
 
-![we are nature](wearenature.jpg)
+<iframe width="400" height="225" src="https://www.youtube.com/embed/H3dYs97krpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 recapitulating the main points:
 
