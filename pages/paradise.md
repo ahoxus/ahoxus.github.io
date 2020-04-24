@@ -30,7 +30,9 @@ when the project hits phase 2 and becomes completely self-sustainable, we'll add
 
 those daily costs can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week. but we don't really think in those terms, as you'll learn...
 
-doing the math, you can easily retire within our lifestyle. in an analogy mixed with estimate, with just 60k in your pocket you can pay for at least 10 years of life.
+doing the math, you can easily retire within our lifestyle. in an analogy-estimate, with just 60k in your pocket you can pay for at least 10 years of life.
+
+as soon as we assemble the new members we'll need to crowdfund (among us or elsewhere) to build the kitchen, some compost toilets, and a hot shower. these shouldn't cost more than 5k all together if we build them ourselves.
 
 no smokers. zero tolerance in this phase. it's essential for security against wood fire, in portugal.
 
