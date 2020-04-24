@@ -1,7 +1,7 @@
 ---
 title: paradise
 description: come co-create it from scratch!
-image: /pages/paradise.jpg
+image: /pages/paradise.jpeg
 permalink: /paradise/
 redirect_from:
   - /idea/
@@ -10,7 +10,7 @@ layout: page
 published: true
 ---
 
-![tk]({{ page.image }})
+![view of a paradise]({{ page.image }})
 
 # {{ page.description }}
 
@@ -53,3 +53,5 @@ recapitulating the main points:
 - pay attention to all details.
 
 - come enjoy life with all its potential and in harmony!
+
+[get in touch](/contact)
