@@ -8,6 +8,7 @@ redirect_from:
   - /contacts/
 layout: page
 published: true
+menu: true
 ---
 
 ![touching]({{ page.image }})
