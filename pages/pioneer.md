@@ -26,4 +26,4 @@ however, we're not the usual "startup" in any measure.
 
 so we decided to make this page as a landing place for pioneer community.
 
-if that's how you landed here, please continue to take it slow and move forward to [the landing page](/). and thank yo so much for doing so! 😆
+if that's how you landed here, please continue to take it slow and move forward to [the landing page](/). and thank you so much for doing so! 😆
