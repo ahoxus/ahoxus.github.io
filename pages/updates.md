@@ -19,6 +19,6 @@ menu: true
 
 - get more frequent updates on [telegram](//t.me/ahoxus).
 
-- manually check google drive for new prints from [our weekly participation in pioneer](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp).
+- manually check google drive for new prints from [our weekly participation in pioneer](/pioneer).
 
 - see [all website changes on GitHub](https://github.com/ahoxus/ahoxus.github.io/commits/master), if you dare!
