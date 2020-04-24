@@ -12,9 +12,11 @@ published: true
 
 we live in cheap shelters on a piece of land on the countryside with trees and away from the cities or big buildings. we will cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a hot shower (solar heated) and the internet.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/H3dYs97krpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='H3dYs97krpc' ratio='56.25%' %}
 
 # come co-create a paradise
+
+this is an opportunity to join in the first stage of building an eco village! we have a rough draft of what it'll be, most of it will be built together by you!
 
 want to join us? great timing! we're with [a **campaign** which started april 2020](/paradise).
 
