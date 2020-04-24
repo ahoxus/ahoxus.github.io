@@ -7,6 +7,7 @@ redirect_from:
   - /core principles/
 layout: page
 published: true
+menu: true
 ---
 
 ![core]({{ page.image }})
