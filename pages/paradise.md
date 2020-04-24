@@ -8,6 +8,7 @@ redirect_from:
   - /founding/
 layout: page
 published: true
+menu: true
 ---
 
 ![view of a paradise]({{ page.image }})
