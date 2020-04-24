@@ -8,8 +8,9 @@ redirect_from:
   - /hole/
 layout: page
 published: true
-menu: true
 ---
+
+before [tamera](/tamera) and focusing the project in community... there was little clue what ahoxus was!
 
 {{ page.description }}
 
