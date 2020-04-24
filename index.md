@@ -31,7 +31,3 @@ keep moving:
 - [**sign up** for our **updates** here](/updates) (such as with your email for our **mailing list**).
 
 site produced by [cregox](https://cregox.net/ahoxus).
-
-<style>
-body {max-width: 550px; margin: 0 auto; font-size: 15pt;}
-</style>
