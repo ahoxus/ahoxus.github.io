@@ -12,7 +12,7 @@ github_username: ahoxus
 include: [".well-known"]
 
 # tracking is a waste of resources. profit from sharing and caring instead #lifeprofit cregox.net/tracking 
-google_analytics: # UA-4687862-18 # placed on head include
+#google_analytics: # UA-4687862-18 # placed on head include
 
 # Build settings
 markdown: kramdown
