@@ -9,8 +9,10 @@ enforce_ssl: "ahoxus.org"
 github_url: https://github.com/ahoxus/ahoxus.github.io
 twitter_username: ahoxus
 github_username: ahoxus
-google_analytics: UA-4687862-18 # placed on head include
 include: [".well-known"]
+
+# tracking is a waste of resources. profit from sharing and caring instead #lifeprofit cregox.net/tracking 
+google_analytics: # UA-4687862-18 # placed on head include
 
 # Build settings
 markdown: kramdown
