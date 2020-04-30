@@ -21,7 +21,7 @@ we are accepting 10 new members. this campaign will last for a short period and 
 
 we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself.
 
-it's a project being made from scratch, now entering phase 1 of execution. this includes cooperating to flourish an integrated living and following our core values. all in portugal's countryside 10ha of land.
+it's a project being made from scratch, now entering phase 1 of execution. this includes cooperating to flourish an integrated living and following our [core values](/core). all in portugal's countryside 10ha of land.
 
 at first, it'll not be self-sustainable, so we will build it all. the daily cost, we calculate as something that might start as low as 10 euros. all basic needs are covered, such as water, food, electricity, and internet.
 
