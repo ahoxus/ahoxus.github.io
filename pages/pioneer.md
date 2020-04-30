@@ -18,6 +18,8 @@ however, we're not the usual "startup" in any measure.
 
 - perhaps the most common feedback we get from pioneer community: **confusing, too much text, looks like a blog, etc.**
 
+- we also get some wondering how they could actually move towards their own "ahoxus"... to that, we have every intention to help. for now: just get in touch and ask!
+
 - some people do understand it and even say "it's very clearly written". amazing enough (to our surprise as well), the one person who we finally managed to reach and get in touch with was exactly the target we had in mind! (he found us on YouTube, read the webpage, and got in touch over the comment section).
 
 - we do want to reach just a few more people like that (10 in total to be precise). reaching too many people would make us unable to respond to everyone.
