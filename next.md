@@ -23,7 +23,7 @@ these are 2 simulations from the first black hole we've ever seen.
   
   this one in YouTube is much cooler, though... and probably even more precise!
 
-  <iframe width="400" height="225" src="https://www.youtube.com/embed/KikdPbX7z8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' %}
 </details>
 
 now we shall do our own ahoxus version, you know, for promotion! ;)
