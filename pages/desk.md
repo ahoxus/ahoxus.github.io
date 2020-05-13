@@ -19,4 +19,4 @@ published: true
 - offer *up to* full transparency, in layers, for open source projects. this means versioning and automated local backups, like email SMTP.
 - no trackers. anonymous IDs, following ideas of covid19 private trackers.
 
-TK
+[TK](https://frontier.pioneer.app/posts/262-ahoxus-desk-or-dedesk)
