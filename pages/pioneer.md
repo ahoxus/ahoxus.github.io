@@ -12,9 +12,9 @@ published: true
 
 # {{ page.description }}
 
-we've been using pioneer gamified system to get some feedback since 2019. [here are the latest ones](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp).
+we've been using pioneer gamified system to get some feedback since 2019. [here are the latest iterations](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp).
 
-however, we're not the usual "startup" in any measure.
+however, we're not your usual "startup", by any measure. please, keep this in mind. also:
 
 - perhaps the most common feedback we get from pioneer community: **confusing, too much text, looks like a blog, etc.**
 
