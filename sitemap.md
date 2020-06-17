@@ -24,7 +24,7 @@ menu: true
 
 {% for page in site.pages %}
   {% if page.layout == 'page' %}
-    {% if page.menu == false %}
+    {% if page.menu == undefined %}
       {% if page.lang == undefined %}
         {% if page.title %}
           {% if page.sitemap != false %}
@@ -40,7 +40,7 @@ menu: true
 
 {% for page in site.pages %}
   {% if page.layout == 'page' %}
-    {% if page.menu == false %}
+    {% if page.menu == undefined %}
       {% if page.lang == 'pt' %}
         {% if page.title %}
           {% if page.sitemap != false %}
