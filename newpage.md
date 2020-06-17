@@ -9,7 +9,7 @@ redirect_from:
   - /new/
 layout: page
 published: true
-menu: false
+sitemap: false
 root: https://github.com/ahoxus/ahoxus.github.io
 ---
 
