@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
+<div class="post">
 
-  {% include head.html %}
+  <article class="post-content">
+    {{ content }}
+  </article>
 
-  <body>
-
-    <style>
-      body {max-width: default; margin: 0 auto; font-size: 15pt;}
-    </style>
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+</div>
