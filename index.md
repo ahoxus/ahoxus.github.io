@@ -1,6 +1,6 @@
 ---
 permalink: /
-image: wearenature.jpg
+image: _includes/tree.svg
 layout: landing
 title: home
 published: true
@@ -14,7 +14,7 @@ published: true
 
 we live in shelters on this piece of land at the countryside, with trees and away from the cities or big buildings. we will cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
-{% include ahoxus.svg.html %}
+{% include ahoxus.svg %}
 
 # co-create a paradise
 
@@ -22,7 +22,10 @@ this is a unique opportunity to join in the first stage of building an eco villa
 
 want to join us? great timing! we're with [a **campaign** which started april 2020](/paradise).
 
-[![we are nature]({{ page.image }})](/paradise)
+<!--
+[![we are nature]({{ page.image }})](/paradise) -->
+
+{% include tree.svg %}
 
 keep moving:
 

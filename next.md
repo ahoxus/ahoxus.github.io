@@ -32,4 +32,4 @@ the idea is simply using our colors there, with some mutation and the white back
 
 thus, becoming our beloved white hole.
 
-{% include ahoxus.svg.html %}
+{% include ahoxus.svg %}
