@@ -25,8 +25,6 @@ want to join us? great timing! we're with [a **campaign** which started april 20
 <!--
 [![we are nature]({{ page.image }})](/paradise) -->
 
-{% include tree.svg %}
-
 keep moving:
 
 - [a little story around our ideas](/story)

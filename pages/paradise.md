@@ -39,7 +39,7 @@ no smokers. zero tolerance in this phase. it's essential for security against wo
 
 only organic material is allowed to go in the land, from cosmetics to paint and anything that may quickly leak underground.
 
-![first caravan](/first caravan.jpg)
+{% include tree.svg %}
 
 recapitulating the main points:
 
