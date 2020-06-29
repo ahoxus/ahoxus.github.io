@@ -1,12 +1,14 @@
 ---
 title: sanflowers
-description: your flower from our online shopping
+description: your flower online
 permalink: /sanflowers/
 redirect_from:
   - /sanflower/
-redirect_to: http://sanflowersbyahoxus.com
+goto: http://sanflowersbyahoxus.com
 layout: page
 published: true
 ---
 
-# [{{ page.description }}]({{ page.redirect_to }})
+# [{{ page.description }}]({{ page.goto }})
+
+soon, a new way to shop and buy flowers... nothing too fancy, but more beautiful than ever, for you!
