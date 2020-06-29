@@ -1,7 +1,8 @@
 ---
 title: next
 description: what could we do next?
-image: blackhole.jpg
+category: plans
+image: /plans/blackhole.gif
 permalink: /next/
 redirect_from:
   - /soon/
@@ -12,18 +13,20 @@ published: true
 
 before [tamera](/tamera) and focusing the project in community... there was little clue what ahoxus was!
 
-{{ page.description }}
+this was (and still is) a plan for developing the page and blurred idea a bit further...
 
-# white hole
+# {{ page.description }}
 
-these are 2 simulations from the first black hole we've ever seen.
+**white hole!**
+
+below there are 2 simulations from the first black hole ever seen.
 
 <details>
-  <summary markdown="span">![black hole simulation](blackhole.gif)</summary>
+  <summary markdown="span">![black hole simulation](/{{ page.category }}/blackhole.hq.gif)</summary>
   
   this one in YouTube is much cooler, though... and probably even more precise!
 
-  {% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' %}
+  {% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' video='blackhole.mp4' %}
 </details>
 
 now we shall do our own ahoxus version, you know, for promotion! ;)

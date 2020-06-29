@@ -1,7 +1,8 @@
 ---
 title: tamera
 description: the community that inspired ahoxus
-image: tamera.jpg
+category: soon
+image: /pages/tamera.jpg
 permalink: /tamera/
 redirect_from:
   - /inspired/

@@ -7,7 +7,7 @@ redirect_from:
   - /cx/
   - /cregox/spot/
   - /cregox spot/
-layout: page
+layout: draft
 published: true
 ---
 

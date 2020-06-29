@@ -26,9 +26,47 @@ menu: true
   {% if page.layout == 'page' %}
     {% if page.menu == undefined %}
       {% if page.lang == undefined %}
-        {% if page.title %}
-          {% if page.sitemap != false %}
+        {% if page.category == undefined %}
+          {% if page.title %}
+            {% if page.sitemap != false %}
 - [{{page.title}}]({{ page.url | prepend: site.baseurl }})
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+# soon
+
+{% for page in site.pages %}
+  {% if page.layout == 'page' %}
+    {% if page.menu == undefined %}
+      {% if page.lang == undefined %}
+        {% if page.category == 'soon' %}
+          {% if page.title %}
+            {% if page.sitemap != false %}
+- [{{page.title}}]({{ page.url | prepend: site.baseurl }})
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+# outdated
+
+{% for page in site.pages %}
+  {% if page.layout == 'page' %}
+    {% if page.menu == undefined %}
+      {% if page.lang == undefined %}
+        {% if page.category == 'outdated' %}
+          {% if page.title %}
+            {% if page.sitemap != false %}
+- [{{page.title}}]({{ page.url | prepend: site.baseurl }})
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endif %}

@@ -1,6 +1,7 @@
 ---
 title: desk
 description: a relationship manager open protocol to be used for anything!
+category: outdated
 image: /pages/transmission.jpg
 permalink: /desk/
 redirect_from:
