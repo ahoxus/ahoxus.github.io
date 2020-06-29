@@ -1,8 +1,8 @@
 ---
 title: next
 description: what could we do next?
-category: plans
-image: /plans/blackhole.gif
+category: soon
+image: /soon/blackhole.gif
 permalink: /next/
 redirect_from:
   - /soon/
