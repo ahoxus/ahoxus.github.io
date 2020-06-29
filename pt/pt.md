@@ -12,6 +12,6 @@ published: true
 
 # {{ page.description }}
 
-pode encontrar a lista no [sitemap (chaos up, la em baixo)](/sitemap) lá em baixo estão as em português, separadas.
+pode encontrar a lista no [sitemap (chaos up, ao final de qualquer página)](/sitemap). lá em baixo estão aquelas em português.
 
 também pode ver uma [lista aqui no código fonte](https://github.com/ahoxus/ahoxus.github.io/tree/master/pt).
