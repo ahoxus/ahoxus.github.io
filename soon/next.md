@@ -22,11 +22,16 @@ this was (and still is) a plan for developing the page and blurred idea a bit fu
 below there are 2 simulations from the first black hole ever seen.
 
 <details>
-  <summary markdown="span">![black hole simulation](/{{ page.category }}/blackhole.hq.gif)</summary>
+  <summary markdown="span">
+    <video width="144" class="small center" autoplay loop muted playsinline preload poster="{{ page.image }}" src="/{{ page.category }}/blackhole.mp4">
+      ![black hole simulation](/{{ page.category }}/blackhole.hq.gif)
+    </video>
+  </summary>
   
   this one in YouTube is much cooler, though... and probably even more precise!
 
-  {% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' video='blackhole.mp4' %}
+  {% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' %}
+
 </details>
 
 now we shall do our own ahoxus version, you know, for promotion! ;)
