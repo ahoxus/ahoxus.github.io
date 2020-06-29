@@ -20,7 +20,7 @@ we live in shelters on this piece of land at the countryside, with trees and awa
 
 this is a unique opportunity to join in the first stage of building an eco village! we have a rough draft of what it'll be, most of it will be built together with you!
 
-want to join us? great timing! we're with [a **campaign** which started april 2020](/paradise).
+want to join us? great timing! we got [this **campaign** which started april 2020](/paradise).
 
 <!--
 [![we are nature]({{ page.image }})](/paradise) -->
