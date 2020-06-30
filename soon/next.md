@@ -21,23 +21,20 @@ this was (and still is) a plan for developing the page and blurred idea a bit fu
 
 below there are 2 simulations from the first black hole ever seen.
 
-<details>
-  <summary markdown="span">
-    <video width="144" class="small center" autoplay loop muted playsinline preload poster="{{ page.image }}" src="/{{ page.category }}/blackhole.mp4">
-      ![black hole simulation](/{{ page.category }}/blackhole.hq.gif)
-    </video>
-  </summary>
-  
-  this one in YouTube is much cooler, though... and probably even more precise!
+ <video width="220" class="small center" autoplay loop muted playsinline preload poster="{{ page.image }}" src="/{{ page.category }}/blackhole.mp4">
+  ![black hole simulation](/{{ page.category }}/blackhole.hq.gif)
+</video>
 
-  {% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' %}
+this first one, red and plain, was done even before we saw it... remarkable, isn't it?
 
-</details>
+{% include youtube.html id='KikdPbX7z8Q' ratio='56.25%' alt='30 minute loop - rotating accretion flow kerr black hole simulation' %}
 
-now we shall do our own ahoxus version, you know, for promotion! ;)
+but we actually prefer the second one, with double spinning around all axis. it is much cooler and probably even more precise!
 
-the idea is simply using our colors there, with some mutation and the white background instead of black.
+next, we shall do our own ahoxus version, you know, for promotion! 😏
 
-thus, becoming our beloved white hole.
+the idea is simply using our colors there, with some mutation and the white  background instead of black. also just a dozen circles or so, ordered in that somewhat chaotic fashion...
+
+... and turning into our beloved white hole.
 
 {% include ahoxus.svg %}

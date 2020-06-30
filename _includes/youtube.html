@@ -4,15 +4,19 @@
 }
 </style>
 
-<video width="144" class="center" controls preload poster="{{ include.poster }}" src="{{ include.video }}">
+{% if include.src %}
+<video controls preload width="{{ include.width }}" class="center" poster="{{ include.poster }}" src="{{ include.src }}">
+{% endif %}
 
 <div class="youtube-wrapper">
   <iframe src="https://www.youtube-nocookie.com/embed/{{ include.id }}" loading="eager" class="youtube-lazy" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    <h1>h1 test</h1>
+    {{ include.alt }} (youtube id {{ include.id }})
   </iframe>
 </div>
 
+{% if include.src %}
 </video>
+{% endif %}
 
 
 <!--script>

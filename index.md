@@ -6,7 +6,7 @@ title: home
 published: true
 ---
 
-{% include youtube.html id='H3dYs97krpc' ratio='56.25%' alt='youtube video we are nature' video="wonderifyoucan.mp4" poster="wonderifyoucan.jpg" %}
+{% include youtube.html id='H3dYs97krpc' ratio='56.25%' alt='ahoxus - we are nature - wonder if you can' src='wonderifyoucan.mp4' poster='wonderifyoucan.jpg' %}
 
 # improve your life mindset
 
