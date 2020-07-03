@@ -49,6 +49,8 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
+        // experimental fix for chrome on android
+        z-index: 18446744073709551616;
 
         .menu-icon {
             display: block;
