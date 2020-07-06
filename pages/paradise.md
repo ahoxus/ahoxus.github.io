@@ -15,17 +15,17 @@ menu: true
 
 # {{ page.description }}
 
-here's an idea. to be discussed and thought through together.
+this is **an idea** to be discussed and thought through together.
 
-we are accepting up to 10 new members. this campaign will last for a short period and it will only move forward if we get the new members.
+we are accepting 10 new members because that's our estimate of how many people can comfortably and lovely live in [our land](/map) today. the thinking is growing slowly and getting to know and help each other. and for that end, even 15 might already be too much.
 
-we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself.
+we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself. in other words, if you need to ask many questions every day, it's probably better you start visiting some well established communities first (such as [tamera, in south of portugal, about 5 to 8 hours away by car](/tamera)).
 
-it's a project being made from scratch, now entering phase 1 of execution. this includes cooperating to flourish an integrated living and following our [core values](/core). all in portugal's countryside 10ha of land.
+this is a project being made from scratch, now (in 2020) entering phase 1 of execution. this includes cooperating to flourish an integrated living and following our [core values](/core). all in this portugal's countryside 10ha of land. this means if you arrive today, you might find nothing in the land except trees and some wild life! as of july we have a very small shared space: a cheap car, our first tiny house and a tent, since april. and that was good enough to start living here!
 
-at first, it won't be (even) self-sustainable, so we will build it all. the daily cost, we calculate as something that might start as low as 10 euros. all basic needs are covered, such as water, food, electricity, and internet.
+at first, it's not self-sustainable. still, the individual daily cost we calculate as something that might start as low as 10 euros. all basic needs covered, such as water, food, electricity, and internet.
 
-with as little as 5k eur we can help you to purchase and install your mobile home in our land. you can then move it out to anywhere you want. it's your home!
+with as little as 5k eur you can purchase and bring your mobile home to our land. you can then move it out to anywhere you want. it's your home!
 
 when the project hits phase 2 and becomes completely self-sustainable, we'll add an option for visitors at 20 eur for at least 1 week. the income will go to the community and may be shared among members.
 
@@ -42,6 +42,8 @@ only organic material is allowed to go in the land, from cosmetics to paint and 
 {% include tree.svg %}
 
 recapitulating the main points:
+
+- this is just a plan, to be remade!
 
 - be #readytoshift and act fast.
 

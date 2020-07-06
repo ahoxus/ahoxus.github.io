@@ -3,16 +3,19 @@ permalink: /
 image: _includes/tree.svg
 layout: landing
 title: home
+description: one way to be prepared for the next lockdown
 published: true
 ---
 
 {% include youtube.html id='H3dYs97krpc' ratio='56.25%' alt='ahoxus - we are nature - wonder if you can' src='wonderifyoucan.mp4' poster='wonderifyoucan.jpg' %}
 
-# improve your life mindset
+# {{ page.description }}
 
-**ahoxus** is our life's project: a self-sustainable intentional community, also a  regenerative culture movement, in [10 hectares of land](/map) north of portugal since march 2020.
+**ahoxus** could be your life's project: [a big piece of land of land](/map) to live with your friends and family with zero need of **anything** from the outside!
 
-we live in shelters on this piece of land at the countryside, with trees and away from the cities or big buildings. we will cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
+in this site you can find plans about how we are living in shelters on this piece of land at the countryside (10ha, north of portugal, since march 2020), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
+
+we will cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
 {% include ahoxus.svg %}
 
@@ -20,7 +23,7 @@ we live in shelters on this piece of land at the countryside, with trees and awa
 
 this is a unique opportunity to join in the first stage of building an eco village! we have a rough draft of what it'll be, most of it will be built together with you!
 
-want to join us? great timing! we got [this **campaign** which started april 2020](/paradise).
+do you want to join us? great timing! we got [this **campaign** which started april 2020](/paradise). or just look at the plan to have a better idea of how you could start building your own paradise anywhere!
 
 <!--
 [![we are nature]({{ page.image }})](/paradise) -->
