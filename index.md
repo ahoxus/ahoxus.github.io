@@ -10,7 +10,7 @@ published: true
 
 # improve your life mindset
 
-**ahoxus** is our life's project: a self-sustainable intentional community, also a  regenerative culture movement, in 10 hectares of land north of portugal since march 2020.
+**ahoxus** is our life's project: a self-sustainable intentional community, also a  regenerative culture movement, in [10 hectares of land](/map) north of portugal since march 2020.
 
 we live in shelters on this piece of land at the countryside, with trees and away from the cities or big buildings. we will cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
