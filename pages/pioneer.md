@@ -1,6 +1,6 @@
 ---
 title: pioneer
-description: a fully remote accelerator?
+description: what are you building, in a sentence?
 image: /pages/pioneer.jpg
 permalink: /pioneer/
 redirect_from:
@@ -11,6 +11,10 @@ published: true
 ---
 
 # {{ page.description }}
+
+> we share whatever we learn from our own crisis preparation, while living life with joy and without money!
+
+is that answer clear enough? 😁
 
 we've been using pioneer gamified system to get some feedback since 2019. [the latest iterations are printed on google drive](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp).
 
