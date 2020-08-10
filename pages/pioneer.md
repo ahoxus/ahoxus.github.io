@@ -1,6 +1,8 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
+date: 2020-08-10 04:38:00
+frontier: https://frontier.pioneer.app/posts/83f19c40-cregox-ahoxus-org-progress-update-august-9th-2020
 image: /pages/pioneer.jpg
 permalink: /pioneer/
 redirect_from:
@@ -12,11 +14,11 @@ published: true
 
 # {{ page.description }}
 
-> we share whatever we learn from our own crisis preparation, while living life with joy and without money!
+> content. to get you inspired and start your own crisis-prepared-living, by moving from the city to the country side. fix your life today!
 
 is [this answer](https://frontier.pioneer.app/posts/24e9f43a-what-are-you-building-in-a-sentence) clear enough? 😁
 
-we've been using pioneer gamified system to get some feedback since 2019. [the latest iterations are printed on google drive](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp).
+we've been using pioneer gamified system to get some feedback since 2019. [the latest iterations are printed on *google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). also, you can [somehow find them on frontier]({{ page.frontier }}) and follow the chain (under the comments).
 
 however, we're not a "startup", by any measure. please, keep this in mind. that's also why we decided to make this page as a landing place (mostly for the pioneer community).
 
