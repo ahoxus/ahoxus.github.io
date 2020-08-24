@@ -4,6 +4,7 @@ image: _includes/tree.svg
 layout: landing
 title: home
 description: prepare for the next crisis
+date: 2020-08-24 01:17:00
 published: true
 ---
 
@@ -15,20 +16,22 @@ published: true
 
 here you can find ideas around how we are living in shelters at the countryside (10ha, north of portugal, since march 2020), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
 
-we will cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
+we shall cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
 {% include ahoxus.svg %}
 
 # co-create a paradise
 
-this is a unique opportunity to [join in the first stage of building an eco village](/paradise)! we have a rough draft of what it'll be, most of it will be built together with you!
+this is a unique opportunity to [join in the first stage of building an eco village](/paradise)! we have a rough draft of what it'll be, most of it will be built together with the first adventurers.
 
-you may also want to just look at the plan and look for inspiration of how you could start building your own paradise anywhere!
+you may also want to just look at the plan and seek inspiration of how you could start building your own paradise anywhere!
 
 <!--
 [![we are nature]({{ page.image }})](/paradise) -->
 
 # keep moving
+
+- [photo gallery](/gallery)
 
 - [a little story around our ideas](/story)
 

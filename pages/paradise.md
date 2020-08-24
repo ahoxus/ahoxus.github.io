@@ -1,7 +1,8 @@
 ---
 title: paradise
 description: come co-create it from scratch!
-image: /pages/paradise.jpeg
+date: 2020-08-24 02:40:00
+image: /gallery/pluma 2020 apr.jpg
 permalink: /paradise/
 redirect_from:
   - /idea/
@@ -11,7 +12,7 @@ published: true
 menu: true
 ---
 
-![view of a paradise]({{ page.image }})
+![view of a paradise in may]({{ page.image }})
 
 # {{ page.description }}
 
@@ -25,9 +26,9 @@ this is a project being made from scratch, now (in 2020) entering phase 1 of exe
 
 at first, it's not self-sustainable. still, the individual daily cost we calculate as something that might start as low as 10 euros. all basic needs covered, such as water, food, electricity, and internet.
 
-with as little as 5k eur you can purchase and bring your mobile home to our land. you can then move it out to anywhere you want. it's your home!
+**for instance**, with as little as 5k eur you can purchase and bring your mobile home to our land. you can then move it out to anywhere you want. it's your home!
 
-when the project hits phase 2 and becomes completely self-sustainable, we'll add an option for visitors at 20 eur for at least 1 week. the income will go to the community and may be shared among members.
+when the project hits phase 2 and becomes completely self-sustainable, we could add an option for visitors at 20 eur for at least 1 week. the income will go to the community and may be shared among members.
 
 those daily costs can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week. but we don't really think in those terms, as you'll learn...
 

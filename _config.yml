@@ -24,3 +24,16 @@ kramdown:
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+
+## Gallery Configuration ##
+# If you modify this, also modify the `default.scope.path` key below.
+gallery_dir: "gallery"
+# Any valid value of "background-position" CSS attribute.
+image_position: "left center"
+# jekyll configuration (usually?)
+defaults:
+ - scope:
+    # Should be same as the `gallery_dir` key above.
+    path: "gallery"
+   values:
+    image: true
