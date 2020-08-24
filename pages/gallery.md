@@ -15,10 +15,10 @@ published: true
 <section id="thumbnails">
   {% assign gallery = site.static_files | where: "image", true %}
   {% for image in gallery %}
-<article>
-  <a class="thumbnail" href="/{{ site.gallery_dir }}/{{ image.name }}" data-position="{{ site.thumbnail_position }}"><img src="/{{ site.gallery_dir }}/{{ image.name }}" alt="{{ image.basename }}" /></a>
-  <h2>{{ image.basename | replace: "_", " " }}</h2>
-</article>
+  <article>
+   <a class="thumbnail" href="/{{ site.gallery_dir }}/{{ image.name }}" data-position="{{ site.thumbnail_position }}"><img src="/{{ site.gallery_dir }}/{{ image.name }}" alt="{{ image.basename }}" /></a>
+   <h2>{{ image.basename | replace: "_", " " }}</h2>
+  </article>
   {% endfor %}
 </section>
 
