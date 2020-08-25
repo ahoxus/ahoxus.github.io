@@ -14,7 +14,7 @@ published: true
 
 **ahoxus** could be your life's project: [a big piece of land](/map) to live with your friends and family with zero need of **anything** from the outside!
 
-here you can find ideas around how we are living in shelters at the countryside (10ha, north of portugal, since march 2020), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
+here you can find ideas around how we are living in shelters at the countryside (over 15ha, north of portugal, since march 2020), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
 
 we shall cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
@@ -22,16 +22,14 @@ we shall cultivate the land to have better water and nature than before we arriv
 
 # co-create a paradise
 
-this is a unique opportunity to [join in the first stage of building an eco village](/paradise)! we have a rough draft of what it'll be, most of it will be built together with the first adventurers.
-
-you may also want to just look at the plan and seek inspiration of how you could start building your own paradise anywhere!
+we've got [a rough draft, still in the very first stage of building an eco village](/paradise)! most of it will be built together with the first adventurers...
 
 <!--
 [![we are nature]({{ page.image }})](/paradise) -->
 
 # keep moving
 
-- [photo gallery](/gallery)
+- [photo gallery](/gallery) will be updated often enough
 
 - [a little story around our ideas](/story)
 
