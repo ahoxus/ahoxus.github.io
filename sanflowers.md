@@ -1,6 +1,6 @@
 ---
 title: sanflowers
-description: your flowers delivered
+description: your flowers, delivered
 date: 2020-08-25 20:21:00
 permalink: /sanflowers/
 redirect_from:
