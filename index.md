@@ -18,7 +18,7 @@ here you can find ideas around how we are living in shelters at the countryside 
 
 we shall cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
-{% include ahoxus.svg %}
+![ahoxus circled logo](/_includes/ahoxus.svg)
 
 # co-create a paradise
 
