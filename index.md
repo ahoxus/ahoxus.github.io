@@ -1,6 +1,6 @@
 ---
 permalink: /
-image: _includes/tree.svg
+image: /pages/tree.svg
 layout: landing
 title: home
 description: prepare for the next crisis

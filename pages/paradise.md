@@ -46,7 +46,7 @@ only organic material is allowed to go in the land, from cosmetics to paint and 
 
 only vegan food. we don't have the infrastructure for composting meat. plus the smell in itself cam attract wild animals, which we also can't handle today.
 
-{% include tree.svg %}
+![tree](/pages/tree.svg)
 
 recapitulating the main points:
 
