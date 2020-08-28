@@ -37,4 +37,4 @@ the idea is simply using our colors there, with some mutation and the white  bac
 
 ... and turning into our beloved white hole.
 
-{% include ahoxus.svg %}
+![ahoxus circled logo](/ahoxus.svg)
