@@ -1,6 +1,6 @@
 ---
 permalink: /
-image: /pages/tree.svg
+image: /tree.svg
 layout: landing
 title: home
 description: prepare for the next crisis
@@ -18,7 +18,7 @@ here you can find ideas around how we are living in shelters at the countryside 
 
 we shall cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
 
-![ahoxus circled logo](/ahoxus.svg)
+{% include image.html url="/ahoxus.svg" alt="ahoxus circled logo" class="small center" %}
 
 # co-create a paradise
 
