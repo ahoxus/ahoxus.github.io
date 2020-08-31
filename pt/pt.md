@@ -15,3 +15,5 @@ published: true
 pode encontrar a lista no [sitemap (chaos up, ao final de qualquer página)](/sitemap). lá em baixo estão aquelas em português.
 
 também pode ver uma [lista aqui no código fonte](https://github.com/ahoxus/ahoxus.github.io/tree/master/pt).
+
+mas a maior parte do [conteúdo está em inglês](/) e os tradutores automáticos costumam fazer um bom trabalho. 😁👍
