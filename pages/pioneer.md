@@ -1,8 +1,8 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-08-24 00:38:00
-frontier: https://frontier.pioneer.app/posts/5dcf8e69-cregox-ahoxus-org-progress-update-august-23rd-2020
+date: 2020-08-31 10:10:00
+frontier: https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020
 image: /pages/pioneer.jpg
 permalink: /pioneer/
 redirect_from:
@@ -18,7 +18,7 @@ published: true
 
 # but what kind of content? is my life even broken?
 
-any kind. beginning with many manifestos, such as this very page.
+any kind of content. beginning with many manifestos, such as this very page.
 
 and yes, most people (in fact, way too many hunans) are living in a broken system and completely unaware there are much better options!
 
@@ -28,7 +28,7 @@ they're never easy options, and you'll have to find your own, but they are real.
 
 again, there's no magical solution...
 
-we've been using pioneer gamified system to be accountable and get feedback, since 2019. [lots of older iterations are printed on *google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). also, you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments).
+we've been using pioneer gamified system to be accountable and get feedback, since 2019. [lots of older iterations are printed on *google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). also, you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). since [the last day of august 2020 we started to add a lot of comments there as well. do take a look at the first one!](https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020)
 
 pioneer is basically a startup accelerator.
 
