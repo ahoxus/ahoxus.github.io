@@ -1,8 +1,8 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-09-07 20:28:00
-frontier: https://frontier.pioneer.app/posts/82aeb8e4-cregox-ahoxus-org-progress-update-september-7th-2020
+date: 2020-09-17 10:58:00
+frontier: https://frontier.pioneer.app/posts/cc3e7792-cregox-ahoxus-org-progress-update-september-13th-2020
 image: /pages/pioneer.jpg
 permalink: /pioneer/
 redirect_from:
@@ -28,7 +28,7 @@ they're never easy options, and you'll have to find your own, but they are real.
 
 again, there's no magical solution...
 
-we've been using pioneer gamified system to be accountable and get feedback, since 2019. [lots of older iterations are printed on *google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). also, you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). since [the last day of august 2020 we started to add a lot of comments there as well. do take a look at the first one!](https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020)
+we've been using pioneer gamified system to be accountable and get feedback, since 2019. [lots of older iterations are printed on *google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). also, you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). since the last day of august 2020 we started to add a lot of comments there as well. do take a look at the [first one](/paradise#another-perspective)!
 
 pioneer is basically a startup accelerator.
 
