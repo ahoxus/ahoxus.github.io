@@ -70,7 +70,7 @@ recapitulating the main points:
 
 [get in touch](/contact)
 
-# another perspective, by cregox
+# another perspective
 
 adapted from a [pioneer](/pioneer) update, posted [in the last day of august 2020](https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020).
 
