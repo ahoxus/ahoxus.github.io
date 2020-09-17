@@ -1,7 +1,7 @@
 ---
 title: paradise
 description: come co-create it from scratch!
-date: 2020-08-24 02:40:00
+date: 2020-09-17 10:37:00
 image: /gallery/pluma 2020 apr.jpg
 permalink: /paradise/
 redirect_from:
@@ -69,3 +69,31 @@ recapitulating the main points:
 - come enjoy life with all its potential and in harmony!
 
 [get in touch](/contact)
+
+# another perspective, by cregox
+
+adapted from a [pioneer](/pioneer) update, posted [in the last day of august 2020](https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020).
+
+from my rough estimations, my personal costs went from 10k to 6k per year, just by slowly removing housing over 1 year (from sep 2019 to 2020)! in february i finished paying for my trailer, which became my house.
+
+and the last 6 months showed how this cost could go further down:
+
+- i've spent 700 eur in my home upgrades, which includes the garden, most of which were purchased to last for many years.
+
+- the planting, diet change, and weekly routine getting more local, will further reduce my vehicle costs from the current 500, most of which comes from the routine and groceries. food, including snacks and eating out, is 1300.
+
+all together, that's up to 5k per year reduction possible, by using a bike. granted, it'll be important to still use the car to visit neighbor projects... there's a 1k/year cost to internet right now that will be reduced by about half just according to the current plan alone, and some extra costs that ads up to less than 500, so i could probably save at least another 4k per year.
+
+the drawbacks are plenty but, just like the benefits, there are 2 sides to them:
+
+- the initial investment (that i didn't do enough yet) to get more convenience (that i still don't have) such as the solar heated shower and room, a solar kitchen, etc. but i also currently "abuse" of a friendly situation in which i have access to those (not solar) in the near city.
+
+- internet access needs to be done by walking up the mountain, often. it's not reliable from current house location, but it does become good by walking up 100m or so, within the land. plus, internet isn't really that needed anyway, for most of the time, and it's a good exercise not relying on it and staying away!
+
+- electricity is by using batteries and manually changing them on the solar panel, on top of the hill. batteries are generally terrible on the sustainability scale. but it's still a small price to pay to stay connected to the world (wide web, anyway), since almost all of it go to cellphones (some to light and such smaller appliances on electricity cost).
+
+- the car is still an old one, using gasoline instead of electrical/bike. but it enables us to even make the project viable and it's still a minor cost and prejudice.
+
+- little protection from the rain and mud. but both are actually good for the body and skin, in moderation. right? 🤣
+
+- so many more, you'll have to visit to see! but you can also just visit your local eco village for most of the drawbacks and many more. ( ◜=_=◝ )♡
