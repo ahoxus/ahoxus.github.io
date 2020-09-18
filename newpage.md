@@ -68,7 +68,7 @@ published: true
 - again, optional, but try styling it up with markdown!
 
 ```
-it's very easy to make some words **bold** and other words *italic* with markdown. you can even [link to Google!](http://google.com)
+it's very easy to make some words **bold** and other words *italic* with markdown. you can even [link to ahoxus!](http://ahoxus.org)
 
 sometimes you want numbered lists:
 
