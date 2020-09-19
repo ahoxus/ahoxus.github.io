@@ -1,6 +1,7 @@
 ---
 title: suggest a new page
 description: help to build the website!
+date: 2020-09-19 18:27:00
 image: building.jpg
 permalink: /newpage/
 redirect_from:
@@ -55,6 +56,7 @@ published: false
 ---
 title: could be anything
 description: this is good for opengraph
+date: 2020-07-17 16:00:00
 image: spaces allowed.jpg
 permalink: /anything/
 redirect_from:
