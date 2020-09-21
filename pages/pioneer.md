@@ -1,8 +1,8 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-09-17 10:58:00
-frontier: https://frontier.pioneer.app/posts/cc3e7792-cregox-ahoxus-org-progress-update-september-13th-2020
+date: 2020-09-21 13:38:00
+frontier: https://frontier.pioneer.app/posts/155b89df-cregox-ahoxus-org-progress-update-september-21st-2020
 image: /pages/pioneer.jpg
 permalink: /pioneer/
 redirect_from:
@@ -11,6 +11,8 @@ redirect_from:
 layout: page
 published: true
 ---
+
+<!-- ![pioneer]({{ page.image }}) -->
 
 # [{{ page.description }}](https://frontier.pioneer.app/posts/24e9f43a-what-are-you-building-in-a-sentence)
 
