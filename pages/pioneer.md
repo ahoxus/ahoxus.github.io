@@ -1,7 +1,7 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-09-21 13:38:00
+date: 2020-09-27 03:04:00
 frontier: https://frontier.pioneer.app/posts/155b89df-cregox-ahoxus-org-progress-update-september-21st-2020
 image: /pages/pioneer.jpg
 permalink: /pioneer/
@@ -16,31 +16,31 @@ published: true
 
 # [{{ page.description }}](https://frontier.pioneer.app/posts/24e9f43a-what-are-you-building-in-a-sentence)
 
-> content. to get you inspired and start your own crisis-prepared-living, we moved from the city to the country side. fix your life today!
+> content to inspire starting a crisis-prepared life style after our own movement from the city to the country side. cheap and convenient.
 
 # but what kind of content? is my life even broken?
 
 any kind of content. beginning with many manifestos, such as this very page.
 
-and yes, most people (in fact, way too many hunans) are living in a broken system and completely unaware there are much better options!
+and yes, most people are living a broken life, unaware of other options!
 
-they're never easy options, and you'll have to find your own, but they are real. you probably just need to become aware, so you can choose for yourself.
+it's never easy, and each one have to find their own path... if they so choose to look for it.
 
 # tell me more!
 
-again, there's no magical solution...
+this is our path. we truly hope it can serve you well. 😄
 
-we've been using pioneer gamified system to be accountable and get feedback, since 2019. [lots of older iterations are printed on *google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). also, you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). since the last day of august 2020 we started to add a lot of comments there as well. do take a look at the [first one](/paradise#another-perspective)!
+we've been using pioneer gamified system to be accountable and get feedback, since 2019. the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). since early june 2020 you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). and since the last day of august 2020 we started to add a lot of comments there as well. do take a look at the [first one](/paradise#another-perspective)!
 
 pioneer is basically a startup accelerator.
 
-however, we're not a "startup", by any measure.
+however, ahoxus is not a "startup", by any measure.
 
-we are building some startup projects, such as [sanflowers](/sanflowers) for instance.
+we do build some startup projects, such as [sanflowers](/sanflowers) for instance.
 
-but ahoxus isn't that.
+but ahoxus is something else.
 
-sit back. take a deep breath. imagine you just stumbled on something randomly/serendipitously.
+sit back. take a deep breath. imagine you just stumbled here randomly/serendipitously.
 
 keep reading (below or elsewhere)... and enjoy!
 
