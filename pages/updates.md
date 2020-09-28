@@ -17,8 +17,8 @@ menu: true
 
 - [sign up our mailing list](https://forms.gle/VvdnPbZ7guF8y6er9) which hardly ever sends out any email!
 
-- get more frequent updates on [telegram](//t.me/ahoxus).
+- get more frequent updates on [telegram](https://t.me/ahoxus) or even less frequent on [twitter](https://twitter.com/ahoxus) (more like a badge, really).
 
-- check [our weekly participation on pioneer](/pioneer).
+- check [our weekly participation on pioneer](/pioneer). very frequent updates!
 
-- see [all website changes on github](https://github.com/ahoxus/ahoxus.github.io/commits/master), if you dare!
+- see [all website changes on github](https://github.com/ahoxus/ahoxus.github.io/commits/master), if you dare. not quite your regular update, but it's still something.
