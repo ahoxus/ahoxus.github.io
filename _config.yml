@@ -2,7 +2,7 @@
 title: ahoxus
 email: help@ahoxus.org
 description: chaos up! # goes in the document head meta (for
-#  google search results) and in the feed.xml site description.
+#  search engines results) and in the feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://ahoxus.org # the base hostname & protocol for your site
 enforce_ssl: "ahoxus.org"
@@ -11,8 +11,7 @@ twitter_username: ahoxus
 github_username: ahoxus
 include: [".well-known"]
 
-# tracking is a waste of resources. profit from sharing and caring instead #lifeprofit cregox.net/tracking 
-#google_analytics: # UA-4687862-18 # placed on head include
+# remember that tracking is a waste of resources. profit from sharing and caring instead #lifeprofit cregox.net/tracking 
 
 # Build settings
 markdown: kramdown
