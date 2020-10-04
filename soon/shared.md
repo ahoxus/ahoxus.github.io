@@ -7,7 +7,7 @@ permalink: /shared/
 redirect_from:
   - /files/
   - /public/
-layout: soon
+layout: page
 published: true
 ---
 
