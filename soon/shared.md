@@ -8,6 +8,7 @@ redirect_from:
   - /files/
   - /public/
 layout: page
+category: soon
 published: true
 ---
 
