@@ -16,7 +16,7 @@ published: true
 - exact (gps) location:
 
 [41°16'15.3"N 7°40'28.2"W
-(rua da conchada, andrães, portugal 5000-751)](geo:41.270915, -7.674503)
+(rua da conchada, andrães, portugal 5000-751)](geo:41.270915,-7.674503)
 
 it's about 12km from the nearest city (vila real, 50k habitants), or 16 minutes by car, or over 1h biking.
 
