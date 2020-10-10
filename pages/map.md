@@ -9,6 +9,7 @@ redirect_from:
   - /communities/
 layout: page
 published: true
+menu: true
 ---
 
 # {{ page.description }}

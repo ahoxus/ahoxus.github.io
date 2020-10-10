@@ -9,6 +9,7 @@ redirect_from:
   - /tale/
 layout: draft
 published: true
+menu: future
 ---
 
 # {{ page.description }}
