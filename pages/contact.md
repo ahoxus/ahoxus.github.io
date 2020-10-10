@@ -11,7 +11,7 @@ published: true
 menu: true
 ---
 
-![touching]({{ page.image }})
+![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
 # {{ page.description }}
 
@@ -21,4 +21,4 @@ or just find one of the members and contact them!
 
 there's at least one who's quite available: [cregox](https://cregox.net/contact)
 
-you may also just [come and visit us](/map), no appointment needed! however, the land might be empty for days. it's recommended to reach out as soon as possible if you want to find someone.
+you may also just [come and visit us](/visit), no appointment needed! however, the land might be empty for days. it's recommended to reach out as soon as possible if you want to find someone.
