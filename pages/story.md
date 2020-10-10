@@ -7,7 +7,7 @@ permalink: /story/
 redirect_from:
   - /the tale of ah/
   - /tale/
-layout: page
+layout: draft
 published: true
 ---
 
@@ -37,7 +37,7 @@ published: true
 > 
 > and then oX saw aH. noticed the stillness. but was still noticeably angry in the voice:
 > 
-> - are you ok?
+> \- are you ok?
 > 
 > aH just nodded with the head.
 > 
