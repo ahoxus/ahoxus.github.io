@@ -17,12 +17,18 @@ menu: true
 
 ![{{ page.image }}]({{ site.image_path }}{{ page.image }})
 
-if you don't need sleep accommodations and food, or you bring your own, just come! also, there are restaurants in a 5km radius.
+if you don't need sleep accommodations and food, or you bring your own, **just come**! also, there are restaurants in a 5km radius.
 
-it is recommended to arrange a date in advance if you also want to meet someone. for that, just [get in touch](/contact)!
+it is recommended to arrange a date in advance if you also want to meet someone. for that, just:
 
-then, see [the directions](/map) and come.
+- [get in touch](/contact)! (before comming)
 
-for now, you can see everything there's to expect on arrival at [airbnb](https://airbnb.com/h/ahoxus) (it's an unreleased thing we're planning there). we don't offer a typical "bed and breakfast", or even a typical wild camping, you should know, but it's quite enough of you're very adventurous!
+then, see the directions and come.
 
-and we love visitors! 🥰
+- [map](/map)
+
+for now, you can see everything there's to expect on arriving here at airbnb. it's an unreleased project right now, and a good "standardized" (as much as possible) way to present the space: keep in mind we don't offer a typical "bed and breakfast", or even a typical wild camping but it's quite enough if you're very adventurous!
+
+- [more details on airbnb](https://airbnb.com/h/ahoxus) (temporary)
+
+we love visitors, come and see! 🥰
