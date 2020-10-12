@@ -31,4 +31,4 @@ for now, you can see everything there's to expect on arriving here at airbnb. it
 
 - [more details on airbnb](https://airbnb.com/h/ahoxus) (temporary)
 
-we love visitors, come and see! 🥰
+we love visitors. remember to [breath](/breath) come and see for yourself! 🥰
