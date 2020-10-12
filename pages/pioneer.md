@@ -2,7 +2,7 @@
 title: pioneer
 description: what are you building, in a sentence?
 date: 2020-09-27 03:04:00
-frontier: https://frontier.pioneer.app/posts/155b89df-cregox-ahoxus-org-progress-update-september-21st-2020
+frontier: https://frontier.pioneer.app/posts/56ce59a1-cregox-ahoxus-org-progress-update-october-12th-2020
 image: /pages/pioneer.jpg
 permalink: /pioneer/
 redirect_from:
@@ -20,7 +20,7 @@ published: true
 
 # but what kind of content? is my life even broken?
 
-any kind of content. beginning with many manifestos, such as this very page.
+any kind of content. beginning with many manifestos, such as this very page. eventually leading to a collaborative, free, and online kind of "[book](/story)".
 
 and yes, most people are living a broken life, unaware of other options!
 
