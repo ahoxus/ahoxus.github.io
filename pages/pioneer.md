@@ -20,7 +20,7 @@ published: true
 
 # but what kind of content? is my life even broken?
 
-any kind of content. beginning with many manifestos, such as this very page. eventually leading to a collaborative, free, and online kind of "[book](/story)".
+any kind of content. beginning with many manifestos, such as this very page. eventually leading to a collaborative, free, and online [story](/story) (kind of like an e-book).
 
 and yes, most people are living a broken life, unaware of other options!
 
