@@ -14,15 +14,17 @@ menu: true
 
 ![view of a paradise in may]({{ page.image }})
 
+everyone is welcomed to [[visit](/visit)].
+
+then, to become a new member, it'll be like any long term relationship: first we meet, then we spend time together. eventually you'll know better than any of us if you should stay! 😏
+
 # {{ page.description }}
 
 this is **an idea** to be discussed and thought through together.
 
-everyone is welcomed to [[visit](/visit)]. as to become a new member it'll be like any long term relationship: first we meet, then we spend time together. eventually you'll know better than any of us if you should stay! 😏
+we are accepting new members up to 10 people, to comfortably and lovely live in [our land](/map). we want to grow slowly, always getting to know and helping each other.
 
-in any case, we are accepting new members up to 10 people, to comfortably and lovely live in [our land](/map). we want to grow slowly, always getting to know and helping each other.
-
-we want people who are ready to shift their world and live with us for at least 1 year. read everything here. talk to us. act by yourself. in other words, if you need to ask many questions every day, it's probably better you start visiting some well established communities first (such as [tamera, in south of portugal, about 5 to 8 hours away by car](/tamera)).
+and we need people who are ready to shift their world and live with us for at least 1 year. read everything here. talk to us. act by yourself. in other words, if you need to ask many questions every day, it's probably better you start visiting some well established communities first (such as [tamera, in south of portugal, about 5 to 8 hours away by car](/tamera)).
 
 this is a project being made from scratch. in 2020 it entered phase 1 of execution. this includes cooperating to flourish an integrated living and following our [core values](/core). this means if you arrive today, you might find nothing in the land except trees and some wild life! as of october we have a very small shared space: a cheap car, our first tiny house and a tent. good enough to live anywhere!
 
