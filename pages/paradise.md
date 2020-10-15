@@ -1,7 +1,7 @@
 ---
 title: paradise
 description: come co-create it from scratch!
-date: 2020-09-17 10:37:00
+date: 2020-10-15 07:37:00
 image: /gallery/pluma 2020 apr.jpg
 permalink: /paradise/
 redirect_from:
@@ -18,25 +18,25 @@ menu: true
 
 this is **an idea** to be discussed and thought through together.
 
-everyone is welcomed to visit, meet and talk, but to become a new member it'll be like any long term relationship: first we meet, then we spend time together. eventually you'll know better than any of us if you should stay! 😏
+everyone is welcomed to [[visit](/visit)]. as to become a new member it'll be like any long term relationship: first we meet, then we spend time together. eventually you'll know better than any of us if you should stay! 😏
 
-in any case, we are accepting 10 new members because that's our estimate of how many people can comfortably and lovely live in [our land](/map) today. the thinking is growing slowly and getting to know and help each other. and for that end, even 15 might already be too much. (again, keep in mind it's just a plan!)
+in any case, we are accepting new members up to 10 people, to comfortably and lovely live in [our land](/map). we want to grow slowly, always getting to know and helping each other.
 
-we want people who are ready to shift their world and live with us for 1 year. read everything here. talk to us. act by yourself. in other words, if you need to ask many questions every day, it's probably better you start visiting some well established communities first (such as [tamera, in south of portugal, about 5 to 8 hours away by car](/tamera)).
+we want people who are ready to shift their world and live with us for at least 1 year. read everything here. talk to us. act by yourself. in other words, if you need to ask many questions every day, it's probably better you start visiting some well established communities first (such as [tamera, in south of portugal, about 5 to 8 hours away by car](/tamera)).
 
-this is a project being made from scratch, now (in 2020) entering phase 1 of execution. this includes cooperating to flourish an integrated living and following our [core values](/core). all in this portugal's countryside 10ha of land. this means if you arrive today, you might find nothing in the land except trees and some wild life! as of july we have a very small shared space: a cheap car, our first tiny house and a tent, since april. and that was good enough to start living here!
+this is a project being made from scratch. in 2020 it entered phase 1 of execution. this includes cooperating to flourish an integrated living and following our [core values](/core). this means if you arrive today, you might find nothing in the land except trees and some wild life! as of october we have a very small shared space: a cheap car, our first tiny house and a tent. good enough to live anywhere!
 
 at first, it's not self-sustainable. still, the individual daily cost we calculate as something that might start as low as 10 euros. all basic needs covered, such as water, food, electricity, and internet.
 
-**for instance** (as this is only a thought, right?), with as little as 5k eur you can purchase and bring your mobile home to our land. you can then move it out to anywhere you want. it's your home!
+**for instance** (as this is only a thought, right?), with as little as 2k eur you can purchase and bring your mobile home to our land (like cregox did). you can then move it out to anywhere you want. it's your home!
 
-when the project hits phase 2 and becomes completely self-sustainable, we could add an option for visitors at 20 eur for at least 1 week. the income will go to the community and may be shared among members. (remember, nothing more than ideas, still!)
+when the project hits phase 2 and becomes completely self-sustainable, we could add an option for visitors at 20 eur for at least 1 week. the income could go to the community and even shared among members. (remember, nothing more than ideas, still!)
 
-those daily costs can be further reduced, depending on how much value you can bring. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week. but we don't really think in those terms, as you'll learn... 
+those daily costs could be further reduced, depending on how much value each person brings. everyone will be required to live and work in the community. kitchen. garden. composting. maintenance in general. an equivalent shift of up to 4h per day, average. 20h per week at most. but we don't really think in those terms, as you'll learn... 
 
 doing the math, you can easily retire within our lifestyle. in an analogy-estimate, with just 60k in your pocket, you can pay for at least 10 years of life. (but let's not get too far on the mind here)
 
-as soon as we assemble the new members we probably should crowdfund (among us or elsewhere) to build the kitchen, some compost toilets, and a hot shower, for instance. these mustn't cost more than 5k all together if we build them ourselves. (hopefully)
+as soon as we assemble the new members we probably should crowdfund (among us or elsewhere) to build the kitchen, more compost toilets, and a hot shower, for instance. these mustn't cost more than 5k all together if we build them ourselves. (hopefully)
 
 we do have many restrictions as well!
 
@@ -74,26 +74,26 @@ recapitulating the main points:
 
 adapted from a [pioneer](/pioneer) update, posted [in the last day of august 2020](https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020).
 
-from my rough estimations, my personal costs went from 10k to 6k per year, just by slowly removing housing over 1 year (from sep 2019 to 2020)! in february i finished paying for my trailer, which became my house.
+from cregox rough estimations, his personal costs went from 10k to 6k per year, just by slowly removing housing over 1 year (from sep 2019 to 2020)! in february he finished paying for ahoxus's trailer, which became his (for now) house.
 
 and the last 6 months showed how this cost could go further down:
 
-- i've spent 700 eur in my home upgrades, which includes the garden, most of which were purchased to last for many years.
+- he've spent 700 eur in home upgrades, which includes the garden, most of which were purchased to last for many years.
 
-- the planting, diet change, and weekly routine getting more local, will further reduce my vehicle costs from the current 500, most of which comes from the routine and groceries. food, including snacks and eating out, is 1300.
+- the planting, diet change, and weekly routine getting more local, will further reduce the vehicle costs from the current 500, most of which comes from the routine and groceries. food, including snacks and eating out, is 1300.
 
-all together, that's up to 5k per year reduction possible, by using a bike. granted, it'll be important to still use the car to visit neighbor projects... there's a 1k/year cost to internet right now that will be reduced by about half just according to the current plan alone, and some extra costs that ads up to less than 500, so i could probably save at least another 4k per year.
+all together, that's up to 5k per year reduction possible, by using a bike. granted, it'll be important to still use the car to visit neighbor projects... there's a 1k/year cost to internet right now that will be reduced by about half just according to the current plan alone, and some extra costs that ads up to less than 500, so he could probably save at least another 4k per year.
 
 the drawbacks are plenty but, just like the benefits, there are 2 sides to them:
 
-- the initial investment (that i didn't do enough yet) to get more convenience (that i still don't have) such as the solar heated shower and room, a solar kitchen, etc. but i also currently "abuse" of a friendly situation in which i have access to those (not solar) in the near city.
+- the initial investment (that can always be bigger and he still wants more) to get more (currently missing) convenience such as the solar heated shower and bath room, a solar kitchen, etc. but he also used a friendly situation in which he had access to those (not solar) in the near city.
 
-- internet access needs to be done by walking up the mountain, often. it's not reliable from current house location, but it does become good by walking up 100m or so, within the land. plus, internet isn't really that needed anyway, for most of the time, and it's a good exercise not relying on it and staying away!
+- internet access needs to be done by walking up the mountain, often. it's not reliable from current house location, but it does become good by walking up 100m or so, within the land. plus, internet isn't really that needed anyway, for most of the time, and it's surprisingly (for someone who been online since before the www) a good exercise not relying on it and staying away!
 
-- electricity is by using batteries and manually changing them on the solar panel, on top of the hill. batteries are generally terrible on the sustainability scale. but it's still a small price to pay to stay connected to the world (wide web, anyway), since almost all of it go to cellphones (some to light and such smaller appliances on electricity cost).
+- electricity is by using batteries and manually changing them on the solar panel, on top of the hill. batteries are generally terrible on the sustainability scale but it's still a small price to pay to stay connected to the world (wide web, anyway), since almost all of it go to cellphones (some to light and such smaller appliances on electricity cost).
 
 - the car is still an old one, using gasoline instead of electrical/bike. but it enables us to even make the project viable and it's still a minor cost and prejudice.
 
 - little protection from the rain and mud. but both are actually good for the body and skin, in moderation. right? 🤣
 
-- so many more, you'll have to visit to see! but you can also just visit your local eco village for most of the drawbacks and many more. ( ◜=_=◝ )♡
+- so many more, you'll have to [[visit](/visit)] and see! or you can visit your local eco village for most of the drawbacks and many more. ( ◜=_=◝ )♡
