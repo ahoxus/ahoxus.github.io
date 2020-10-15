@@ -42,7 +42,7 @@ as soon as we assemble the new members we probably should crowdfund (among us or
 
 we do have many restrictions as well!
 
-no smokers. zero tolerance in this phase. it's essential for security against wood fire, in portugal.
+no smokers. zero tolerance. it's essential for security against wood fire, in portugal.
 
 only organic material is allowed to go in the land, from cosmetics to paint and anything that may quickly leak underground.
 
@@ -54,23 +54,23 @@ recapitulating the main points:
 
 - this is just a plan, to be remade!
 
-- be #readytoshift and act fast.
+- be #readytoshift
 
-- bring your home.
+- bring your home
 
-- get at least 3650 eur ready for minimal costs over 1 year.
+- be aware at least 3650eur (10eur per day) is probably the minimal costs over 1 year
 
-- no smoking.
+- no smoking
 
-- only organic.
+- only organic
 
-- no meat and derivatives, due to composting and smell.
+- no meat and derivatives, due to composting and smell
 
-- pay attention to all details.
+- pay attention to all details (but don't be too picky)
 
 - come enjoy life with all its potential and in harmony!
 
-[get in touch](/contact)
+[get in touch](/contact)!!
 
 # another perspective
 
