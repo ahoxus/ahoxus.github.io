@@ -1,7 +1,7 @@
 ---
 title: story
 description: an ahoxus tale
-date: 2020-10-14 19:51
+date: 2020-10-16 06:44:00
 image: ah and the sunrise.jpg
 permalink: /story/
 redirect_from:
@@ -12,9 +12,11 @@ published: true
 menu: true
 ---
 
-# {{ page.description }}
+### {{ page.description }}
 
 ![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+
+## #jolting
 
 > a long time ago a big kid, aH, was eating cereals on a bowl, sitting silent on a chair, contemplating the sunrise.
 > 
@@ -62,6 +64,45 @@ this flashback should be about past and future moments, without a clear distinct
 
 it's important to distinguish the first flashback time elapsed from this one: it took a short time for oX to first approach and a much longer time to realise what happened.
 
-# edited
+## #notes
 
-the deleted parts, and everything else that changed, should be in git's history log. somewhere. click on the date stamp on the top!
+- still a draft!
+- real legendary stories (including real dreams)
+- ready to be filmed
+- men dressing like girls, women like boys, ungendered
+- no makeup, no making up
+- little to no dialog
+
+## #dream
+
+the last chapter?
+
+> aH is in a class room. bored. it's some sort of exact science class. no teacher arrived yet. the big kids talk and play among each other. the window shows some birds and trees. aH keep starring at them. it's always visibly a dream, but as with most dreams, this one feels real.
+> 
+> uZ, a bald and bold person, brings their chair close. aH looks at uZ. uZ smiles. with a quirk side lips. aH smiles back with a mix of shyness and frustration.
+> 
+> a teacher comes in. both aH and uZ are not interested in the class. they know it already. suddenly aH, who was on the mid back row is now on the front. the teacher continues to teach. then stops.
+> 
+> gO, a smaller kid, interested in the class and curious about all things, look at the sunlight shining from the window with all the dust inside, points at it and ask aH:
+> 
+> \- is that air?
+> 
+> it's not air. it just shows the air. every single gas is completely invisible. but the air (composed mostly of N, O, and Ar) can suspend particles of matter and, inside a room like this, with the contrast of the sunlight hitting just a few of them, it's easy to see the indirect air.
+> 
+> aH goes back near uZ, who's happy to see aH is back. so is aH. but aH implies being unsatisfied there.
+> 
+> uZ tells aH to just go to another class, then! aH chooses art. and almost wakes up.
+> 
+> aH is at the bed. eyes closed.
+> 
+> aH goes back to imagination, now a clear dream-ish like state. filled with questions. must i start recruiting people now? spreading the word? but how? joining a school institution? fuck that (sorry uZ)! "big promotion! you can win a car and a land space to build your house!!"? or just start video recording this very story on your own, to quickly publish? so many thoughts and ideas and terrible ideas...
+> 
+> a star splits into 2 on the sky. one stays, the other one moves as a satellite would. it's 0600. completely dark. aH wakes up, look at the sky, and gaze at the splitting star.
+> 
+> gets a phone, and start writing this story.
+> 
+> it's now 2h later and morning, with plenty of sunlight from the cold sunrise.
+
+## #edited
+
+the deleted parts, and everything else that changed, should be in git's history log, somewhere. the date stamp on the top shall have a link.
