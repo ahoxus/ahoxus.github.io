@@ -38,7 +38,7 @@ you could, for instance, copy and paste this in an email. and don't need to both
 - date and time of arrival
 - date of departure
 - arrival method (car or bus)
-- do you wish to be picked up at the bus station?
+- wish to be picked up at the [coach bus station](geo:41.29944,-7.75002)
 - accommodation (your own or ours)
 - security deposit of 256 eur (cash, bank, or bitcoin)
 - daily contribution
