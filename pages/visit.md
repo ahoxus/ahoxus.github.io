@@ -34,4 +34,4 @@ for now, you can see everything there's to expect on arriving here at airbnb. it
 
 finally, you may also consider to [join our work force](/join).
 
-we love visitors. remember to [breath](/breath) come and see for yourself! 🥰
+we love visitors. remember to [breath](/breath), come, and see for yourself! 🥰

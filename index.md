@@ -12,11 +12,13 @@ published: true
 
 # {{ page.description }}
 
-**ahoxus** could be your life's project: [a big piece of land](/map) to live with your friends and family with zero need of **anything** from the outside!
+**ahoxus** is content for you.
 
-here you can find ideas around how we are living in shelters at the countryside (over 15ha, north of portugal, since march 2020), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
+it could be your life's project: [a big piece of land](/map) to live with your friends, family, sand neighbors while fully enjoying and improving the surroundings for the present and future.
 
-we shall cultivate the land to have better water and nature than before we arrived. all along with some basic and cheap conveniences, like a solar heated shower and the internet.
+in this site you can find ideas around how we can live in shelters at the countryside (over 15ha, north of portugal, since march 2020 in our case), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
+
+we shall cultivate the land to have better water and nature than before we arrived. all along with some basic, cheap, and incredible conveniences, like a solar heated shower and the internet, while learning how to not rely only on them.
 
 {% include image.html url="/ahoxus.svg" alt="ahoxus circled logo" class="small center" %}
 
@@ -27,11 +29,13 @@ we've got [a rough draft, still in the very first stage of building an eco villa
 <!--
 [![we are nature]({{ page.image }})](/paradise) -->
 
+# read our story
+
+[the story](/story) is being made and can be read while in the making. it's all based on our learnings
+
 # keep moving
 
 - [photo gallery](/gallery) will be updated often enough
-
-- [a little story around our ideas](/story)
 
 - [core principles](/core)
 
