@@ -2,17 +2,18 @@
 title: paradise
 description: come co-create it from scratch!
 date: 2020-10-15 07:37:00
-image: /gallery/pluma 2020 apr.jpg
-permalink: /paradise/
+image: 2020-04 pluma.jpg
+permalink: paradise
 redirect_from:
-  - /idea/
-  - /founding/
+  - 2020-04 pluma
+  - idea
+  - founding
 layout: page
 published: true
 menu: true
 ---
 
-![view of a paradise in may]({{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 everyone is welcomed to [[visit](/visit)].
 

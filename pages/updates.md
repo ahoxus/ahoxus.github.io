@@ -1,17 +1,18 @@
 ---
 title: updates
 description: get notified about news on ahoxus!
-image: /pages/ahoxus exploded lemon.jpg
-permalink: /updates/
+image: 2018-07 ahoxus exploded lemon.jpg
+permalink: updates
 redirect_from:
-  - /mailing/
-  - /list/
+  - 2018-07 ahoxus exploded lemon
+  - mailing
+  - list
 layout: page
 published: true
 menu: true
 ---
 
-![ahoxus exploded lemon]({{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 # {{ page.description }}
 

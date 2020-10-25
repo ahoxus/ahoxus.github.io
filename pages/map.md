@@ -2,11 +2,12 @@
 title: map
 description: some ways to locate ahoxus
 date: 2020-08-27 17:23:00
-image: shape.png
-permalink: /map/
+image: 2020-04-01 naturala shape.png
+permalink: map
 redirect_from:
-  - /list/
-  - /communities/
+  - 2020-04-01 naturala shape
+  - list
+  - communities
 layout: page
 published: true
 menu: true
@@ -29,7 +30,7 @@ andraes have no public transportation.
 
 - current shape of our land:
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 - other communities in portugal:
 

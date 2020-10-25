@@ -1,18 +1,19 @@
 ---
 title: you only live once
 description: is yolo the new carpe diem?
-image: /pages/nice bed making.jpg
-permalink: /yolo/
+image: 2019-12 nice bed making.jpg
+permalink: yolo
 redirect_from:
-  - /you only live once/
-  - /carpe diem/
-  - /carpet/
-  - /dion/
+  - 2019-12 nice bed making
+  - you only live once
+  - carpe diem
+  - carpet
+  - dion
 layout: page
 published: true
 ---
 
-![really nice bed making]({{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 # {{ page.description }}
 

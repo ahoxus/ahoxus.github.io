@@ -2,17 +2,19 @@
 title: tamera
 description: the community that inspired ahoxus
 date: 2020-08-28 10:01:00
-image: /pages/171005_Alentejo_Community_Time_Walk_Chapel_SDV_33_BANNER.jpg
-permalink: /tamera/
+image: 2019-07 alentejo community time walk chapel.jpg
+permalink: tamera
 redirect_from:
-  - /inspired/
-  - /community/
+  - 2019-07 alentejo community time walk chapel
+  - 2019-06 tamera vision
+  - inspired
+  - community
 layout: page
 published: true
-tamera: /gallery#tamera 2019 jun
+tamera: 2019-06 tamera vision.jpg
 ---
 
-![tamera]({{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 # {{ page.description }}
 
@@ -26,8 +28,8 @@ also they have their own language and belief system, which is very hard to grasp
 
 [tamera.org](//tamera.org)
 
-[![tamera](/gallery/tamera 2019 jun.jpg)]({{ page.tamera }})
+[![{{ page.tamera }}]({{ site.image_path }}{{ page.tamera }})](/gallery#{{ page.tamera }})
 
-[*i couldn't find 3 of my favourite tamerians in the photos here*]({{ page.tamera }})
+*i couldn't find 3 of my favourite tamerians in the photos here*
 
 in the end, it's just a bunch of people trying their best to look at the whole system of the world today and reinvent everything. as if it was possible to do it from scratch. it isn't. but it's there, clearly worth trying!

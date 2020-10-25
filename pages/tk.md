@@ -3,11 +3,11 @@ title: to kome
 description: another way to say "work in progress"
 date: 2020-10-10 19:31:00
 image: wtf.jpg
-permalink: /tk/
+permalink: tk
 redirect_from:
-  - /TK/
-  - /come/
-  - /writing/
+  - TK
+  - come
+  - writing
 layout: draft
 published: true
 ---

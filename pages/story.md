@@ -2,11 +2,12 @@
 title: story
 description: an ahoxus tale
 date: 2020-10-16 06:44:00
-image: ah and the sunrise.jpg
-permalink: /story/
+image: 2020-10 ah and the sunrise.jpg
+permalink: story
 redirect_from:
-  - /an ahoxus tale/
-  - /tale/
+  - 2020-10 ah and the sunrise
+  - an ahoxus tale
+  - tale
 layout: draft
 published: true
 menu: true
@@ -14,7 +15,7 @@ menu: true
 
 ### {{ page.description }}
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 ## #jolting
 

@@ -1,17 +1,18 @@
 ---
 title: contact
 description: get in touch with us
-image: /gallery/solar 2020 feb.jpg
-permalink: /contact/
+image: 2020-02 solar.jpg
+permalink: contact
 redirect_from:
-  - /touch/
-  - /contacts/
+  - 2020-02 solar
+  - touch
+  - contacts
 layout: page
 published: true
 menu: true
 ---
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 # {{ page.description }}
 

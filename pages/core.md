@@ -1,18 +1,20 @@
 ---
 title: core principles
-image: /pages/core.jpg
-permalink: /core/
+description: unreliable mind awareness
+image: 2020-01 lisandro river.jpg
+permalink: core
 redirect_from:
-  - /principles/
-  - /core principles/
+  - 2020-01 lisandro river
+  - principles
+  - core principles
 layout: page
 published: true
 menu: true
 ---
 
-![core]({{ page.image }})
+# {{ page.description }}
 
-## unreliable mind awareness
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 we strive for being really aware how the human mind, mainly the brain, is unreliable. optical and auditory illusions are a couple of simple examples of how it consistently malfunctions. and, still...
 

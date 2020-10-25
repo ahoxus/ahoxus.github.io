@@ -2,9 +2,10 @@
 title: join us!
 description: let us know more about you
 date: 2020-10-25 12:19:00
-image: nearby lake 2020 jun.jpg
+image: 2020-06 nearby lake.jpg
 permalink: join
 redirect_from:
+  - 2020-06 nearby lake
   - form
   - you
 layout: page
@@ -13,7 +14,8 @@ published: true
 
 # {{ page.description }}
 
-![{{ page.image }}]({{ site.image_path }}{{ page.image }})
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+
 
 so you want to [[visit](/visit)] us and join, even if for just 2 nights, our work force?
 

@@ -3,16 +3,17 @@ title: pioneer
 description: what are you building, in a sentence?
 date: 2020-10-17 15:21:00
 frontier: https://frontier.pioneer.app/posts/47871518-cregox-ahoxus-org-progress-update-october-17th-2020
-image: /pages/pioneer.jpg
-permalink: /pioneer/
+image: 2020-08 garden.jpg
+permalink: pioneer
 redirect_from:
-  - /accelerate/
-  - /slow/
+  - 2020-08 garden
+  - accelerate
+  - slow
 layout: page
 published: true
 ---
 
-<!-- ![pioneer]({{ page.image }}) -->
+[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 # [{{ page.description }}](https://frontier.pioneer.app/posts/24e9f43a-what-are-you-building-in-a-sentence)
 
