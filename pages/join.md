@@ -2,12 +2,12 @@
 title: join us!
 description: let us know more about you
 date: 2020-10-25 12:19:00
-image: mirror.jpg
+image: nearby lake 2020 jun.jpg
 permalink: join
 redirect_from:
   - form
   - you
-layout: draft
+layout: page
 published: true
 ---
 

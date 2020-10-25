@@ -2,7 +2,7 @@
 title: visiting
 description: information for guest visitors
 date: 2020-10-10 20:47:00
-image: guest.jpg
+image: sky 2020 jul.jpg
 permalink: visit
 redirect_from:
   - visiting

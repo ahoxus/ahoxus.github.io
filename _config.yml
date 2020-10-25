@@ -36,3 +36,5 @@ defaults:
     path: "gallery"
    values:
     image: true
+
+image_path: /gallery/
