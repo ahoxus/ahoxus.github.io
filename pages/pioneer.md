@@ -1,8 +1,8 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-10-17 15:21:00
-frontier: https://frontier.pioneer.app/posts/47871518-cregox-ahoxus-org-progress-update-october-17th-2020
+date: 2020-10-25 16:57:00
+frontier: https://frontier.pioneer.app/posts/de13e36a-cregox-ahoxus-org-progress-update-october-25th-2020
 image: 2020-08 garden.jpg
 permalink: pioneer
 redirect_from:
@@ -43,7 +43,7 @@ but ahoxus is something else.
 
 sit back. take a deep breath. imagine you just stumbled here randomly/serendipitously.
 
-keep reading (below or elsewhere)... and enjoy!
+keep reading... and enjoy!
 
 # common points raised on pioneer updates
 
