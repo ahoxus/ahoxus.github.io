@@ -32,6 +32,6 @@ for now, you can see everything there's to expect on arriving here at airbnb. it
 
 - [more details (temperately) on airbnb](https://airbnb.com/h/ahoxus)
 
-finally, you may also consider to [join our work force](/join).
+finally, you may also consider to [join our work force](/join) or simply [[staying](/stay)] for some time.
 
 we love visitors. remember to [breath](/breath), come, and see for yourself! 🥰

@@ -8,7 +8,8 @@ redirect_from:
   - 2020-10 ah and the sunrise
   - an ahoxus tale
   - tale
-layout: draft
+layout: page
+category: soon
 published: true
 menu: true
 ---

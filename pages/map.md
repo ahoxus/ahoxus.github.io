@@ -2,10 +2,10 @@
 title: map
 description: some ways to locate ahoxus
 date: 2020-08-27 17:23:00
-image: 2020-04-01 naturala shape.png
+image: 2020-03 reserva shape.png
 permalink: map
 redirect_from:
-  - 2020-04-01 naturala shape
+  - 2020-03 reserve shape
   - list
   - communities
 layout: page

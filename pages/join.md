@@ -16,10 +16,9 @@ published: true
 
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
-
 so you want to [[visit](/visit)] us and join, even if for just 2 nights, our work force?
 
-please take some time to tell us more about you!
+we ask you to take some time and tell us more about you!
 
 below there are a few data point suggestions, but feel free to [[contact us](/contact)] with more info with whichever way you prefer.
 
@@ -45,3 +44,7 @@ you could, for instance, copy and paste this in an email. and don't need to both
 - single contribution
 - ahoxus contact person
 - have you read and agreed to our [[privacy policy](/policy)]?
+
+adbove all, think as if a stranger was coming to your home; how do you turn them into friends even before they arrive?
+
+the sooner we start to meet each other, the better for your chances of being accepted here!
