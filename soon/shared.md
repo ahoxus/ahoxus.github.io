@@ -5,7 +5,7 @@ date: 2020-10-04 02:34:00
 image: 1998 files.jpg
 permalink: shared
 redirect_from:
-  - 1998 
+  - 1998 files
   - files
   - public
 layout: page
