@@ -1,8 +1,8 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-10-25 16:57:00
-frontier: https://frontier.pioneer.app/posts/de13e36a-cregox-ahoxus-org-progress-update-october-25th-2020
+date: 2020-10-31 21:31:00
+frontier: https://frontier.pioneer.app/posts/c7572e58-cregox-ahoxus-org-progress-update-october-31st-2020
 image: 2020-08 garden.jpg
 permalink: pioneer
 redirect_from:
@@ -17,37 +17,41 @@ published: true
 
 # [{{ page.description }}](https://frontier.pioneer.app/posts/24e9f43a-what-are-you-building-in-a-sentence)
 
-> content to inspire starting a crisis-prepared life style after our own movement from the city to the country side. cheap and convenient.
+> a disroot alternative to degoogle and a true story about our crisis-prepared life style moving to the country side. cheap and convenient.
 
-# but what kind of content? is my life even broken?
+# but what kind of story? and what crisis?
 
-any kind of content. beginning with many manifestos, such as this very page. eventually leading to a collaborative, free, and online [story](/story) (kind of like an e-book).
+a collaborative, free, and online [story](/story) (kind of like an e-book) based on many kinds of content, such as manifestos like this very page.
 
-and yes, most people are living a broken life, unaware of other options!
+and yes, most of us are living a broken life in a world filled with crisis much beyond the covid-19!
 
-it's never easy, and each one have to find their own path... if they so choose to look for it.
+but there are other options.
 
 # tell me more!
 
 this is our path. we truly hope it can serve you well. 😄
 
+and you should, at any time, skip to a link that might entice you to learn more. such as for reading about our [[core](/core)] values.
+
+# some history
+
 we've been using pioneer gamified system to be accountable and get feedback, since 2019. the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). since early june 2020 you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). and since the last day of august 2020 we started to add a lot of comments there as well. do take a look at the [first one](/paradise#another-perspective)!
 
 pioneer is basically a startup accelerator.
 
-however, ahoxus is not a "startup", by any measure.
-
 we do build some startup projects, such as [sanflowers](/sanflowers) for instance.
 
-but ahoxus is something else.
+however, ahoxus is not a "startup", by any measure.
 
-sit back. take a deep breath. imagine you just stumbled here randomly/serendipitously.
+sit back.
 
-keep reading... and enjoy!
+take a deep breath.
+
+imagine you just stumbled here randomly/serendipitously.
 
 # common points raised on pioneer updates
 
-- perhaps the most common feedback we get on pioneer: **confusing, too much text, looks like a blog, can't understand this or that, etc.** if you're considering to add in that pool, by all means, do it! it's still good feedback. but, if you're aware it's the most common, perhaps you can get creative... 😁
+- perhaps the most common feedback we get on pioneer: **confusing, too much text, looks like a blog, can't understand this or that, etc.**. yes, it is. even after 1 year of improving it.
 
 - we also get some people wondering how they could actually move towards their own "ahoxus"... to that, we have every intention to help. for now: just get in touch and ask! spoilers: it's very hard and that's why we couldn't put any guide online yet. even doing syntropic agroforestry (ernst gotsch), which should be simple and taught in pre schooling, is rather complex and plain hard to begin with.
 
@@ -59,6 +63,6 @@ keep reading... and enjoy!
 
 - ... using our current limited resources to increase reach too much can hinder our development by a lot!
 
-please continue to take it slow and move forward to [the landing page](/).
+please continue to take it slow and move forward to [the general landing page](/).
 
 and thank you so much for doing so! 😘
