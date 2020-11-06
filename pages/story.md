@@ -9,6 +9,7 @@ redirect_from:
   - an ahoxus tale
   - tale
 layout: page
+category: soon
 published: true
 menu: true
 ---
@@ -17,9 +18,7 @@ menu: true
 
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
-## 
-
-#jolting
+## #jolting
 
 > a long time ago a big kid, aH, was eating cereals on a bowl, sitting silent on a chair, contemplating the sunrise.
 > 

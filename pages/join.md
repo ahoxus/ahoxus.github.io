@@ -45,6 +45,6 @@ you could, for instance, copy and paste this in an email. and don't need to both
 - ahoxus contact person
 - have you read and agreed to our [[privacy policy](/policy)]?
 
-adbove all, think as if a stranger was coming to your home; how do you turn them into friends even before they arrive?
+above all, think as if a stranger was coming to your home: how do you turn them into friends even before they arrive?
 
 the sooner we start to meet each other, the better for your chances of being accepted here!
