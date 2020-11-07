@@ -19,7 +19,7 @@ menu: true
 
 [![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
-ever felt your digital love could be better?
+ever felt your digital life could be better?
 
 [[subscribe](/#subscribe)] for a chance of joining the beta release.
 
