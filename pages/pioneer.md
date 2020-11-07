@@ -1,7 +1,7 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-10-31 21:31:00
+date: 2020-11-07 10:08:00
 frontier: https://frontier.pioneer.app/posts/c7572e58-cregox-ahoxus-org-progress-update-october-31st-2020
 image: 2020-08 garden.jpg
 permalink: pioneer
@@ -10,8 +10,13 @@ redirect_from:
   - accelerate
   - slow
 layout: page
+category: outdated
 published: true
 ---
+
+on early november we stopped updating this very page. 
+
+the [[uproot](/uproot)] project is now the focus for pioneer. much more well suited for this task!
 
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
@@ -35,7 +40,11 @@ and you should, at any time, skip to a link that might entice you to learn more.
 
 # some history
 
-we've been using pioneer gamified system to be accountable and get feedback, since 2019. the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). since early june 2020 you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). and since the last day of august 2020 we started to add a lot of comments there as well. do take a look at the [first one](/paradise#another-perspective)!
+we've been using pioneer gamified system to be accountable and get feedback, since 2019. 
+
+the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). 
+
+since early june 2020 you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). 
 
 pioneer is basically a startup accelerator.
 

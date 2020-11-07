@@ -16,9 +16,9 @@ menu: true
 
 # {{ page.description }}
 
-- [sign up our mailing list](https://forms.gle/VvdnPbZ7guF8y6er9) which hardly ever sends out any email!
+- [sign up our mailing list](/#subscribe) which hardly ever sends out any email!
 
-- get more frequent updates on [telegram](https://t.me/ahoxus) or even less frequent on [twitter](https://twitter.com/ahoxus) (more like a badge, really).
+- get more frequent updates on [telegram](https://t.me/ahoxus) or even less frequent on [twitter](https://twitter.com/ahoxus) (it's more like a badge, really).
 
 - check [our weekly participation on pioneer](/pioneer). very frequent updates!
 

@@ -13,13 +13,25 @@ published: true
 menu: true
 ---
 
+{% include youtube.html id='H3dYs97krpc' ratio='56.25%' alt='ahoxus - we are nature - wonder if you can' src='wonderifyoucan.mp4' poster='wonderifyoucan.jpg' %}
+
+# just like heaven
+
+our life project is happening on [a big piece of land](/map) where we look to live with your friends, family, and neighbors while fully enjoying and improving the surroundings for the present and future.
+
+in this site you can find ideas around how we can live in shelters at the countryside (over 15ha, north of portugal, since march 2020 in our case), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
+
+we shall cultivate the land to have better water and nature than before we arrived. all along with some basic, cheap, and incredible conveniences, like a solar heated shower and the internet, while learning how to not rely only on them.
+
+# {{ page.description }}
+
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
 everyone is welcomed to [[visit](/visit)].
 
 then, to become a new member, it'll be like any long term relationship: first we meet, then we spend time together. eventually you'll know better than any of us if you should stay! 😏
 
-# {{ page.description }}
+# idea
 
 this is **an idea** to be discussed and thought through together.
 
@@ -73,7 +85,7 @@ recapitulating the main points:
 
 [get in touch](/contact)!!
 
-# another perspective
+# reality
 
 adapted from a [pioneer](/pioneer) update, posted [in the last day of august 2020](https://frontier.pioneer.app/posts/979a716f-cregox-ahoxus-org-progress-update-august-31st-2020).
 
