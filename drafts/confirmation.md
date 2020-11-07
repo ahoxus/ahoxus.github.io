@@ -13,7 +13,7 @@ published: true
 
 # {{ page.description }}
 
-this template is taken from our latest email to a guest! he comes from lisbon airport and wants to pay for the ride.
+this template is taken from our latest email to a guest!
 
 the gif at the end is always a nice touch, isn't it?
 
@@ -25,11 +25,10 @@ dear #guest,
 your registration to visit ahoxus is confirmed.
 
 arrival: 2020-10-26 18:30
-travel method: airplane and car ride
+travel method: bus
 accommodation: trailer
 departure: 2020-11-02
 
-car ride amount: €240
 security deposit amount: €256
 payment method: cash on arrival
 the deposit will be given back on departure
