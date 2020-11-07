@@ -28,7 +28,18 @@ free as in libre open source:
 
 the free plan will be mostly managed by yourself. there will be hosted options for a price. and premium support. all the 3 options are simple to use and hard to abuse.
 
-<button>subscribe for updates</button>
+<form id="subscribe"
+  action="https://formspree.io/f/mzbkgqzd"
+  method="POST"
+>
+  <label>e-mail:</label>
+  <input type="email" name="email">
+  <label>about you (optional):</label>
+  <input type="text" name="message">
+  <button>subscribe</button>
+  <p id="status" />
+</form>
+<script src="subscribe.js"></script>
 
 this is mostly being developed by cregox, who wrote a lot about it [on his website](https://cregox.net/disroot) if you're anxious enough to read through all that confusion!
 
