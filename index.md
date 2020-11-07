@@ -1,20 +1,44 @@
 ---
 permalink: /
-image: /tree.svg
+image: /ahoxus.svg
 layout: landing
 title: home
-description: prepare for the next crisis
-date: 2020-08-24 01:17:00
+description: be prepared for the chaos
+date: 2020-11-06 19:44:00
 published: true
 ---
 
-{% include youtube.html id='H3dYs97krpc' ratio='56.25%' alt='ahoxus - we are nature - wonder if you can' src='wonderifyoucan.mp4' poster='wonderifyoucan.jpg' %}
-
 # {{ page.description }}
 
-**ahoxus** is content for you.
+**ahoxus** helps you to reduce all your money **needs** down to zero.
 
-it could be your life's project: [a big piece of land](/map) to live with your friends, family, sand neighbors while fully enjoying and improving the surroundings for the present and future.
+but it is not perfect.
+
+picture changing the lifestyle and mindset we all were born in: no need for a job market!
+
+or, for an easier first step:
+
+# uproot
+
+free as in libre open source:
+
+- email: never lose another message again. old or new. it'll be replicated in all your devices you choose, plus in as many hosts as you can afford.
+- file hosting: your data, backed up, easy to share. using nextcloud. decentralised.
+- how-to: a map to delete the excess in your digital life using so many feature full solutions that already exist today. such as delta chat and mastodon.
+
+the free plan will be mostly managed by yourself. there will be hosted options for a price. and premium support. all the 3 options are simple to use and hard to abuse.
+
+<button>subscribe for updates</button>
+
+this is mostly being developed by cregox, who wrote a lot about it [on his website](https://cregox.net/disroot) if you're anxious enough to read through all that confusion!
+
+{% include youtube.html id='H3dYs97krpc' ratio='56.25%' alt='ahoxus - we are nature - wonder if you can' src='wonderifyoucan.mp4' poster='wonderifyoucan.jpg' %}
+
+# content
+
+we also make a lot of content in many different ways.
+
+our life project is happening on [a big piece of land](/map) where we look to live with your friends, family, and neighbors while fully enjoying and improving the surroundings for the present and future.
 
 in this site you can find ideas around how we can live in shelters at the countryside (over 15ha, north of portugal, since march 2020 in our case), with trees and away from the cities or big buildings, mainly by following some steps of many giants (such as [tamera](/tamera)).
 
