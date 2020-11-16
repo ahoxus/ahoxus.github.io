@@ -55,6 +55,8 @@ subscribing also counts as an application for a chance to join the uproot beta.
   <input type="email" name="email">
   <label>about you (optional):</label>
   <textarea name="message"></textarea>
+  <label class="spam">spam test, leave this empty:</label>
+  <input type="email" name="_gotcha" class="spam">
   <button id="submit">subscribe</button>
   <p id="status"></p>
 </form>
