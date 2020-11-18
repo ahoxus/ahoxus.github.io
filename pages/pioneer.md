@@ -1,9 +1,10 @@
 ---
 title: pioneer
 description: what are you building, in a sentence?
-date: 2020-11-07 10:08:00
+date: 2020-11-18 08:08:00
 frontier: https://frontier.pioneer.app/posts/c7572e58-cregox-ahoxus-org-progress-update-october-31st-2020
-image: 2020-08 garden.jpg
+gallery: 2020-08 garden
+image: /gallery/2020-08 garden.jpg
 permalink: pioneer
 redirect_from:
   - 2020-08 garden
@@ -18,7 +19,7 @@ on early november we stopped updating this very page.
 
 the [[uproot](/uproot)] project is now the focus for pioneer. much more well suited for this task!
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.gallery }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 # [{{ page.description }}](https://frontier.pioneer.app/posts/24e9f43a-what-are-you-building-in-a-sentence)
 
@@ -42,7 +43,7 @@ and you should, at any time, skip to a link that might entice you to learn more.
 
 we've been using pioneer gamified system to be accountable and get feedback, since 2019. 
 
-the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp). 
+the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp) (only while our magict search isn't ready). you can also find them [on nextcloud](https://cloud.disroot.org/s/z4WNnSgWxGsXis6) though.
 
 since early june 2020 you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). 
 
