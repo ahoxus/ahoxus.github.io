@@ -4,7 +4,7 @@ image: /ahoxus.svg
 layout: landing
 title: home
 description: be prepared for the chaos
-date: 2020-11-06 19:44:00
+date: 2020-11-21 18:44:00
 published: true
 ---
 
@@ -12,11 +12,11 @@ published: true
 
 **ahoxus** helps you to reduce all your money **needs** down to zero.
 
-a work in progress.
+a complex work in progress.
 
 you could, for instance, [[change](/paradise)] the lifestyle and mindset we all were born in: no need for a job market!
 
-or, for an easier first step:
+also, you could start with a much simpler first step:
 
 # uproot
 
@@ -29,23 +29,21 @@ free as in "libre open source" solutions for you:
 
 pricing options:
 
-**self-hosted** all powers and responsibilities in your hands. free.
+**free plan** hosted with us for selected members. subscribe below to get news on how you may join the beta. (hint: you may need to read a lot!)
 
-**free plan** hosted with us for selected members. subscribe below for a chance of joining the beta.
-
-**donate** to fairly extend the limits imposed by free services.
+**self-hosted** all powers and responsibilities in your hands. free, you just need to host and do it all yourself. (it'll be easy to follow our guides)
 
 ***premium support*** for everyone.
 
-all options are simple to use and hard to abuse.
+all options are simple to use and hard to abuse. notice how all options require $0 paid to us.
 
-there are plenty ways to [[uproot](/uproot)] your digital foundations.
+start to [[uproot](/uproot)] your digital foundations today!
 
 # subscribe
 
 get [[news](/updates)] about ahoxus. during the year of 2020 we've sent out 2 emails, only when it matters.
 
-subscribing also counts as an application for a chance to join the uproot beta.
+subscribing also adds up to your chances to [[join](/join)] the uproot beta...
 
 <form id="subscribe"
   action="https://formspree.io/f/mzbkgqzd"
@@ -84,4 +82,4 @@ ahoxus is much more than just a product.
 
 - more ways to [get updates](/updates)
 
-site produced by one of our members, [cregox](https://cregox.net/ahoxus).
+proudly produced by [cregox](https://cregox.net/ahoxus).

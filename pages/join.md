@@ -16,6 +16,28 @@ published: true
 
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
 
+# partnership
+
+joining us happen like in any deep relationship, such as strategy partners or marriage.
+
+the comitment, however can be just [#online](#online) or go much further than in any named bonds.
+
+think how you could allow a stranger coming to your home: how to turn them into friends even before they arrive?
+
+basically, the sooner we start to meet each other, the more chances we get to build trust.
+
+# online
+
+if you're interested in our [[uproot](/uproot)] project, let's meet online!
+
+first, read this website. everything. it's not so big.
+
+then choose your preferred method (generally, email and voip is ours), find a member, and get in touch.
+
+remember to send us as much data from you as you can. perhaps follow the [#suggestions](#suggestions) below.
+
+# personally
+
 so you want to [[visit](/visit)] us and join, even if for just 2 nights, our work force?
 
 we ask you to take some time and tell us more about you!
@@ -24,13 +46,16 @@ below there are a few data point suggestions, but feel free to [[contact us](/co
 
 you could, for instance, copy and paste this in an email. and don't need to bother sending data we already have from you! 😏
 
+# suggestions
+
 - all names
 - gender
 - birth date
 - birth place
 - nationality
 - email
-- address
+- web links
+- home address
 - phone
 - passport number
 - preferred language
@@ -45,6 +70,3 @@ you could, for instance, copy and paste this in an email. and don't need to both
 - ahoxus contact person
 - have you read and agreed to our [[privacy policy](/policy)]?
 
-above all, think as if a stranger was coming to your home: how do you turn them into friends even before they arrive?
-
-the sooner we start to meet each other, the better for your chances of being accepted here!
