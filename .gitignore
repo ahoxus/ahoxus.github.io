@@ -1,7 +1,3 @@
-.DS_Store
+.*
 /_site/
 /_drafts/
-.sass-cache
-node_modules/
-/gulp-google-optimisation-for-later/
-.jekyll-metadata
