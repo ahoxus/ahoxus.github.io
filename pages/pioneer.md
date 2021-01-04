@@ -2,7 +2,6 @@
 title: pioneer
 description: what are you building, in a sentence?
 date: 2020-11-18 08:08:00
-frontier: https://frontier.pioneer.app/posts/c7572e58-cregox-ahoxus-org-progress-update-october-31st-2020
 gallery: 2020-08 garden
 image: /gallery/2020-08 garden.jpg
 permalink: pioneer
@@ -45,7 +44,7 @@ we've been using pioneer gamified system to be accountable and get feedback, sin
 
 the first iterations are registered on [*google drive*](https://drive.google.com/folderview?id=1T7fdo8RcTgne0HlwyJLbMnqTcf1nRivp) (only while our magict search isn't ready). you can also find them [on nextcloud](https://cloud.disroot.org/s/z4WNnSgWxGsXis6) though.
 
-since early june 2020 you can [find them on frontier]({{ page.frontier }}) by following the chain (under the comments). 
+since early june 2020 you can find them on [[frontier](/frontier)] by following the chain (under the comments). 
 
 pioneer is basically a startup accelerator.
 
