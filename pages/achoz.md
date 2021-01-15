@@ -1,7 +1,7 @@
 ---
 title: achoz
 description: chaos from a to z
-date: 2021-01-10 19:12:00
+date: 2021-01-15 22:42:00
 gallery: 2020-11-21 achoz
 image: /gallery/2020-11-21 achoz.jpg
 permalink: achoz
@@ -25,7 +25,17 @@ published: true
 
 [[subscribe](/#subscribe)] for a better chance of [[joining](/join)] the beta release.
 
-TK [achoz.ahoxus.org](http://achoz.ahoxus.org)
+# demonstration
+
+please see the link below. it is still just a proof of concept.
+
+it uses [a slimmed down forked version of shiori](https://github.com/cauerego/shiori), a bookmark keeper, and it's hosted on a free account from digital ocean (gently offered through their "hub for good" plan).
+
+the bookmarks there are mostly random (from cregox personal history). there are over 3500 items you can instantly search through (not yet inside their cached content). and it works even offline (if you can set it up yourself) - it even caches supported pages with images (over 5GB in this case) for offline viewing!
+
+soon, achoz will eventually be possible and easy to install, and it will automatically index through all your offline files (as long as they are in an open format).
+
+i[achoz.ahoxus.org](http://achoz.ahoxus.org)
 
 # technical
 
