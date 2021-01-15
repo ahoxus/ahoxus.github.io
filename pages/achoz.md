@@ -33,9 +33,11 @@ it uses [a slimmed down forked version of shiori](https://github.com/cauerego/sh
 
 the bookmarks there are mostly random (from cregox personal history). there are over 3500 items you can instantly search through (not yet inside their cached content). and it works even offline (if you can set it up yourself) - it even caches supported pages with images (over 5GB in this case) for offline viewing!
 
-soon, achoz will eventually be possible and easy to install, and it will automatically index through all your offline files (as long as they are in an open format).
+comparing with shiori, achoz will be much easier to install and use. plus, it will automatically index through **all** your offline files (as long as they are in an open format).
 
-i[achoz.ahoxus.org](http://achoz.ahoxus.org)
+soon.
+
+[achoz.ahoxus.org](http://achoz.ahoxus.org)
 
 # technical
 
