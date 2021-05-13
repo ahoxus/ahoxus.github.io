@@ -4,8 +4,9 @@ description: minor planet #9882
 date: 2021-05-13 06:22:00
 gallery: stallman
 image: /gallery/stallman.jpg
-permalink: ~cregox/stallman
+permalink: cregox/stallman
 redirect_from:
+  - ~cregox/stallman
   - stallman
   - rms
   - gnu
