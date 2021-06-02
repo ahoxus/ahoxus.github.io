@@ -12,11 +12,13 @@ published: true
 
 **ahoxus** helps you to reduce all your money **needs** down to zero.
 
-a complex work in progress.
+it is a self-sufficient, sustainable and duplicable communitarian model for nonviolent cooperation and cohabitation between humans, animals, and nature, constantly evolving into the harmonic and chaotic balance we all live in.
+
+or, simply, a complex work in progress. 🙂
 
 you could, for instance, [[change](/paradise)] the lifestyle and mindset we all were born in: no need for a job market!
 
-also, you could start with a much simpler first step:
+also, to learn more about our movement, you could start with this:
 
 # uproot
 
@@ -66,9 +68,9 @@ please check your mailbox for a confirmation.
 
 # more
 
-ahoxus is much more than just a product.
+what else is going on for ahoxus?
 
-- [maps](/map) for finding us and others
+- [maps](/map) for finding us and other similar projects
 
 - [tamera](/tamera) is the origin of ahoxus
 
