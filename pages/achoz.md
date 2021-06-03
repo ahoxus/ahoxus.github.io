@@ -25,6 +25,20 @@ published: true
 
 [[subscribe](/#subscribe)] for a better chance of [[joining](/join)] the beta release.
 
+# story
+
+cregox have a lot of data. files, emails, messages, web links, web content, etc. they a also are of different kinds; text, video, audio, apps, etc.
+
+when trying to find something they do remember to be there, sometimes it gets impossible!
+
+the goal of achoz is making cregox self-data-searching-life not only easier, but enable a new world of possibilities, in which they don't have to worry anymore how to store data for themselves (as long as it's stored with open and free standards).
+
+so a lot of it goes through self education to normalize the data a bit.
+
+after that, we have all of it replicated through all our devices and some cloud, with just one single search away to find whatever might be needed!
+
+(on another instance, 90gb of MP3 will be turned into 10gb with insignificant loss, so the whole library can easily be used everywhere)
+
 # demonstration
 
 please see the link below. it is still just a proof of concept.
@@ -38,6 +52,26 @@ comparing with shiori, achoz will be much easier to install and use. plus, it wi
 soon.
 
 [achoz.ahoxus.org](http://achoz.ahoxus.org)
+
+# roadmap
+
+## first
+
+- create script #magictill to slim down files
+- create a search able to instantly search through all files
+- setup syncthing across all devices (done)
+- get a cloud server to be a linked device (done)
+
+## second
+
+- make magictill automated for older files
+- make all the data easy to access for the public (not just the index)
+
+## third
+
+- magictill should also facilitate file normalisation
+- make a new roadmap
+- get to all technical details
 
 # technical
 
@@ -54,14 +88,15 @@ using emails we can replace all your facebook and other such needs:
 
 ## data
 
-using [#**magict**](#origin) scripts with termux, git and rsync, we replace most of your google/microsoft needs:
+using [#**magictill**](#origin) scripts with termux, git and rsync, we replace most of your google/microsoft needs:
 
 - files: syncthing, nextcloud, fossil, and/or rsync
-- photos: magict to reduce older unselected photos size periodically on files
+- photos: magictill to reduce older unselected photos size periodically on files
 - music: any radio app? TK
-- videos: magict plus lbry? TK
+- videos: magictill plus lbry? TK
 - office: nextcloud and libre office? docs, sheets and slides TK
-- server: tilde clubs? TK netlify? anyway, any free servers work, easy to migrate with magict, including dns
+- server: tilde clubs? TK netlify? anyway, any free servers work, easy to migrate with magictill, including dns
+- limits: magictill by default will lossly reduce all files (except marked ones) older than 1 year with minimal compression. 5 years gets maximum. 10 years they are deleted, but keep the name, checksum, and metadata.
 
 ## money
 
