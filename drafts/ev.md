@@ -1,7 +1,7 @@
 ---
 title: electric vehicle
 description: 
-date: 2021-02-16 14:22:00
+date: 2021-06-03 05:00:00
 gallery: ev
 image: /gallery/ev.jpg
 permalink: ev
@@ -17,6 +17,15 @@ menu: false
 
 [![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
-we can charge your electric car if we schedule it right. there's just 1 slot, and the oven can't be used at the same time! plus our own ev, which doesn't need the plug everyday.
+we can charge your electric car if we schedule it right.
 
-make sure to get in touch to check availability!
+#home
+there are 2 slots, in which the oven can't be used at the same time with either!
+
+nor can our [own ev's](/evs), which take turns and still don't need the plug everyday.
+
+#partner
+we can lend you our [regia douro park](http://regiadouropark.pt) card. they are 2km away, uphill, and have 7 plugs that work 24x7.
+
+#beware!
+make sure to [get in touch](/members) to check availability!
