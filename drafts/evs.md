@@ -10,7 +10,6 @@ redirect_from:
   - EVs
   - mobility
   - ion
-  - ioniq
 layout: draft
 published: true
 menu: false
