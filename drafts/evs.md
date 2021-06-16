@@ -1,6 +1,6 @@
 ---
 title: our electric vehicles
-description: 
+description: ion and ioniq, so far
 date: 2021-06-03 05:19:00
 gallery: evs
 image: /gallery/evs.jpg
@@ -9,6 +9,8 @@ redirect_from:
   - ev's
   - EVs
   - mobility
+  - ion
+  - ioniq
 layout: draft
 published: true
 menu: false
@@ -50,6 +52,6 @@ suffice to say: it might have not been (financially) worth it, yet... but the wh
 
 sadly, no accountant could ever do this math today.
 
-#tl;dr;
+# tl;dr;
 
 unless you enjoy pioneering, wait to get your ev until they can do at least 400km, keep their battery range at 100% after 5 years, and can be purchased for 5k EUR.

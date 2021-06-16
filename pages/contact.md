@@ -7,6 +7,7 @@ redirect_from:
   - 2020-02 solar
   - touch
   - contacts
+  - members
 layout: page
 published: true
 menu: true
