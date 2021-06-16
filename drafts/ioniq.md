@@ -22,10 +22,12 @@ here's some pictures as reference to the art we will make on it.
 <section id="thumbnails">
   {% assign gallery = site.static_files | where: "image", true | reverse %}
   {% for image in gallery %}
+  {% if image.path contains "/ioniq/" %}
   <article>
    <a name="{{ image.name }}" />
    <h4>[{{ image.basename | replace: "_", " " }}](/{{ image.basename }})</h4>
-   <a class="thumbnail" href="/ioniq/{{ image.name }}" data-position="{{ site.thumbnail_position }}"><img src="/ioniq/{{ image.name }}" alt="{{ image.basename }}" /></a>
+   <a class="thumbnail" href="{{ image.path }}" data-position="{{ site.thumbnail_position }}"><img src="{{ image.path }}" alt="{{ image.basename }}" /></a>
   </article>
+  {% endif %}
   {% endfor %}
 </section>
