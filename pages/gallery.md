@@ -15,7 +15,8 @@ published: true
 <section id="thumbnails">
   {% assign gallery = site.static_files | where: "image", true | reverse %}
   {% for image in gallery %}
-  {% if image.path = site.gallery_dir +"/"+image.name %}
+  {% assign checkimg = '/' | append: site.gallery_dir | append: '/' | append: image.name %}
+  {% if image.path == checkimg %}
   <article>
    <a name="{{ image.name }}" />
    <h4>[{{ image.basename | replace: "_", " " }}](/{{ image.basename }})</h4>
