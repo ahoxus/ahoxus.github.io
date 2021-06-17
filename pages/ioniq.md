@@ -31,7 +31,7 @@ here's some pictures as reference to the art we will soon make on it.
   {% if image.path contains "/ioniq/" %}
   <article>
    <a name="{{ image.name }}" />
-   <h4>[{{ image.basename | replace: "_", " " }}](#{{ image.basename }})</h4>
+   <h4>[{{ image.basename | replace: "_", " " }}](#{{ image.name }})</h4>
    <a class="thumbnail" href="{{ image.path }}" data-position="{{ site.thumbnail_position }}"><img src="{{ image.path }}" alt="{{ image.basename }}" /></a>
   </article>
   {% endif %}
