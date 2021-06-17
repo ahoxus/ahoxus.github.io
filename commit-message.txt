@@ -1,1 +1,1 @@
-left this file outside gitignore on purpose!
+fiz ioniq gallery image title link
