@@ -8,7 +8,7 @@ permalink: ioniq
 redirect_from:
   - 2021-03 ioniq
   - hyundai
-layout: draft
+layout: page
 published: true
 ---
 
