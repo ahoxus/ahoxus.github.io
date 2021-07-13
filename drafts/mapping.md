@@ -18,14 +18,16 @@ menu: false
 
 ![{{ page.image }}]({{ page.image }})
 
+<!--
 [![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
+-->
 
 we have an [outdated draft on google sheets](https://docs.google.com/spreadsheets/d/1oD_ZEIF3SL2baKvtiIj-mbaA6le-qL21iEue_QpIg6g/edit?usp=drivesdk) mapping of our own...
 
 but there are also at least 2 other interesting portugal maps out there:
 
-- https://redeconvergir.net/catalise
+- [catalise](https://redeconvergir.net/catalise)
 
-- https://redeconvergir.net/
+- [rede convergir](https://redeconvergir.net/)
 
-do take a look.
+they're actually linked to each other and both have a similar approach of how we wanted to map the alternatives.
