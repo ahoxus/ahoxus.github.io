@@ -13,6 +13,8 @@ published: true
 menu: true
 ---
 
+# did you mean [[mapping](/mapping)]?
+
 # {{ page.description }}
 
 - exact (gps) location:
@@ -31,7 +33,3 @@ andraes have basically no public transportation.
 - current shape of our land:
 
 [![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
-
-- other communities in portugal:
-
-[outdated draft on google sheets](https://docs.google.com/spreadsheets/d/1oD_ZEIF3SL2baKvtiIj-mbaA6le-qL21iEue_QpIg6g/edit?usp=drivesdk)
