@@ -3,7 +3,7 @@ title: achoz
 description: chaos from a to z
 date: 2021-01-15 22:42:00
 gallery: 2020-11-21 achoz
-image: /gallery/2020-11-21 achoz.jpg
+image: /gallery/2020-11-21 achoz.jpeg
 permalink: achoz
 redirect_from:
   - 2020-11-21 achoz 

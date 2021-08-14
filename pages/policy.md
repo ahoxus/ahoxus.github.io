@@ -3,7 +3,7 @@ title: policy
 description: privacy notice
 date: 2020-11-10 10:22:00
 gallery: 2020-11-07 policy
-image: /gallery/2020-11-07 policy.jpg
+image: /gallery/2020-11-07 policy.jpeg
 permalink: policy
 redirect_from:
   - 2020-11-07 policy

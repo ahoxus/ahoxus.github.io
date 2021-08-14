@@ -3,7 +3,7 @@ title: ioniq
 description: hyundai made the best ev battery and nobody knows it
 date: 2021-06-16 17:22:00
 gallery: 2021-03 ioniq
-image: /gallery/2021-03 ioniq.jpg
+image: /gallery/2021-03 ioniq.jpeg
 permalink: ioniq
 redirect_from:
   - 2021-03 ioniq

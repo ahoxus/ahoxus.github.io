@@ -3,7 +3,7 @@ title: uproot
 description: free as in "libre open source" solutions for you
 date: 2020-11-21 19:21:00
 gallery: 2020-11 uproot
-image: /gallery/2020-11 uproot.jpg
+image: /gallery/2020-11 uproot.jpeg
 permalink: uproot
 redirect_from:
   - 2020-11 uproot

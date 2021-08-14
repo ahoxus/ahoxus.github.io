@@ -3,7 +3,7 @@ title: pioneer
 description: what are you building, in a sentence?
 date: 2020-11-18 08:08:00
 gallery: 2020-08 garden
-image: /gallery/2020-08 garden.jpg
+image: /gallery/2020-08 garden.jpeg
 permalink: pioneer
 redirect_from:
   - 2020-08 garden
