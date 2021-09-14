@@ -22,7 +22,7 @@ we can charge your electric car if we schedule it right.
 
 there are 2 slots, in which the house oven 🏠 can't be used at the same time with either!
 
-nor can our [own ev's](/evs) ⚡, which take turns and still don't need the plug everyday.
+nor can our [[own ev's](/evs)] ⚡, which take turns and still don't need the plug everyday.
 
 # partner
 
@@ -30,4 +30,4 @@ we can lend you our [regia douro park](http://regiadouro.com) card. they are 2km
 
 # beware!
 
-make sure to [get in touch](/members) to check availability!
+make sure to [[get in touch](/members)] to check availability!
