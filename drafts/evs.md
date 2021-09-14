@@ -51,7 +51,9 @@ suffice to say: it might have not been (financially) worth it, yet... but the wh
 
 sadly, no accountant could ever do this math today.
 
-# some practical advice
+# practical
+
+now, let's get some practical advice!
 
 there are, in portugal, 3 good apps to make life easier on learning how to drive anything other than a tesla today.
 
