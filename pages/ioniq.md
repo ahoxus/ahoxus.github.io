@@ -1,7 +1,7 @@
 ---
 title: ioniq
 description: hyundai made the best ev battery and nobody knows it
-date: 2021-06-16 17:22:00
+date: 2021-09-14 21:22:00
 gallery: 2021-03 ioniq
 image: /gallery/2021-03 ioniq.jpeg
 permalink: ioniq
@@ -15,6 +15,8 @@ published: true
 # {{ page.description }}
 
 [![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
+
+it's on sale from april to september 2021 in many different places, such as [[olx](https://m.olx.pt/d/anuncio/oferta-hyundai-ioniq-28kwh-full-eletric-98mm-c-7-anos-de-garantia-IDGrlQ1.html)].
 
 "the best [[ev](/ev)] battery" on the market means:
 
