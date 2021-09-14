@@ -26,7 +26,7 @@ nor can our [[own ev's](/evs)] ⚡, which take turns and still don't need the pl
 
 # partner
 
-we can lend you our [regia douro park](http://regiadouro.com) card. they are 2km away, uphill, and have 7 plugs that work 24x7.
+we can lend you our [[regia douro park](//regiadouro.com)] card. they are 2km away, uphill, and have 7 plugs that work 24x7.
 
 # beware!
 
