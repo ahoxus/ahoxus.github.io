@@ -19,15 +19,15 @@ menu: false
 
 [![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
-we used to have a cheap renault19 since the beginning of ahoxus.
+we used to have a cheap 1992's red renault19 since the beginning of ahoxus.
 
-january 2021 it would go through its 3rd annual inspection, since cregox bought it for him. it was reproved every time, despite so much preventive care taken. but this time it was different.
+january 2021 it would go through its 3rd annual inspection, since cregox bought it for him. it was reproved every year, despite so much preventive care taken. but this time it was different.
 
 annual costs were, on average, 1.5k EUR, including gas and everything.
 
-the car was bought at expensive 900 EUR and its market worth is, in practice, around 300.
+the car was bought at expensive 900 EUR and its market worth is, in practice, around 300. it was in fact sold for 250.
 
-fixing it this time would cost 500.
+fixing it this time would cost at least 500.
 
 at the same time we saw [ion](/ion) on the internet, in one of our extensive web searches reaching out for an electric car, for the first time one that was affordable: 5500.
 
@@ -50,6 +50,20 @@ other than the range and battery, which are technical details of EVs, its only p
 suffice to say: it might have not been (financially) worth it, yet... but the whole thing is so crazy that it might also have been!
 
 sadly, no accountant could ever do this math today.
+
+# some practical advice
+
+there are, in portugal, 3 good apps to make life easier on learning how to drive anything other than a tesla today.
+
+that's because tesla still have 2 distinct advantages: a much bigger network of charging stations (which is still not shared with all the rest) and a computer filled with apps which do much better than any other app available anywhere else today.
+
+- [[a better route planner](http://abetterrouteplanner.com/)] i don't even use it anymore, but for hitting the road with the ion it's still essential. and it's great for learning more about fuel consumption in general.
+
+- [[miio](http://www.miio.pt/)] is the freaking portuguese map for charging stations. [[osm](http://www.openstreetmap.org/)] is a worthy alternative, specially for offline access, but at everything osm it's still terrible for searching and filtering. google maps is even worse. europe don't like google. ahoxus recommends against it, thanks to [[cregox experience](//cregox.net/google)].
+
+- [[plugshare](http://www.plugshare.com/)] is one of many similar apps for charging stations in europe. but it's currently the best one which also offers direct charging on the app. tested to work perfectly in spain! miio is the option in "freaking" portugal because this app works mostly everywhere else in europe. portugal wants to be special. 😒
+
+bonus: ledger-cli, to track expenses. use it with cone (and termux in android). if you're on an iPhone, switch to android already! if you're on an android, consider a ubuntu touch phone, such as the volla x.
 
 # tl;dr;
 
