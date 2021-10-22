@@ -2,7 +2,8 @@
 title: paradise
 description: come co-create it from scratch!
 date: 2020-10-15 07:37:00
-image: 2020-04 pluma.jpg
+image: /gallery/2020-04 pluma.jpeg
+gallery: 2020-04 pluma
 permalink: paradise
 redirect_from:
   - 2020-04 pluma
@@ -25,7 +26,7 @@ we shall cultivate the land to have better water and nature than before we arriv
 
 # {{ page.description }}
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 everyone is welcomed to [[visit](/visit)].
 
