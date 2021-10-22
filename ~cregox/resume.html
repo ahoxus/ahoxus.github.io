@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<!-- thanks for looking at my resume's source code. everything commented is left out on purpose. most of this code was proudly done around the year 2000. have fun! -->
+
+<html>
+<head>
+	<link rel="shortcut icon" type="image/png" href="favicon.ico" />
+	<title>resume - caue rego</title>
+	
+	<style type="text/css">
+		* {
+			font-family: arial, helvetica, sans-serif;
+			color: black;
+		}
+		
+		body {
+			text-align: center;
+		}
+		ul {
+			padding: 0;
+			list-style: none;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			margin: 0;
+			display: inline;
+		}
+		hr {
+			border: 1px solid black;
+		}
+		a {
+			color: black;
+		}
+		a:hover {
+			text-decoration: none;
+		}
+		sub {font-size: 70%;}
+		sup {font-size: 70%;}
+		
+		.menu {
+			position: relative;
+			vertical-align: middle;
+		}
+		.menu ul {
+			text-align: center;
+			padding-top: 1em;
+			margin: 0;
+			background-color: #EDEDED;
+			list-style: none;
+		}
+		.menu ul li {
+			padding-bottom: 1em;
+			display: block;
+		}
+		.menu a {
+			padding: 0 10px 0 10px;
+			/* visual do link */
+			background-color: #EDEDED;
+			color: #333;
+			text-decoration: none;
+			border-left: 3px solid #EDEDED;
+			border-right: 3px solid #EDEDED;
+		}
+		.menu a:hover {
+			background-color: #D6D6D6;
+			color: #6D6D6D;
+			border-left: 3px solid #EA0000;
+			border-right: 3px solid #EA0000;
+		}
+		
+		.page {
+			max-width: 210em;
+			background: #FAFAFA;
+		}
+		
+		.block
+		, .line {
+			font-size: 1em;
+			text-align: left;
+		}
+		.block h1, h2, h3 {
+			display: block;
+			text-align: left;
+		}
+		.block h1 {
+			padding-bottom: 0.5em;
+			font-size: 32pt;
+		}
+		.block h2 {
+			font-size: 1.2em;
+			font-weight: bold;
+		}
+		.block h3 {
+			padding-top: 0.5em;
+			font-size: 1.2em;
+			font-weight: bold;
+		}
+		.block h6 {
+			display: none;
+			font-size: 1em;
+			font-weight: bold;
+		}
+		.first ul h1 {
+			text-align: left;
+			font-size: 16pt;
+		}
+		.first h1 {
+			text-align: center;
+		}
+		.last ul {
+			text-align: center;
+		}
+		.last ul li {
+			padding-left: 1em;
+			padding-right: 1em;
+			border-top: 2px black solid;
+			display: inline;
+		}
+				
+		.detail {
+			display: none;
+		}
+		.description {
+			display: block;
+		}
+		.link {
+			display: none; /* inline */
+			padding-left: 2em;
+		}
+		.period {
+			display: inline;
+			float: right;
+			padding-left: 2em;
+			font-size: 0.9em;
+		}
+		
+		#contact {
+			border-top: 2px solid black;
+			border-bottom: 2px solid black;
+			text-align: center;
+			padding-top: 0.5em;
+			padding-bottom: 0.5em;
+		}
+		#contact li {
+			display: inline;
+			padding-left: 1em;
+			padding-right: 1em;
+		}
+		
+		#who li
+		, #earned li
+		, #spent li {
+			display: block;
+			padding-left: 7em;
+		}
+		
+		#earned li {
+			margin-bottom: 1em;
+		}
+		#earned .title {
+			display: inline;
+			font-weight: bold;
+		}
+/*		#earned .description {
+			padding-right: 10em;
+		}
+*/		
+		#spent li {
+			margin-bottom: 0.2em;
+		}
+		#spent .title
+		, #spent .description {
+			display: inline;
+		}
+		#spent .title {
+			font-weight: bold;
+		}
+		#spent .description {
+			padding-left: 2em;
+			font-size: 0.8em;
+		}
+		
+		.detail {
+			font-size: 0.8em;
+		}
+		.detail ul li
+		, .description ul li {
+			padding-right: 1em;
+			display: inline;
+		}
+		.hide {
+			display: none !important;
+		}
+		
+		@media_print {
+			body
+			, .page {
+				margin: 0;
+				padding: 0;
+			}
+		}
+		
+		.picture {
+			padding-right: 0;
+			height: 80px;
+			float: right;
+		}
+	</style>
+</head>
+<body bgcolor="white">
+<div class="page">
+<div id="author" class="first block">
+	<h1>caue rego</h1>
+	<img class="picture" src="avatar.jpeg" alt="my avatar">
+	<ul id="contact">
+		<li><h6>mail:</h6> rua do conchado, rulote ahoxus 5000-039 portugal<br></li>
+		<li><h6>phone:</h6> +351 918424479</li>
+		<li>
+			<h6>e-mail:</h6>
+			<a href="mailto:cregox@ahoxus.org">cregox@</a> <a href="http://ahoxus.org/~cregox">ahoxus.org</a>
+		</li>
+	</ul>
+</div>
+<div class="new block">
+	<h2>who</h2>
+	<ul id="who">
+		<li>born in 1981, raised in brazil. rebirth: 2015, portugal.</li>
+		<li>portuguese native speaker. fluent in english.</li>
+		<!--li>male, 183 cm (6'00), 82 kg (180 lbs), black hair, brown eyes</li-->
+		<li>loves minimalism, potato pizza, and plenty random chaos :-)</li>
+	</ul>
+</div>
+<div class="new block">
+	<h2>earned</h2>
+	<ul id="earned">
+		<li>
+			<span class="title">ahoxus portugal</span>
+			<span class="link"><a href="http://ahoxus.org">ahoxus.org</a></span>
+			<span class="period">2018ish - 2068</span>
+			<div class="detail">
+				<ul>
+					<li>¿ 200 / month</li>
+					<li>work hours: 24/7 literally</li>
+				</ul>
+			</div>
+			<div class="description">
+				my life project. discovered it while in tamera. i live and breath it, every second. live visiting all of your local ecovilas could give you a slightly better idea.
+			</div>
+		</li>
+		<li>
+			<span class="title">facebook, accenture - lisbon pt</span>
+			<span class="link"><a href="http://facebook.com">facebook.com</a></span>
+			<span class="period">2016/jun - 2017/jun</span>
+			<div class="detail">
+				<ul>
+					<li>¿ 560 / month</li>
+					<li>work hours: variable 160h / month</li>
+				</ul>
+			</div>
+			<div class="description">
+				worked under non disclosure agreement for minimum wage as content moderator. within 6 months got promoted off the records (inflexibile project).
+			</div>
+		</li>
+		<li>
+			<span class="title">P3D - S&atilde;o Paulo, SP, Brazil</span>
+			<span class="link"><a href="http://www.p3d.com.br/">http://www.p3d.com.br/</a></span>
+			<span class="period"><!--oct/2011 - dec/2013-->2012 - 2013</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 4000 / month</li>
+					<li>Work hours: 10h00-19h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				worked for 2 years developing for a new area in the company (which then failed): porting the application to mobile. we lacked feedback from the market.
+			</div>
+		</li>
+		<li class="hide">
+			<span class="title">Cregox - S&atilde;o Paulo, SP, Brazil</span>
+			<span class="link"><a href="http://www.cregox.com/">http://www.cregox.com/</a></span>
+			<span class="period">mar/2009 - jul/2011</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 4000 / month</li>
+					<li>Work hours: 11h00-20h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				Programming and development consulting micro company.
+				<br />
+				I've developed a system in Python to Vetor Zero intranet
+				, solved urgent problems with ASP and .NET on HKL
+				, ported an app from Unity3D to iPhone on Curitiba's TechResult
+				, created 2 iPhone prototypes and 1 jQuery+Wordpress quiz to Doubleleft
+				and made a flash AS3 hotsite to Agencia Click, called "Fleury a+"
+			</div>
+		</li>
+		<li class="hide">
+			<span class="title">High $olution - S&atilde;o Paulo, SP, Brazil</span>
+			<span class="link"><a href="http://www.highsolution.com.br/">http://www.highsolution.com.br/</a></span>
+			<span class="period">apr/2009 - jan/2010</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 3000 / month</li>
+					<li>Work hours: 11h00-20h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				Small company focused in building creative technology solutions custom made for raising the client's profit.
+				<br />
+				I took care of all software technology infrastructure and consulted about management solutions.
+			</div>
+		</li>
+		<li class="hide">
+			<span class="title">Sterling Commerce - S&atilde;o Paulo, SP, Brazil</span>
+			<span class="link"><a href="http://www.sterlingcommerce.com.br/">http://www.sterlingcommerce.com.br/</a></span>
+			<span class="period">sep/2008 - feb/2009</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 30.00 / hour, usually 300 hours / month</li>
+					<li>Work hours: 08h00-18h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				An AT&amp;T company that provides B2B solutions such as business process integration.
+				<br />
+				I took part of the first development team in a project using GIS (Gentran) + Oracle for Santander Bank Group.
+			</div>
+		</li>
+		<li class="hide">
+			<span class="title">GAtec - Piracicaba, SP, Brazil</span>
+			<span class="link"><a href="http://www.gatec.com.br/">http://www.gatec.com.br/</a></span>
+			<span class="period"><!--feb/2007 - jan/2008-->2007</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 11.00 / hour</li>
+					<li>Work hours: 08h00-18h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				An averaged size software development company providing solutions for agribusiness.
+				<br />
+				I've created some applications using a proprietary C flavor made for data collectors.
+			</div>
+		</li>
+		<li>
+			<span class="title">optimum isp - paterson, nj, usa</span>
+			<span class="link"><a href="http://www.optimumisp.com/">www.optimumisp.com</a></span>
+			<span class="period">2005/apr - 2005/dec</span>
+			<div class="detail">
+				<ul>
+					<li>U$ 9.50 / hour</li>
+					<li>work hours: 08h00-17h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				worked in this small ISP with support tickets and solving corporate hosted server issues along with SMTP communication. a technical job. great english learning!
+			</div>
+		</li>
+		<li class="hide">
+			<span class="title">AJung - S&atilde;o Paulo, SP, Brazil</span>
+			<span class="link"><a href="http://www.ajung.com.br/">http://www.ajung.com.br/</a></span>
+			<span class="period">may/2004 - dec/2004</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 15,00 / hour</li>
+					<li>free lance working at home</li>
+				</ul>
+			</div>
+			<div class="description">
+				It is a photography studio which started doing small websites for small business.
+				<br />
+				I've built or updated a few clients sites (such as all "Imagem Promocional" and  updates on "FreeShop")
+				as well as their own one (although not all of it).
+			</div>
+		</li>
+		<li>
+			<span class="title">pc's & dados - s&atilde;o paulo, sp, brazil</span>
+			<span class="link"><a href="http://www.pcsedados.com.br/">www.pcsedados.com.br</a></span>
+			<span class="period">2004/jan - 2004/apr</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 15,00 / hour</li>
+					<li>free lance working from home</li>
+				</ul>
+			</div>
+			<div class="description">
+				once the best data recovery team in brazil, they had orders from abroad.
+				the complete ecommerce i've programmed within 2 months stayed for over 15 years.
+			</div>
+		</li>
+		<li>
+			<span class="title">ssp (secretaria seguran&ccedil;a p&uacute;blica) - s&atilde;o paulo, sp, brazil</span>
+			<span class="link"><a href="http://www.ssp.sp.gov.br/">www.ssp.sp.gov.br</a></span>
+			<span class="period">2001/may - 2002/mar</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 14,00 / hour</li>
+					<li>work hours: 09h00-18h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				first high paying. state security gov.
+				the "stats" i did stayed for over 17 years.
+			</div>
+		</li>
+		<li>
+			<span class="title">indicator pesquisa de mercado - s&atilde;o paulo, sp, brazil</span>
+			<span class="link"><a href="http://www.gfkindicator.com.br/">http://www.gfkindicator.com.br/</a></span>
+			<span class="period">1998/jun - 2000/may</span>
+			<div class="detail">
+				<ul>
+					<li>R$ 850,00 / month</li>
+					<li>work hours: 08h00-18h00</li>
+				</ul>
+			</div>
+			<div class="description">
+				first job. once the 3rd "market research" in brazil. 
+				flash animations. plus school.
+			</div>
+		</li>
+	</ul>
+</div>
+<div class="new block">
+	<h2>spent</h2>
+	<ul id="spent">
+		<li>
+			<span class="title">edX, mit ocw and harvard extension - online, USA</span>
+			<span class="description">computer science</span>
+			<span class="period">2014</span>
+		</li>
+		<li>
+			<span class="title">Millenium Idiomas - S&atilde;o Paulo, SP</span>
+			<span class="description">Basic starter french course</span>
+			<span class="period">2009</span>
+		</li>
+		<li>
+			<span class="title">NCC - online, USA</span>
+			<span class="description">Northampton Community College - Mastery Business Apps</span>
+			<span class="period">2008</span>
+		</li>
+		<li class="hide">
+			<span class="title">&quot;Escola da Vida&quot; - Harrison, NJ, USA</span>
+			<span class="description">General English and Technology Business</span>
+			<span class="period">2005</span>
+		</li>
+		<li>
+			<span class="title">IME, USP - S&atilde;o Paulo, SP</span>
+			<span class="description">University of Sao Paulo - Statistics Bacharel</span>
+			<span class="period">2001</span>
+		</li>
+		<li>
+			<span class="title">Colégio Paralelo - S&atilde;o Paulo, SP</span>
+			<span class="description">Tech School - Data Processing</span>
+			<span class="period">1996/98</span>
+			<div class="detail">
+				started on computer languages (VB 5.0, Delphi 3.0, Corel Draw! 7.0, Page Maker 6.5, Visio 5.0)
+			</div>
+		</li>
+		<li class="hide">
+			<span class="title">SENAI de Diadema - S&atilde;o Paulo, SP</span>
+			<span class="description">Future Manager Preparatory Course, with Sandro Oliveira</span>
+			<span class="period"><!--2nd half of 1997-->1997</span>
+		</li>
+	</ul>
+</div>
+<div class="last line">
+	<ul>
+		<li>wednesday, october 20th, 2021</li>
+	</ul>
+</div>
+</div>
+</body>
+</html>
