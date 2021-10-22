@@ -18,7 +18,7 @@ published: true
   {% assign checkimg = '/' | append: site.gallery_dir | append: '/' | append: image.name %}
   {% if image.path == checkimg %}
   <article>
-   <a name="{{ image.name }}" />
+   <a name="{{ image.basename }}" />
    <h4>[{{ image.basename | replace: "_", " " }}](/{{ image.basename }})</h4>
    <a class="thumbnail" href="{{ image.path }}" data-position="{{ site.thumbnail_position }}"><img src="{{ image.path }}" alt="{{ image.basename }}" /></a>
   </article>
