@@ -2,7 +2,7 @@
 title: contact
 description: get in touch with us
 gallery: 2020-02 solar
-image: /gallery/2020-02 solar.jpg
+image: /gallery/2020-02 solar.jpeg
 permalink: contact
 redirect_from:
   - 2020-02 solar
