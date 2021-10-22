@@ -2,7 +2,8 @@
 title: join us!
 description: let us know more about you
 date: 2020-10-25 12:19:00
-image: 2020-06 nearby lake.jpg
+image: /gallery/2020-06 nearby lake.jpeg
+gallery: 2020-06 nearby lake
 permalink: join
 redirect_from:
   - 2020-06 nearby lake
@@ -14,7 +15,7 @@ published: true
 
 # {{ page.description }}
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 # partnership
 
