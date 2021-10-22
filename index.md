@@ -84,4 +84,4 @@ what else is going on for ahoxus?
 
 - more ways to [get updates](/updates)
 
-proudly produced by [cregox](https://cregox.net/ahoxus).
+proudly produced by [cregox](/cregox).
