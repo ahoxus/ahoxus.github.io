@@ -3,7 +3,7 @@ title: core principles
 description: unreliable mind awareness
 date: 2020-11-12 17:44:00
 image: 2020-01 lisandro river.jpeg
-gallery: lisandro river
+gallery: 2020-01 lisandro river
 permalink: core
 redirect_from:
   - 2020-01 lisandro river
