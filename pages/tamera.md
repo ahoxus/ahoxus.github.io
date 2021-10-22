@@ -2,7 +2,8 @@
 title: tamera
 description: the community that inspired ahoxus
 date: 2020-08-28 10:01:00
-image: 2019-07 alentejo community time walk chapel.jpg
+image: /gallery/2019-07 alentejo community time walk chapel.jpeg
+gallery: 2019-07 alentejo community time walk chapel
 permalink: tamera
 redirect_from:
   - 2019-07 alentejo community time walk chapel
@@ -11,10 +12,11 @@ redirect_from:
   - community
 layout: page
 published: true
-tamera: 2019-06 tamera vision.jpg
+tamera: /gallery/2019-06 tamera vision.jpeg
+gallery_tamera: 2019-06 tamera vision
 ---
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 # {{ page.description }}
 
@@ -28,7 +30,7 @@ also they have their own language and belief system, which is very hard to grasp
 
 [tamera.org](//tamera.org)
 
-[![{{ page.tamera }}]({{ site.image_path }}{{ page.tamera }})](/gallery#{{ page.tamera }})
+[![{{ page.tamera }}]({{ page.tamera }})](/gallery#{{ page.gallery_tamera }})
 
 *i couldn't find 3 of my favourite tamerians in the photos here*
 
