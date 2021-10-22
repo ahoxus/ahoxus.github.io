@@ -2,7 +2,8 @@
 title: stay
 description: prepare, arrive, and say good bye
 date: 2020-10-26 07:00:00
-image: 2020-05 tent.jpg
+image: /gallery/2020-05 tent.jpeg
+gallery: 2020-05 tent
 permalink: stay
 redirect_from:
   - 2020-05 tent
@@ -15,7 +16,7 @@ published: true
 
 # {{ page.description }}
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 welcome to ahoxus!
 
