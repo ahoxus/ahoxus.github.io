@@ -3,6 +3,7 @@ title: diogo cao secret
 description: if you find this box, please put it back
 date: 2020-10-21 13:37:00
 image: /cregox/dcao box.jpg
+subgallery: /dcao/
 permalink: cregox/dcao
 redirect_from:
   - dcao
