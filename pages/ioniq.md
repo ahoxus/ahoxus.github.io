@@ -4,6 +4,7 @@ description: hyundai made the best ev battery and nobody knows it
 date: 2021-09-14 21:22:00
 gallery: 2021-03 ioniq
 image: /gallery/2021-03 ioniq.jpeg
+subgallery: /ioniq/
 permalink: ioniq
 redirect_from:
   - 2021-03 ioniq
@@ -26,16 +27,3 @@ on sale from april 2021 (bought for €20.5k) in many different places, such as 
 - drive up to 180km real scenario (vila real to coimbra), with little to worry.
 
 see below some pictures as reference to the art we will soon make on it.
-
-<section id="thumbnails">
-  {% assign gallery = site.static_files | where: "image", true | reverse %}
-  {% for image in gallery %}
-  {% if image.path contains "/ioniq/" %}
-  <article>
-   <a name="{{ image.name }}" />
-   <h4>[{{ image.basename | replace: "_", " " }}](#{{ image.name }})</h4>
-   <a class="thumbnail" href="{{ image.path }}" data-position="{{ site.thumbnail_position }}"><img src="{{ image.path }}" alt="{{ image.basename }}" /></a>
-  </article>
-  {% endif %}
-  {% endfor %}
-</section>
