@@ -3,7 +3,7 @@ title: videos
 description: references for core ideas and practices
 date: 2021-01-14 11:16:00
 gallery: videos
-image: /gallery/videos.jpg
+image: /gallery/videos.jpeg
 permalink: videos
 redirect_from:
   - video
