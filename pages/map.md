@@ -2,7 +2,8 @@
 title: map
 description: some ways to locate ahoxus
 date: 2021-01-07 11:43:00
-image: 2020-03 reserva shape.png
+image: /gallery/2020-03 reserva shape.png
+gallery: 2020-03 reserva shape
 permalink: map
 redirect_from:
   - 2020-03 reserva shape
@@ -32,4 +33,4 @@ andraes have basically no public transportation.
 
 - current shape of our land:
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
