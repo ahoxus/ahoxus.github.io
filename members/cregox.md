@@ -1,8 +1,8 @@
 ---
 title: cregox
 description: c+aue goes by too many names...
-date: 2021-10-22 06:22:00
-image: /gallery/c+aue.jpg
+date: 2021-10-22 07:22:00
+image: /~cregox/avatar.jpg
 permalink: cregox
 redirect_from: 
   - ~cregox
@@ -23,11 +23,11 @@ c+aue speaking.
 
 [a former programmer for 20 years](/cregox/resume), turned into a wildcard person (or something on those lines).
 
-literally living in the wild!
+literally [living in the wild](/paradise)!
 
 you may find more about me, for now (2021 october), [on my outdated website](http://cregox.net), but mostly around the web.
 
-both cregox and ahoxus sites will go through radical transformations, due to the [[achoz](/achoz)] project.
+both cregox and ahoxus sites will (soon enough) go through radical transformations, due to the [[achoz](/achoz)] project.
 
 stay tuned! 😘
 
@@ -35,7 +35,7 @@ ps: no suggestion below will work as the internet should... reason why i will pr
 
 # mastodon
 
-meanwhile, be sure to check out [@cregox@banana.dog]().
+meanwhile, be sure to check out [@cregox@banana.dog](https://banana.dog/web/accounts/255551#).
 
 # delta.chat
 
