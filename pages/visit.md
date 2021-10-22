@@ -2,7 +2,8 @@
 title: visiting
 description: information for guest visitors
 date: 2020-10-10 20:47:00
-image: 2020-07 sky.jpeg
+image: /gallery/2020-07 sky.jpeg
+gallery: 2020-07 sky
 permalink: visit
 redirect_from:
   - 2020-07 sky
@@ -16,7 +17,7 @@ menu: true
 
 # {{ page.description }}
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 if you don't need sleep accommodations and food, or you bring your own, **just come**! also, there are restaurants in a 5km radius.
 
