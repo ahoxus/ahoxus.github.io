@@ -1,7 +1,8 @@
 ---
 title: updates
 description: get notified about news on ahoxus!
-image: 2018-07 ahoxus exploded lemon.jpg
+image: /gallery/2018-07 ahoxus exploded lemon.jpeg
+gallery: 2018-07 ahoxus exploded lemon
 permalink: updates
 redirect_from:
   - 2018-07 ahoxus exploded lemon
@@ -12,7 +13,7 @@ published: true
 menu: true
 ---
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 # {{ page.description }}
 
