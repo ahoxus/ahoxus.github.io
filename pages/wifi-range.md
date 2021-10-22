@@ -2,10 +2,11 @@
 title: wi-fi range
 description: how incredibly hard it is to get 50m away
 date: 2021-04-20 14:22:00
-gallery: wifi
+gallery: 2021-04 wifi-distance
 image: /gallery/2021-04 wifi-distance.jpeg
 permalink: wifi-range
 redirect_from:
+  - 2021-04 wifi-distance
   - wifi-reach
   - wi-fi
   - wifi
