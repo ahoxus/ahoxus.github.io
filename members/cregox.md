@@ -2,7 +2,7 @@
 title: cregox
 description: c+aue goes by too many names...
 date: 2021-10-22 07:22:00
-image: /~cregox/avatar.jpg
+image: /cregox/avatar.jpg
 permalink: cregox
 redirect_from: 
   - ~cregox
@@ -35,7 +35,7 @@ ps: no suggestion below will work as the internet should... reason why i will pr
 
 # mastodon
 
-meanwhile, be sure to check out [@cregox@banana.dog](https://banana.dog/web/accounts/255551#).
+meanwhile, be sure to check out [@cregox@banana.dog](https://banana.dog/web/accounts/255551#). (and go [here](https://banana.dog/invite/4UxD8Nuk) if you need an invitation link for whatever reason)
 
 # delta.chat
 
