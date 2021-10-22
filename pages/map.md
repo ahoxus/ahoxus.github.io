@@ -2,7 +2,7 @@
 title: map
 description: some ways to locate ahoxus
 date: 2021-01-07 11:43:00
-image: /gallery/2020-03 reserva shape.png
+image: /gallery/2020-03 reserva shape.jpeg
 gallery: 2020-03 reserva shape
 permalink: map
 redirect_from:
