@@ -1,7 +1,8 @@
 ---
 title: you only live once
 description: is yolo the new carpe diem?
-image: 2019-12 nice bed making.jpg
+image: /gallery/2019-12 nice bed making.jpeg
+gallery: 2019-12 nice bed making
 permalink: yolo
 redirect_from:
   - 2019-12 nice bed making
@@ -13,7 +14,7 @@ layout: page
 published: true
 ---
 
-[![{{ page.image }}]({{ site.image_path }}{{ page.image }})](/gallery#{{ page.image }})
+[![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
 
 # {{ page.description }}
 
