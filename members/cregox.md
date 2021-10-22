@@ -21,7 +21,7 @@ hi.
 
 c+aue speaking.
 
-[a former programmer for 20 years](resume), turned into a wildcard person (or something on those lines).
+[a former programmer for 20 years](/cregox/resume), turned into a wildcard person (or something on those lines).
 
 literally living in the wild!
 
