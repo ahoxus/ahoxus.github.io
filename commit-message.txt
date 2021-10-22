@@ -1,1 +1,1 @@
-add cregox HTML resume
+move stallman out of tilde, see if it works
