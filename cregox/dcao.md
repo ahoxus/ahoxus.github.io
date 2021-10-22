@@ -7,6 +7,7 @@ image: /gallery/dcao.jpg
 permalink: cregox/dcao
 redirect_from:
   - dcao
+  - ~cregox/dcao
 layout: draft
 published: true
 ---
