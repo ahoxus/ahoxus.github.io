@@ -31,6 +31,18 @@ both cregox and ahoxus sites will (soon enough) go through radical transformatio
 
 stay tuned! 😘
 
+# services
+
+inspired by [gnu listing](https://www.gnu.org/prep/service.html)
+
+will work mostly with aGPLed, and free software, focused on development overviews. explaining, handholding, trouble shooting, teaching, etc.
+
+rates: € 500.00/hour + travel + expenses. fixed fee quotes available. negotiable for non-profits.
+
+experience: have hacked and created software on over a dozen languages and stacks, in the past, for over 20 years. created whole commercial system solutions that remained working, untouched and unmaintained, for 15 years. helped rms with words through email, i guess 🤣. got an ubuntu touch phone as primary "wannabe" computing device (current one relies on android with termux) focusing on GNU programs. [ahoxus.org/cregox/resume](/cregox/resume)
+
+---
+
 ps: no suggestion below will work as the internet should... reason why i will probably need to build achoz. but they do get pretty damn close to it, specially if we could mix them all along with a few more...
 
 # mastodon
