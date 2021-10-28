@@ -4,15 +4,15 @@ updated 2021oct
 scoring guidelines:
 [     ] eager to learn
 [X    ] basic knowledge and playing around
-[XX   ] basic knowledge and experience in real projects
+[XX   ] basic knowledge and paid experience
 [XXX  ] comprehensive experience in projects
 [XXXX ] advanced technical knowledge
-[XXXXX] expert / guru / coach / author or similar
+[XXXXX] expert / guru / author or similar
 
-subjects, in somewhat random order plus some priority:
+subjects, in somewhat random priority order:
 [XXXXX]__backup
 [XXXXX]__enjoying my own life
-[XX   ]__playing, producing and/or scripting a movie
+[XX   ]__making a movie
 [X    ]__fsf/agpl
 [XX   ]__basiux, in my heart
 [X    ]__gnu
@@ -31,7 +31,7 @@ subjects, in somewhat random order plus some priority:
 [X    ]__node.js
 [XXX  ]__algorithms and data structures
 [     ]__grunt / gulp
-[X    ]__noSQL database (elasticsearch, mongodb, etc.)
+[X    ]__noSQL database (such as mongodb)
 [XX   ]__webservices (RestApi's & SOAP)
 [XX   ]__python
 [XX   ]__game developing
@@ -39,12 +39,12 @@ subjects, in somewhat random order plus some priority:
 [XXXX ]__C#
 [XX   ]__shell scripting
 [X    ]__angular
-[X    ]__TCP/IP networking (OSI stack, DNS, etc)
-[X    ]__weak / commercial ai[XX   ]__entrepreneur
+[X    ]__TCP/IP networking
+[X    ]__weak / commercial ai
+[XX   ]__entrepreneur
 [X    ]__people management
 [XXXX ]__SQL and/or database admin
-[X    ]__unix/linux internals (inodes, file system structure)
-[XX   ]__unix/linux systems administration
+[XX   ]__dev ops
 [XX   ]__AWS
 [X    ]__vagrant
 [X    ]__ruby
@@ -53,12 +53,12 @@ subjects, in somewhat random order plus some priority:
 [X    ]__c++
 [XXX  ]__PHP
 [XXXX ]__git
-[X    ]__docker and/or container technologies
+[X    ]__docker and/or containers
 [XXX  ]__jQuery
 [XXXX.]__unity3D
 [XXXX ]__mac
 [XXX  ]__windows
 [XX   ]__YUI
 [XX   ]__perl
-[XXX  ]__some old stuff like asp, qbasic, clipper and delphi
 [XXXXX]__math in high school
+[XXX  ]__oldie: asp, qbasic, clipper, delphi
