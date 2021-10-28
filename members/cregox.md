@@ -21,7 +21,7 @@ hi.
 
 c+aue speaking.
 
-[a former programmer for 20 years](/cregox/resume), turned into a wildcard person (or something on those lines).
+a [skillful](/cregox/skills.self.evaluation.txt) former [programmer for 20 years](/cregox/resume), turned into a wildcard person (or something on those lines).
 
 literally [living in the wild](/paradise)!
 
@@ -41,9 +41,9 @@ rates: € 500.00/hour + travel + expenses. fixed fee quotes available. negotiab
 
 experience: have hacked and created software on over a dozen languages and stacks, in the past, for over 20 years. created whole commercial system solutions that remained working, untouched and unmaintained, for 15 years. helped rms with words through email, i guess 🤣. got an ubuntu touch phone as primary "wannabe" computing device (current one relies on android with termux) focusing on GNU programs. [ahoxus.org/cregox/resume](/cregox/resume)
 
----
+## suggestions
 
-ps: no suggestion below will work as the internet should... reason why i will probably need to build achoz. but they do get pretty damn close to it, specially if we could mix them all along with a few more...
+none below will work as the internet should... reason why i will probably need to build achoz. but they do get pretty damn close to it, specially if we could mix them all along with a few more...
 
 # mastodon
 
