@@ -1,0 +1,55 @@
+scoring guidelines:
+[     ] eager to learn
+[X    ] basic knowledge and playing around
+[XX   ] basic knowledge and experience in real projects
+[XXX  ] comprehensive experience in projects
+[XXXX ] advanced technical knowledge
+[XXXXX] expert / guru / coach / author or similar
+
+subject areas, in order of priority:
+[XXXXX]__enjoying oneself, life is some game
+[XX   ]__basiux, studying about super ai
+[XXXX ]__backup
+[XXXX ]__git
+[XXX  ]__versioning
+[X    ]__TDD / BDD / CI
+[XX   ]__agile
+[X    ]__project management
+[XXXX ]__javascript
+[XXX  ]__playing videogames
+[X    ]__playing soccer
+[X    ]__node.js
+[XXX  ]__algorithms and data structures
+[     ]__grunt / gulp
+[X    ]__noSQL database (elasticsearch, mongodb, etc.)
+[X    ]__docker and/or container technologies
+[XX   ]__webservices (RestApi's & SOAP)
+[XX   ]__python
+[XX   ]__game developing
+[XXXX ]__C#
+[XXXX.]__unity3D
+[XX   ]__playing, producing and/or scripting a movie
+[XX   ]__shell scripting
+[     ]__scala/lisp
+[X    ]__angular
+[XXX  ]__jQuery
+[X    ]__TCP/IP networking (OSI stack, DNS, etc)
+[X    ]__unix/linux internals (inodes, file system structure)
+[X    ]__weak / commercial ai[XX   ]__entrepreneur
+[X    ]__people management
+[XX   ]__math
+[XX   ]__unix/linux systems administration
+[XX   ]__AWS
+[XXXX ]__SQL and/or database admin
+[X    ]__vagrant
+[X    ]__ruby
+[XX   ]__java
+[XXX  ]__c
+[X    ]__c++
+[XXX  ]__PHP
+[XXXX ]__mac
+[XXX  ]__windows
+[XX   ]__YUI
+[XX   ]__perl
+[XXX  ]__some old stuff like asp, qbasic, clipper and delphi
+[XXXXX]__math in high school
