@@ -1,3 +1,6 @@
+
+updated 2021oct
+
 scoring guidelines:
 [     ] eager to learn
 [X    ] basic knowledge and playing around
@@ -6,11 +9,16 @@ scoring guidelines:
 [XXXX ] advanced technical knowledge
 [XXXXX] expert / guru / coach / author or similar
 
-subject areas, in order of priority:
-[XXXXX]__enjoying oneself, life is some game
-[XX   ]__basiux, studying about super ai
-[XXXX ]__backup
-[XXXX ]__git
+subjects, in somewhat random order plus some priority:
+[XXXXX]__backup
+[XXXXX]__enjoying my own life
+[XX   ]__playing, producing and/or scripting a movie
+[X    ]__fsf/agpl
+[XX   ]__basiux, in my heart
+[X    ]__gnu
+[     ]__scala/lisp
+[X    ]__esperanto
+[X    ]__fossil
 [XXX  ]__versioning
 [X    ]__TDD / BDD / CI
 [XX   ]__agile
@@ -18,35 +26,36 @@ subject areas, in order of priority:
 [XXXX ]__javascript
 [XXX  ]__playing videogames
 [X    ]__playing soccer
+[     ]__tennis
+[XX   ]__math
 [X    ]__node.js
 [XXX  ]__algorithms and data structures
 [     ]__grunt / gulp
 [X    ]__noSQL database (elasticsearch, mongodb, etc.)
-[X    ]__docker and/or container technologies
 [XX   ]__webservices (RestApi's & SOAP)
 [XX   ]__python
 [XX   ]__game developing
+[     ]__rust
 [XXXX ]__C#
-[XXXX.]__unity3D
-[XX   ]__playing, producing and/or scripting a movie
 [XX   ]__shell scripting
-[     ]__scala/lisp
 [X    ]__angular
-[XXX  ]__jQuery
 [X    ]__TCP/IP networking (OSI stack, DNS, etc)
-[X    ]__unix/linux internals (inodes, file system structure)
 [X    ]__weak / commercial ai[XX   ]__entrepreneur
 [X    ]__people management
-[XX   ]__math
+[XXXX ]__SQL and/or database admin
+[X    ]__unix/linux internals (inodes, file system structure)
 [XX   ]__unix/linux systems administration
 [XX   ]__AWS
-[XXXX ]__SQL and/or database admin
 [X    ]__vagrant
 [X    ]__ruby
 [XX   ]__java
 [XXX  ]__c
 [X    ]__c++
 [XXX  ]__PHP
+[XXXX ]__git
+[X    ]__docker and/or container technologies
+[XXX  ]__jQuery
+[XXXX.]__unity3D
 [XXXX ]__mac
 [XXX  ]__windows
 [XX   ]__YUI
