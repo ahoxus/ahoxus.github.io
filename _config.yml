@@ -4,8 +4,7 @@ email: help@ahoxus.org
 description: chaos up! # goes in the document head meta (for
 #  search engines results) and in the feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://ahoxus.org # the base hostname & protocol for your site
-enforce_ssl: "ahoxus.org"
+url: http://ahoxus.org # the base hostname & protocol for your site
 github_url: https://github.com/ahoxus/ahoxus.github.io
 twitter_username: ahoxus
 github_username: ahoxus
