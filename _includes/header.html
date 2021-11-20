@@ -1,11 +1,13 @@
 <header class="site-header">
 
   <div class="secure-warning">
+    we do not care for cookies!
+    <br>
     if your connection is <a href="/securefree">secured (uses https) for no good reason (since this site offers zero risk)</a>,
 
     do consider using a non-secure connection for marginal gains that add to the whole world!
 
-    <a href="http://ahoxus.org">http://ahoxus.org</a>
+    <a href="{{ page.url | prepend: site.url }}">{{ page.url | prepend: site.url }}</a>
   </div>
   <script src="/securefree.js"></script>
 
