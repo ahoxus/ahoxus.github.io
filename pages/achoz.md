@@ -14,6 +14,7 @@ redirect_from:
   - axoz
 layout: page
 published: true
+menu: true
 ---
 
 # {{ page.description }}
