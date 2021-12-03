@@ -2,6 +2,7 @@
 title: cregox
 description: c+aue goes by too many names...
 date: 2021-12-03 22:22:00
+subgallery: /cregox/
 image: /cregox/avatar.jpg
 permalink: cregox
 redirect_from: 
