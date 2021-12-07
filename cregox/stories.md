@@ -6,7 +6,7 @@ gallery: cool
 image: /gallery/cool.jpg
 permalink: cregox/stories
 redirect_from:
-  - stories
+  - ~cregox/stories
   - cregox/story
 layout: draft
 published: true
@@ -16,6 +16,8 @@ menu: false
 # {{ page.description }}
 
 [![{{ page.image }}]({{ page.image }})](/gallery#{{ page.gallery }})
+
+for now, just one story, below.
 
 # life
 
