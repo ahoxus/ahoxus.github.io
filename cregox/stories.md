@@ -113,7 +113,7 @@ no sex, she sleeps, he gets tired and sleep too.
 
 the end of the day. death for the day.
 
-but this time it was different. not completely unique, just different from most. and aligned with a happy event.
+but this time it was different.
 
 in life, he now moves away from her once again. she agrees to increase their distance. she needs to work. to figure out her life. distance helps with these.
 
@@ -137,11 +137,11 @@ and he jumps in.
 
 sex.
 
-or at least a finger penetration.
+only a finger penetration.
 
 nothing unique, but rare. perhaps once per year, in average, at most. 10 years.
 
-he told her the story about life and the world, just moments ago, the last time she seemed to wake up due to all enslavement attempts. talking on her sleep, as her request. continuously asking for permission in one way or another. no sex.
+he told her the story about life and the world, just moments ago, the last time she seemed to wake up due to all enslavement attempts. talking on her sleep. continuously asking for permission in one way or another. no sex.
 
 this time it was uniquely meaningful in this sense.
 
@@ -151,11 +151,9 @@ pitch black.
 
 she sleeps.
 
-he can only finger.
-
 he thinks she wants the penis. for the first time, it doesn't get hard while she deep sleeps with his finger inside her.
 
-he gives up. let her sleep.
+he stops.
 
 she needs to sleep, he can't provide more or push more. confusion in his head. fear in hers.
 
@@ -163,4 +161,4 @@ she sleeps.
 
 he goes on to write this story.
 
-took him 1h, 1 thumb (different fingers), 1 cellphone as usual, 1 sit, unedited.
+(took him 1 hour, 1 thumb, 1 cellphone as usual, 1 sit, mostly unedited).
