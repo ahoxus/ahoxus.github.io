@@ -1,7 +1,7 @@
 ---
 title: cregox
 description: c+aue goes by too many names...
-date: 2021-12-03 22:22:00
+date: 2021-12-07 05:22:00
 subgallery: /cregox/
 image: /cregox/avatar.jpg
 permalink: cregox
@@ -26,7 +26,11 @@ a [skillful](/cregox/skills.self.evaluation.txt) former [programmer for 20 years
 
 literally [living in the wild](/paradise)!
 
-you may find more about me, for now (2021 december), [on my outdated website](http://cregox.net), but mostly around the web.
+# updates
+
+i like to write short [[stories](/cregox/stories)], from time to time. you can find latest one (2021 december 7th) about a happy place there, under that stories link.
+
+otherwise, you may find more about me, for now (2021 december), [on my outdated website](http://cregox.net), but mostly around the web.
 
 both cregox and ahoxus sites will (soon enough) go through radical transformations, due to the [[achoz](/achoz)] project.
 
