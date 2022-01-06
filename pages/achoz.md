@@ -1,7 +1,7 @@
 ---
 title: achoz
 description: chaos from a to z
-date: 2021-12-02 14:42:00
+date: 2022-01-06 22:42:00
 gallery: 2020-11-21 achoz
 image: /gallery/2020-11-21 achoz.jpeg
 permalink: achoz
@@ -53,14 +53,18 @@ try searching for "" to test the built-in video and image viewers.
 
 [achoz.ahoxus.org](http://achoz.ahoxus.org)
 
-# roadmap (outdated)
+[source](https://github.com/kcubeterm/achoz)
+
+[public alpha launch announcement](https://www.reddit.com/r/selfhosted/comments/rtc2q2/achoz_a_selfhost_search_engine_for_your_personal/)
+
+# priority checklist
 
 ## first
 
-- create script #magictill to slim down files
-- create a search able to instantly search through all files
-- setup syncthing across all devices (done)
-- get a cloud server to be a linked device (done)
+- create script #magictill to radically slim down files
+- ∆ (on public alpha) create a search able to instantly search through all files
+- ✓ setup syncthing across all devices
+- ✓ get a cloud server to be a linked device
 
 ## second
 
@@ -70,21 +74,22 @@ try searching for "" to test the built-in video and image viewers.
 ## third
 
 - magictill should also facilitate file normalisation
-- make a new roadmap
-- get to all technical details
+- make a technical roadmap for search and magictill
 
 # technical
+
+we must focus on agpl3+. all other license implies code being done without caring enough for the essential freedoms.
 
 ## talk
 
 using emails we can replace all your facebook and other such needs:
 
-- identity: opennic for free nameserver (in the long term) or ipv6 + self hosting
+- identity: open question. perhaps ipv6 + self hosting, or ipfs?
 - site: your unique profile using [#data](#data)
-- forums: a mailing list using sourcehut + fossil-scm
-- messengers: with delta chat and jitsi (plus telegram, telephones, and voip, for ringing), and perhaps briar
-- social media: mastodon, scuttlebutt
-- irc: much better with forums and messengers
+- forums: open question. perhaps a mailing list using sourcehut + fossil-scm, or nodebb?
+- messengers: delta chat and jitsi (plus telephones, and voip, for ringing), and perhaps briar and/or telegram (beware of tg!)
+- social media: mastodon/fediverse, scuttlebutt
+- irc: no mobile option as of 2021. forget about it! much better with forums and messengers
 
 ## data
 
@@ -101,17 +106,15 @@ using [#**magictill**](#origin) scripts with termux, git and rsync, we replace m
 ## money
 
 - ledger: from linux. with cone.
-- bank: bitcoin, of course... good to have money, even without any need for it!
+- bank: bitcoin/blockchain (in 2021: uma and zcash for agpl, and even algorand for practical cheapest wallet), of course... good to have money, even without any need for it!
 
 ## search
 
-this is the most complex, yet, once everything else is set, it's also the simplest one to resolve!
-
 - google, bing: use searx instead. or duck.
-- pc: a #mobileofflinefirst webapp for lunr or meili, plus ripgrepall
+- personal computing: look at [#demonstration above](#demonstration) (a #mobileofflinefirst webapp for lunr or meili, plus ripgrepall (we ended up using first shiori and now only typesense)
 
 # subscribe
-[[subscribe](/#subscribe)] for a better chance of [[joining](/join)] the beta release.
+[[subscribe](/#subscribe)] for very sporadic news over email.
 
 # origin
 started based on [this description by cregox](http://cregox.net/achoz) (more links to some concepts there).
