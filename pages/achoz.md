@@ -41,23 +41,35 @@ we will also have all of your data synchronized across all your devices, and eve
 
 you can, for instance, even turn 90gb of MP3 into 10gb with insignificant loss, so your whole library can easily be used everywhere.
 
-# demonstration
+# search
+
+remember to use the "search in this page" as well! data here got purposefully messy and in a single chunk of a web page.
+
+## demonstration
 
 the data there comes mostly at random from cregox personal files (around 15gb of them).
 
 it works even offline (if you can set it up yourself).
 
-try searching for "" to test the built-in video and image viewers.
-
-(beware of possible pornographic or otherwise disturbing content for some viewers, while this is in alpha stage)
-
-[achoz.ahoxus.org](http://achoz.ahoxus.org)
-
-[source](https://github.com/kcubeterm/achoz)
+[achoz.ahoxus.org](http://achoz.ahoxus.org) ([source](https://github.com/kcubeterm/achoz))
 
 [public alpha launch announcement](https://www.reddit.com/r/selfhosted/comments/rtc2q2/achoz_a_selfhost_search_engine_for_your_personal/)
 
-# priority checklist
+## roadmap
+
+early 2022 january
+
++ better results (the search still doesn't bring anything useful)
++ link back to here (from the public page at the current #demonstration)
++ endless scrolling, if possible (very complex topic, as we still need links to each search result, with hashtags)
++ page navigation on the top (for easier navigation)
++ link to directly open the found file (it works for images and videos already)
++ link to go to new search (basically a `/` link on "achoz" which should always be on the top as a title)
++ move the roadmap somewhere else: ideally a shared and public text file, perhaps with automatic versioning and easy diff, perhaps simply use a fediverse tool such as write.as
+
+[discussions](https://github.com/kcubeterm/achoz/discussions)
+
+# checklist
 
 ## first
 
@@ -74,7 +86,7 @@ try searching for "" to test the built-in video and image viewers.
 ## third
 
 - magictill should also facilitate file normalisation
-- make a technical roadmap for search and magictill
+- make a technical checklist for magictill
 
 # technical
 
