@@ -25,35 +25,31 @@ menu: true
 
 **achoz**, by ahoxus, is a simple and free/libre open source app to organize and search through all your data offline-first (once you normalize it).
 
-(this is another way to view the [[uproot](/uproot)] project. they're both the same).
+(this is another way to look at the [[uproot](/uproot)] project. they're both the same).
 
-[[subscribe](/#subscribe)] for a better chance of [[joining](/join)] the beta release.
+[[subscribe on ahoxus](/#subscribe)] for very sporadic news over email.
 
 # story
 
-cregox have a lot of data. files, emails, messages, web links, web content, etc. they a also are of different kinds; text, video, audio, apps, etc.
+you have a lot of data: files, emails, messages, web links, web content, text, video, audio, apps, etc.
 
-when trying to find something they do remember to be there, sometimes it gets impossible!
+when trying to find something you do remember to be there, sometimes it gets impossible!
 
-the goal of achoz is making cregox self-data-searching-life not only easier, but enable a new world of possibilities, in which they don't have to worry anymore how to store data for themselves (as long as it's stored with open and free standards).
+the goal of achoz is making your self-data-searching-life not only easier, but enable a new world of possibilities, in which you don't have to worry anymore how to store data for yourself (as long as it's stored with open and free standards).
 
-so a lot of it goes through self education to normalize the data a bit.
+we will also have all of your data synchronized across all your devices, and even the cloud if you want, with just one single search away to find whatever might be needed!
 
-after that, we have all of it replicated through all our devices and some cloud, with just one single search away to find whatever might be needed!
-
-(on another instance, 90gb of MP3 will be turned into 10gb with insignificant loss, so the whole library can easily be used everywhere)
+you can, for instance, even turn 90gb of MP3 into 10gb with insignificant loss, so your whole library can easily be used everywhere.
 
 # demonstration
-
-please see the link below. it is still just a proof of concept.
 
 the data there comes mostly at random from cregox personal files (around 15gb of them).
 
 it works even offline (if you can set it up yourself).
 
-it even shows images and videos (look for them).
+try searching for "" to test the built-in video and image viewers.
 
-(beware they might be pornographic or otherwise disturbing for some viewers, while in alpha stage)
+(beware of possible pornographic or otherwise disturbing content for some viewers, while this is in alpha stage)
 
 [achoz.ahoxus.org](http://achoz.ahoxus.org)
 
