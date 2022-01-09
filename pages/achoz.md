@@ -29,6 +29,25 @@ menu: true
 
 [[subscribe on ahoxus](/#subscribe)] for very sporadic news over email.
 
+# roadmap
+
+early 2022 january
+
+broad vision, focused on search for now, from high to low priority
+
++ highest priority! **better and _useful_ results** (the search still doesn't bring anything useful)
++ link to directly open the found file (it works for images and videos already)
++ lowest priority: simple gui improvements
+  - link back to here (from the public page at the current #demonstration)
+  - page navigation on the top (for easier navigation)
+  - link to go to new search (basically a `/` link on "achoz" which should always be on the top as a title)
++ if possible: endless scrolling (very complex topic, as we still need links to each search result, with hashtags - never seen it done properly)
++ move the roadmap somewhere else: ideally a shared and public text/markdown file, perhaps with automatic versioning and easy diff... would a fediverse tool such as write.as suffice?
+
+[discussions](https://github.com/kcubeterm/achoz/discussions)
+
+[more details](https://github.com/kcubeterm/achoz/blob/master/Roadmap.md), while we find no better place for the constantly changing roadmap.
+
 # story
 
 you have a lot of data: files, emails, messages, web links, web content, text, video, audio, apps, etc.
@@ -54,20 +73,6 @@ it works even offline (if you can set it up yourself).
 [achoz.ahoxus.org](http://achoz.ahoxus.org) ([source](https://github.com/kcubeterm/achoz))
 
 [public alpha launch announcement](https://www.reddit.com/r/selfhosted/comments/rtc2q2/achoz_a_selfhost_search_engine_for_your_personal/)
-
-## roadmap
-
-early 2022 january
-
-+ better results (the search still doesn't bring anything useful)
-+ link back to here (from the public page at the current #demonstration)
-+ endless scrolling, if possible (very complex topic, as we still need links to each search result, with hashtags)
-+ page navigation on the top (for easier navigation)
-+ link to directly open the found file (it works for images and videos already)
-+ link to go to new search (basically a `/` link on "achoz" which should always be on the top as a title)
-+ move the roadmap somewhere else: ideally a shared and public text file, perhaps with automatic versioning and easy diff, perhaps simply use a fediverse tool such as write.as
-
-[discussions](https://github.com/kcubeterm/achoz/discussions)
 
 # checklist
 
