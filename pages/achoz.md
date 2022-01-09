@@ -91,7 +91,6 @@ it works even offline (if you can set it up yourself).
 ## third
 
 - magictill should also facilitate file normalisation
-- make a technical checklist for magictill
 
 # technical
 
@@ -110,19 +109,20 @@ using emails we can replace all your facebook and other such needs:
 
 ## data
 
-using [#**magictill**](#origin) scripts with termux, git and rsync, we replace most of your google/microsoft needs:
+ideas and existing tools for best data use and keep your data footprint to a minimum!
 
-- files: syncthing, nextcloud, fossil, and/or rsync
-- photos: magictill to reduce older unselected photos size periodically on files
-- music: any radio app? TK
-- videos: magictill plus lbry? TK
-- office: nextcloud and libre office? docs, sheets and slides TK
-- server: tilde clubs? TK netlify? anyway, any free servers work, easy to migrate with magictill, including dns
-- limits: magictill by default will lossly reduce all files (except marked ones) older than 1 year with minimal compression. 5 years gets maximum. 10 years they are deleted, but keep the name, checksum, and metadata.
+ps: [#**magictill**](#origin) script still in development, but we can also apply [the concept](https://github.com/kcubeterm/achoz/blob/master/Roadmap.md#magictill-slim-down-files) in practice, manually.
+    by default, it will reduce all media files (in selected folder) with maximum compression. then, the ones older than 1 year start to get much smaller until 8 years, when they get to the bare minimum size. 16 years without access, they are deleted, but we still keep the name, checksum, and metadata.
+
+- files: syncthing, fossil, and/or rsync (avoid nextcloud)
+- media: photos, videos, and audio will get reduced by magictill
+- music: with reduced audio file, no need to stream
+- office: docs, sheets, and slides? you need to learn markdown, python, and html
+- server: tilde clubs + raspberry pi + all free servers you can get (with small data footprint, you can spread it easily)
 
 ## money
 
-- ledger: from linux. with cone.
+- ledger: from linux. with cone. allows for infinite money #aloze TK (look at the fediverse)
 - bank: bitcoin/blockchain (in 2021: uma and zcash for agpl, and even algorand for practical cheapest wallet), of course... good to have money, even without any need for it!
 
 ## search
