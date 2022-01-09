@@ -135,3 +135,12 @@ ps: [#**magictill**](#origin) script still in development, but we can also apply
 
 # origin
 started based on [this description by cregox](http://cregox.net/achoz) (more links to some concepts there).
+
+# thanks
++ digital ocean, hub for good
++ github, free account
++ archive.org, lots of inspiration
++ fsf, free license and gnu linux
++ kcubeterm, collaborator
+
+plus so many missing names! please, let us know.
