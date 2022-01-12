@@ -31,7 +31,7 @@ then, see the directions and come.
 
 for now, you can see everything there's to expect on arriving here at airbnb. it's an unreleased project right now, and a good "standardized" (as much as possible) way to present the space: keep in mind we don't offer a typical "bed and breakfast", or even a typical wild camping but it's quite enough if you're very adventurous!
 
-- [more details (temperately) on airbnb](https://airbnb.com/h/ahoxus)
+- [more details (temporarily) on airbnb](https://airbnb.com/h/ahoxus)
 
 finally, you may also consider to [join our work force](/join) or simply [[staying](/stay)] for some time.
 
