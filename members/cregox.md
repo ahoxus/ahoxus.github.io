@@ -46,6 +46,10 @@ rates: € 500.00/hour + travel + expenses. fixed fee quotes available. negotiab
 
 experience: have hacked and created software on over a dozen languages and stacks, in the past, for over 20 years. created whole commercial system solutions that remained working, untouched and unmaintained, for 15 years. helped rms with words through email, i guess 🤣. got an ubuntu touch phone as primary "wannabe" computing device (current one relies on android with termux) focusing on GNU programs. [ahoxus.org/cregox/resume](/cregox/resume)
 
+# products
+
+[coming up soon, perhaps on gumroad](https://cregox.gumroad.com/).
+
 ## contact
 
 obviously, cregox@ahoxus.org should work. also +351 918424479
