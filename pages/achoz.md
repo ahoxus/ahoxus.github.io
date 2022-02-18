@@ -1,7 +1,7 @@
 ---
 title: achoz
 description: chaos from a to z
-date: 2021-12-02 14:42:00
+date: 2022-01-06 22:42:00
 gallery: 2020-11-21 achoz
 image: /gallery/2020-11-21 achoz.jpeg
 permalink: achoz
@@ -25,46 +25,63 @@ menu: true
 
 **achoz**, by ahoxus, is a simple and free/libre open source app to organize and search through all your data offline-first (once you normalize it).
 
-(this is another way to view the [[uproot](/uproot)] project. they're both the same).
+(this is another way to look at the [[uproot](/uproot)] project. they're both the same).
 
-[[subscribe](/#subscribe)] for a better chance of [[joining](/join)] the beta release.
+[[subscribe on ahoxus](/#subscribe)] for very sporadic news over email.
+
+# roadmap
+
+early 2022 january
+
+broad vision, focused on search for now, from high to low priority
+
++ highest priority! **better and _useful_ results** (the search still doesn't bring anything useful)
++ link to directly open the found file (it works for images and videos already)
++ lowest priority: simple gui improvements
+  - link back to here (from the public page at the current #demonstration)
+  - page navigation on the top (for easier navigation)
+  - link to go to new search (basically a `/` link on "achoz" which should always be on the top as a title)
++ if possible: endless scrolling (very complex topic, as we still need links to each search result, with hashtags - never seen it done properly)
++ move the roadmap somewhere else: ideally a shared and public text/markdown file, perhaps with automatic versioning and easy diff... would a fediverse tool such as write.as suffice?
+
+[discussions](https://github.com/kcubeterm/achoz/discussions)
+
+[more details](https://github.com/kcubeterm/achoz/blob/master/Roadmap.md), while we find no better place for the constantly changing roadmap.
 
 # story
 
-cregox have a lot of data. files, emails, messages, web links, web content, etc. they a also are of different kinds; text, video, audio, apps, etc.
+you have a lot of data: files, emails, messages, web links, web content, text, video, audio, apps, etc.
 
-when trying to find something they do remember to be there, sometimes it gets impossible!
+when trying to find something you do remember to be there, sometimes it gets impossible!
 
-the goal of achoz is making cregox self-data-searching-life not only easier, but enable a new world of possibilities, in which they don't have to worry anymore how to store data for themselves (as long as it's stored with open and free standards).
+the goal of achoz is making your self-data-searching-life not only easier, but enable a new world of possibilities, in which you don't have to worry anymore how to store data for yourself (as long as it's stored with open and free standards).
 
-so a lot of it goes through self education to normalize the data a bit.
+we will also have all of your data synchronized across all your devices, and even the cloud if you want, with just one single search away to find whatever might be needed!
 
-after that, we have all of it replicated through all our devices and some cloud, with just one single search away to find whatever might be needed!
+you can, for instance, even turn 90gb of MP3 into 10gb with insignificant loss, so your whole library can easily be used everywhere.
 
-(on another instance, 90gb of MP3 will be turned into 10gb with insignificant loss, so the whole library can easily be used everywhere)
+# search
 
-# demonstration
+remember to use the "search in this page" as well! data here got purposefully messy and in a single chunk of a web page.
 
-please see the link below. it is still just a proof of concept.
+## demonstration
 
 the data there comes mostly at random from cregox personal files (around 15gb of them).
 
 it works even offline (if you can set it up yourself).
 
-it even shows images and videos (look for them).
+[achoz.ahoxus.org](http://achoz.ahoxus.org) ([source](https://github.com/kcubeterm/achoz))
 
-(beware they might be pornographic or otherwise disturbing for some viewers, while in alpha stage)
+[public alpha launch announcement](https://www.reddit.com/r/selfhosted/comments/rtc2q2/achoz_a_selfhost_search_engine_for_your_personal/)
 
-[achoz.ahoxus.org](http://achoz.ahoxus.org)
-
-# roadmap (outdated)
+# checklist
 
 ## first
 
-- create script #magictill to slim down files
-- create a search able to instantly search through all files
-- setup syncthing across all devices (done)
-- get a cloud server to be a linked device (done)
+- create script #magictill to radically slim down files
+- ∆ (on public alpha) create a search able to instantly search through all files
+- ✓ setup syncthing across all devices
+- ✓ get a cloud server to be a linked device
 
 ## second
 
@@ -74,48 +91,56 @@ it even shows images and videos (look for them).
 ## third
 
 - magictill should also facilitate file normalisation
-- make a new roadmap
-- get to all technical details
 
 # technical
+
+we must focus on agpl3+. all other license implies code being done without caring enough for the essential freedoms.
 
 ## talk
 
 using emails we can replace all your facebook and other such needs:
 
-- identity: opennic for free nameserver (in the long term) or ipv6 + self hosting
+- identity: open question. perhaps ipv6 + self hosting, or ipfs?
 - site: your unique profile using [#data](#data)
-- forums: a mailing list using sourcehut + fossil-scm
-- messengers: with delta chat and jitsi (plus telegram, telephones, and voip, for ringing), and perhaps briar
-- social media: mastodon, scuttlebutt
-- irc: much better with forums and messengers
+- forums: open question. perhaps a mailing list using sourcehut + fossil-scm, or nodebb?
+- messengers: delta chat and jitsi (plus telephones, and voip, for ringing), and perhaps briar and/or telegram (beware of tg!)
+- social media: mastodon/fediverse, scuttlebutt
+- irc: no mobile option as of 2021. forget about it! much better with forums and messengers
 
 ## data
 
-using [#**magictill**](#origin) scripts with termux, git and rsync, we replace most of your google/microsoft needs:
+ideas and existing tools for best data use and keep your data footprint to a minimum!
 
-- files: syncthing, nextcloud, fossil, and/or rsync
-- photos: magictill to reduce older unselected photos size periodically on files
-- music: any radio app? TK
-- videos: magictill plus lbry? TK
-- office: nextcloud and libre office? docs, sheets and slides TK
-- server: tilde clubs? TK netlify? anyway, any free servers work, easy to migrate with magictill, including dns
-- limits: magictill by default will lossly reduce all files (except marked ones) older than 1 year with minimal compression. 5 years gets maximum. 10 years they are deleted, but keep the name, checksum, and metadata.
+ps: [#**magictill**](#origin) script still in development, but we can also apply [the concept](https://github.com/kcubeterm/achoz/blob/master/Roadmap.md#magictill-slim-down-files) in practice, manually.
+    by default, it will reduce all media files (in selected folder) with maximum compression. then, the ones older than 1 year start to get much smaller until 8 years, when they get to the bare minimum size. 16 years without access, they are deleted, but we still keep the name, checksum, and metadata.
+
+- files: syncthing, fossil, and/or rsync (avoid nextcloud)
+- media: photos, videos, and audio will get reduced by magictill
+- music: with reduced audio file, no need to stream
+- office: docs, sheets, and slides? you need to learn markdown, python, and html
+- server: tilde clubs + raspberry pi + all free servers you can get (with small data footprint, you can spread it easily)
 
 ## money
 
-- ledger: from linux. with cone.
-- bank: bitcoin, of course... good to have money, even without any need for it!
+- ledger: from linux. with cone. allows for infinite money #aloze TK (look at the fediverse)
+- bank: bitcoin/blockchain (in 2021: uma and zcash for agpl, and even algorand for practical cheapest wallet), of course... good to have money, even without any need for it!
 
 ## search
 
-this is the most complex, yet, once everything else is set, it's also the simplest one to resolve!
-
 - google, bing: use searx instead. or duck.
-- pc: a #mobileofflinefirst webapp for lunr or meili, plus ripgrepall
+- personal computing: look at [#demonstration above](#demonstration) (a #mobileofflinefirst webapp for lunr or meili, plus ripgrepall (we ended up using first shiori and now only typesense)
 
 # subscribe
-[[subscribe](/#subscribe)] for a better chance of [[joining](/join)] the beta release.
+[[subscribe](/#subscribe)] for very sporadic news over email.
 
 # origin
 started based on [this description by cregox](http://cregox.net/achoz) (more links to some concepts there).
+
+# thanks
++ digital ocean, hub for good
++ github, free account
++ archive.org, lots of inspiration
++ fsf, free license and gnu linux
++ kcubeterm, collaborator
+
+plus so many missing names! please, let us know.

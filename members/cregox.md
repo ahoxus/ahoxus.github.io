@@ -46,16 +46,24 @@ rates: € 500.00/hour + travel + expenses. fixed fee quotes available. negotiab
 
 experience: have hacked and created software on over a dozen languages and stacks, in the past, for over 20 years. created whole commercial system solutions that remained working, untouched and unmaintained, for 15 years. helped rms with words through email, i guess 🤣. got an ubuntu touch phone as primary "wannabe" computing device (current one relies on android with termux) focusing on GNU programs. [ahoxus.org/cregox/resume](/cregox/resume)
 
-## contact
+# products
+
+[coming up soon, perhaps on gumroad](https://cregox.gumroad.com/).
+
+# contact
 
 obviously, cregox@ahoxus.org should work. also +351 918424479
 
-no suggestion below will work as the internet should... reason why we probably need to build achoz. but they do get pretty damn close to it!
+but i do prefer the fediverse nowadays:
 
-# mastodon
+## fediverse
 
-agpl for the win! check out [@cregox@banana.dog](https://banana.dog/web/accounts/255551#). (and go [here](https://banana.dog/invite/4UxD8Nuk) if you need an invitation link for whatever reason)
+currently moving from mastodon to pleroma, both built on #agpl for the win!
 
-# delta.chat
+check out [@cregox@talk.ahoxus.org](http://talk.ahoxus.org/cregox). 
 
-i still recommend [delta.chat messenger](https://cregox.net/delta) if you care for true and simple reliance of your own data.
+## delta.chat
+
+i still also recommend [delta.chat messenger](https://cregox.net/delta) if you care for true and simple reliance of your own data...
+
+it's much easier to setup than the fediverse, specially if you use a [[better email](/achoz#email)] (we use gandi.net).
