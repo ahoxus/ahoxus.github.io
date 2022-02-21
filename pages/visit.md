@@ -33,7 +33,7 @@ finally, here you can see the directions and come visit!
 
 - [map](/map)
 
-for now, you can see some things to expect on arriving here at airbnb, an unreleased project (we don't offer a typical "bed and breakfast", or even a typical wild camping but you may find it quite enough if you're very adventurous!).
+for now, you can see some (outdated) things to expect on arriving here at airbnb, an unreleased project (we don't offer a typical "bed and breakfast", or even a typical wild camping but you may find it quite enough if you're very adventurous!).
 
 - [more details (temporarily) on airbnb](https://airbnb.com/h/ahoxus)
 
