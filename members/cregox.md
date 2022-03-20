@@ -1,7 +1,7 @@
 ---
 title: cregox
 description: c+aue goes by too many names...
-date: 2021-12-07 05:22:00
+date: 2022-03-20 05:23:00
 subgallery: /cregox/
 image: /cregox/avatar.jpg
 permalink: cregox
@@ -36,6 +36,18 @@ both cregox and ahoxus sites will (soon enough) go through radical transformatio
 
 stay tuned! 😘
 
+# versioning
+
+right now, github hosts ahoxus main website.
+
+soon, we will migrate to a better and hopefully agpl'ed host. perhaps writefreely (see below).
+
+sadly, fossil and other git alternativas do not use agpl3+, so we shall continue with git for everything else...
+
+but keep in mind: git (like most agpl incompatible code) got it all wrong and fooled myself for way too long.
+
+time will tell.
+
 # services
 
 inspired by [gnu listing](https://www.gnu.org/prep/service.html)
@@ -54,13 +66,13 @@ experience: have hacked and created software on over a dozen languages and stack
 
 obviously, cregox@ahoxus.org should work. also +351 918424479
 
-but i do prefer the fediverse nowadays:
+but i do **prefer the fediverse** nowadays:
 
 ## fediverse
 
 currently moving from mastodon to pleroma, both built on #agpl for the win!
 
-check out [@cregox@talk.ahoxus.org](http://talk.ahoxus.org/cregox). 
+check out [@cregox@talk.ahoxus.org](http://talk.ahoxus.org/cregox) and [writefreely](//write.ahoxus.org).
 
 ## delta.chat
 
