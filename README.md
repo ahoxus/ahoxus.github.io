@@ -1,7 +1,7 @@
 # go to [ahoxus](https://ahoxus.org)
 
-sorry for still keeping my site on github.
+sorry for still keeping ahoxus on github.
 
-soon will migrate it elsewhere.
+soon we will migrate it elsewhere.
 
-already using the fediverse more than this, for updates.
+we gladly already use the fediverse over this, for updates.
