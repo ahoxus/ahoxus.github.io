@@ -23,8 +23,8 @@ more details (in portuguese) at [[olx](https://m.olx.pt/d/anuncio/oferta-hyundai
 
 + it's the most economic one.
 + even after 5 years and over 100 thousand km, it's still at 100%.
-+ charges from 5 to 94 in just 40 minutes.
-+ drive over 180km real scenario (vila real to coimbra).
++ charges from 5% to 94% in just 40 minutes.
++ drive up to 230km real scenario (vila real to coimbra).
 
 other highlights:
 + satisfaction guaranteed for 2 weeks: your money back if you're not happy with it (less 0.10 EUR per km)
@@ -63,6 +63,6 @@ benefits of an electrical cast in portugal:
 + practically no noise
 + completely with no emission and their smells
 
-only for sale or to trade in for bmw i3 (at least 94a) in excellent battery condition, or the xbus. we really need another car category now.
+only for sale or to trade in for xbus (or similar) in excellent battery condition. we really need another car category now.
 
-see below some reference pictures for the art we wanted to make on it.
+see below some reference pictures for the art we still want to make on it.
